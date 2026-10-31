@@ -23,7 +23,7 @@ from a3p.corpus.phrases import LANGS
 from a3p.egress import EgressProxy
 
 # Private Origin remote. Cloning does not publish the repository.
-CLONE_URL = "https://origin.cursor.com/git/valerio-bitzone/tmp-ddcaab0ba271100a.git"
+CLONE_URL = "https://github.com/valeriobitzone-png/a3p.git"
 DEFAULT_SEEDS = "1,2"
 
 CATALOG_URL = "https://openrouter.ai/api/v1/models"

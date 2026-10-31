@@ -326,7 +326,7 @@ def test_dashboard_in_a_browser(tmp_path: Path) -> None:
         server.shutdown()
     assert shot.stat().st_size > 5000
     assert overflow < 8
-    artifacts = Path("/opt/cursor/artifacts")
+    artifacts = Path(os.environ.get("A3P_ARTIFACTS_DIR", "artifacts"))
     try:
         if artifacts.is_dir():
             (artifacts / "dashboard.png").write_bytes(shot.read_bytes())

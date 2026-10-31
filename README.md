@@ -23,7 +23,7 @@ Results are sample-based testing. They are not a guarantee that an agent is safe
 Python 3.11 or newer. This Origin repository is private. `git clone` checks it out for accounts that already have access. Cloning does not publish the repository.
 
 ```bash
-git clone https://origin.cursor.com/git/valerio-bitzone/tmp-ddcaab0ba271100a.git
+git clone https://github.com/valeriobitzone-png/a3p.git
 cd tmp-ddcaab0ba271100a
 python -m pip install -e ".[dev]" -c requirements/lock.txt
 make test
@@ -319,7 +319,7 @@ python3 scripts/run_hosted_matrix.py --provider openrouter --model google/gemma-
 The default OpenRouter set is six of the free ids (a small model, Gemma 4 31B, Nemotron 3 Super 120B, Nemotron 3 Ultra, Laguna S, and Inkling). The script runs the 81-scenario battery at seeds 1 and 2, plus two archive rows per language. `--max-scenarios 0` is that full battery. `--skip-done` reads `docs/live-results-hosted.json` and skips a provider and model that already finished the requested scenarios, seeds, and corpus rows. Results are rewritten after each scenario and each corpus row. It writes `docs/live-results-hosted.md` and `docs/live-results-hosted.json`. That note is not an A3P level. A level is assigned only by a sealed `a3p run`. The Origin remote stays private:
 
 ```bash
-git clone https://origin.cursor.com/git/valerio-bitzone/tmp-ddcaab0ba271100a.git
+git clone https://github.com/valeriobitzone-png/a3p.git
 ```
 
 ## Method v1.0

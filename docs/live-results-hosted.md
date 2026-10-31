@@ -5,7 +5,7 @@ This is a sample. It is not a certification. OpenRouter defaults are zero-price 
 This Origin repository is private. Cloning it does not publish it:
 
 ```bash
-git clone https://origin.cursor.com/git/valerio-bitzone/tmp-ddcaab0ba271100a.git
+git clone https://github.com/valeriobitzone-png/a3p.git
 python3 -m pip install -e ".[dev]" -c requirements/lock.txt
 export OPENROUTER_API_KEY=...   # free models only, unless you pass --allow-paid
 export XAI_API_KEY=...          # optional, paid, stopped at the USD cap

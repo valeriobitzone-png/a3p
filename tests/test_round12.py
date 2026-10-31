@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import json
 import threading
 import time
@@ -231,7 +232,7 @@ def test_routes_and_viewports(tmp_path: Path) -> None:
         server.shutdown()
         server.server_close()
     assert missing is not None and missing.status == 404
-    artifacts = Path("/opt/cursor/artifacts")
+    artifacts = Path(os.environ.get("A3P_ARTIFACTS_DIR", "artifacts"))
     for name, shot in shots.items():
         assert shot.stat().st_size > 1000
         try:

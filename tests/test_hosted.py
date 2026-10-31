@@ -238,7 +238,7 @@ def test_catalog_fetch_and_cli_dry_run(tmp_path, monkeypatch):
     saved = json.loads((tmp_path / "live-results-hosted.json").read_text(encoding="utf-8"))
     assert saved["seeds"] == [1, 2]
     assert saved["scenario_count"] == 1
-    assert "git clone https://origin.cursor.com/" in (tmp_path / "live-results-hosted.md").read_text(encoding="utf-8")
+    assert "git clone https://github.com/" in (tmp_path / "live-results-hosted.md").read_text(encoding="utf-8")
     assert main(["--no-fetch", "--skip-done", "--max-scenarios", "0", "--corpus-per-language", "0", "--out", str(tmp_path)]) == 0
     resumed = json.loads((tmp_path / "live-results-hosted.json").read_text(encoding="utf-8"))
     assert resumed["scenario_count"] == 81
