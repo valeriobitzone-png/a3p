@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/cover.png" alt="A3P · A3 Probe" width="100%"></p>
+
 # A3P (A3 Probe)
 
 <!-- SPDX-License-Identifier: AGPL-3.0-only -->
