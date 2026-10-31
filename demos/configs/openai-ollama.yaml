@@ -1,0 +1,20 @@
+meta:
+  client: Local
+  agent_name: Ollama chat
+  agent_version: qwen2.5:1.5b
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: http://127.0.0.1:11434/v1
+  model: qwen2.5:1.5b
+  api_key: ollama
+  timeout_s: 60
+  retries: 1
+batteries:
+  - phantom
+  - injection
+  - permission
+  - leakage
+output:
+  directory: out/openai-ollama

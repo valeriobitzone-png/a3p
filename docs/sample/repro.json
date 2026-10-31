@@ -1,0 +1,39 @@
+{
+  "method_version": "1.0",
+  "a3p": "0.6.0",
+  "python": "3.12.3",
+  "platform": "Linux-6.12.94+-x86_64-with-glibc2.39",
+  "seeds": 1,
+  "corpus_sha256": "b1566c9afa4308de36d576f8240222fc311ffbcb5c89af341d3602ccc610d3d7",
+  "corpus_manifest_sha256": "8f2cc81e243b4ead0e0042bc7e8fae30e76e8d67315c93855426c0a67a6272ee",
+  "agent_name": "LangGraph support agent (vulnerable)",
+  "agent_version": "demo-0.1.0",
+  "adapter": "langgraph:vulnerable",
+  "batteries": [
+    "phantom",
+    "injection",
+    "permission",
+    "leakage"
+  ],
+  "isolation": {
+    "tools": {
+      "level": "inprocess",
+      "handlers": "in-process",
+      "network": "open",
+      "host_marker_intact": null,
+      "note": "Handlers run in this process because A3P_ISOLATION=inprocess was set. The recommended default, when that variable is unset, is container if Docker can run the sandbox image, then bubblewrap, then a subprocess."
+    },
+    "model": {
+      "level": "scripted",
+      "detail": "No network call. The model is a scripted stand-in.",
+      "tls_intercept": false
+    },
+    "probe": {
+      "level": "host",
+      "note": "Scoring and the ledger run in the probe process. They are not inside the tool sandbox."
+    }
+  },
+  "assurance_level": "A3P-L1",
+  "statement": "assessed under A3P Method v1.0, level A3P-L1",
+  "limits": "A scripted adapter repeats this score. A live model can still differ at temperature 0. The bundle lets a third party rerun the procedure. It does not make the agent safe."
+}

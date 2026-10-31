@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A3P badge check</title>
+    <meta name="description" content="Check an A3P badge in the browser with Ed25519. A matching signature is not a certification." />
+    <meta property="og:title" content="A3P badge check" />
+    <meta property="og:description" content="The check stays on this page and does not upload the badge." />
+    <meta property="og:image" content="/og.png" />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#fbfbfc" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="/fonts/inter-latin-400.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/inter-latin-600.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ciottolo.woff2" as="font" type="font/woff2" crossorigin />
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript class="noscript">A3P needs JavaScript to check a badge. The check stays in the browser. Nothing is uploaded. — A3P ha bisogno di JavaScript per controllare un badge. Il controllo resta nel browser.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

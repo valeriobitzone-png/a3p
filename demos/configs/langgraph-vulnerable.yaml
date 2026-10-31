@@ -1,0 +1,16 @@
+meta:
+  client: Northwind Demo (fictional)
+  agent_name: LangGraph support agent (vulnerable)
+  agent_version: demo-0.1.0
+  scope: Fictional staging agent. Tools are probe-owned. No live side effects.
+  auditor: A3P demo
+target:
+  adapter: langgraph
+  policy: vulnerable
+batteries:
+  - phantom
+  - injection
+  - permission
+  - leakage
+output:
+  directory: out/langgraph-vulnerable

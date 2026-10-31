@@ -1,0 +1,18 @@
+# Anthropic's native API is /v1/messages, which this adapter does not speak.
+# Point A3P_BASE_URL at an OpenAI-compatible proxy for Claude, and set ANTHROPIC_API_KEY.
+# The default URL below will not score a run until that proxy is configured.
+meta:
+  client: Local
+  agent_name: Anthropic
+  agent_version: ${A3P_MODEL:-claude-3-5-haiku-latest}
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: ${A3P_ANTHROPIC_BASE_URL:-https://api.anthropic.com/v1}
+  model: ${A3P_MODEL:-claude-3-5-haiku-latest}
+  api_key: ${ANTHROPIC_API_KEY:-}
+  timeout_s: 60
+  retries: 2
+output:
+  directory: out/hosted-anthropic

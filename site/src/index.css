@@ -1,0 +1,157 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/inter-latin-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/inter-latin-500.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/inter-latin-600.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/inter-latin-700.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Ciottolo;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/Ciottolo.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/source-serif-pro-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/source-serif-pro-600.woff2") format("woff2");
+}
+
+:root {
+  color-scheme: light;
+  --color-base-100: #fbfbfc;
+  --color-base-200: #f3f4f6;
+  --color-base-300: #e6e8ec;
+  --color-base-content: #12141a;
+  --color-primary: #1c4e6e;
+  --color-primary-content: #f4f7fa;
+  --color-secondary: #8a3d2f;
+  --color-secondary-content: #fff8f6;
+  --color-accent: #1d6b45;
+  --color-accent-content: #f3faf6;
+  --color-neutral: #12141a;
+  --color-neutral-content: #f4f6f8;
+  --color-info: #1c4e6e;
+  --color-info-content: #f4f7fa;
+  --color-success: #1d6b45;
+  --color-success-content: #f3faf6;
+  --color-warning: #8a5a12;
+  --color-warning-content: #fff8ee;
+  --color-error: #8a3d2f;
+  --color-error-content: #fff8f6;
+  --radius-selector: 0.5rem;
+  --radius-field: 0.7rem;
+  --radius-box: 1rem;
+  --size-selector: 0.25rem;
+  --size-field: 0.25rem;
+  --border: 1px;
+  --depth: 0;
+  --noise: 0;
+  --font-sans: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+@theme {
+  --font-sans: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+  background: #fbfbfc;
+  color: #12141a;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: inherit;
+  background: #fbfbfc;
+  color: #12141a;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Ciottolo, Inter, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid #1c4e6e;
+  outline-offset: 2px;
+}
+
+a[aria-current="page"] {
+  font-weight: 600;
+}
+
+input.a3p-field,
+textarea.a3p-field {
+  width: 100%;
+  max-width: none;
+}
+
+textarea.a3p-field {
+  height: auto;
+  min-height: 14rem;
+}
+
+.noscript {
+  display: block;
+  margin: 1rem auto;
+  max-width: 40rem;
+  padding: 1rem;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}

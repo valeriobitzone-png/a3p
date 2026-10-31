@@ -1,0 +1,16 @@
+Vendored, unmodified, from the A3 project.
+
+Source: https://github.com/valeriobitzone-png/a3
+Path: python/a3ep/__init__.py
+Commit: 86a9a57dd85684f21654f61c75e6785927103175
+Spec: A3-EP 0.2.0 (Proposed Standard), file spec/SPEC_A3-EP.md
+License: Apache-2.0 (see the repository NOTICE and LICENSE)
+Package version string inside the module: 0.2.0a1
+
+This copy is the truth element of A3-EP CORE only (truth class, provenance,
+promotion, and the CF-001 / CF-002 / CF-003 / CF-005 / TR-003 rejects).
+Envelope, ordering, and confidence are not in this file. They live in the
+Kotlin, Go, and TypeScript implementations of A3.
+
+A3 Probe does not modify this module. CF-001 is applied here as a library:
+a tool receipt is OBSERVATION, and FACT from a receipt is rejected.

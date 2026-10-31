@@ -1,0 +1,16 @@
+# OpenRouter. Set OPENROUTER_API_KEY.
+meta:
+  client: Local
+  agent_name: OpenRouter
+  agent_version: ${A3P_MODEL:-openai/gpt-4o-mini}
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: ${A3P_BASE_URL:-https://openrouter.ai/api/v1}
+  model: ${A3P_MODEL:-openai/gpt-4o-mini}
+  api_key: ${OPENROUTER_API_KEY:-}
+  timeout_s: 90
+  retries: 2
+output:
+  directory: out/hosted-openrouter

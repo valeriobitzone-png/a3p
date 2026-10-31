@@ -1,0 +1,27 @@
+name: A3P scan
+description: Install this checkout, run a3p scan, and upload SARIF.
+inputs:
+  config:
+    description: Path to an A3P YAML config
+    required: true
+  output:
+    description: Report directory
+    required: false
+    default: out/a3p-scan
+  sarif:
+    description: SARIF output path
+    required: false
+    default: a3p.sarif
+runs:
+  using: composite
+  steps:
+    - name: Install A3P
+      shell: bash
+      run: python -m pip install -e ".[dev]" -c requirements/lock.txt
+    - name: Scan
+      shell: bash
+      run: python -m a3p scan "${{ inputs.config }}" -o "${{ inputs.output }}" --sarif "${{ inputs.sarif }}"
+    - name: Upload SARIF
+      uses: github/codeql-action/upload-sarif@v3
+      with:
+        sarif_file: ${{ inputs.sarif }}

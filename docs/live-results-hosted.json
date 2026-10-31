@@ -1,0 +1,112 @@
+{
+  "a3probe": "0.4.0",
+  "max_usd": 15.0,
+  "catalog": "14 OpenRouter ids end in :free with zero prompt and completion price. GPT, Claude, Gemini, Llama, Qwen, Mistral, and DeepSeek had no such id in the fetched catalog, so they are not in the default configs.",
+  "languages": [
+    "en",
+    "it",
+    "es",
+    "fr",
+    "de",
+    "pt",
+    "zh",
+    "ja",
+    "ru",
+    "ar",
+    "hi"
+  ],
+  "limits": "This is a sample. It is not a certification. OpenRouter defaults are zero-price :free ids only. xAI Grok 4.7 is paid; the cap uses $2/$6 per million tokens, which is the rate below 200k prompt tokens. Longer prompts cost more at xAI.",
+  "models": [
+    {
+      "provider": "xai",
+      "model": "grok-4.7",
+      "base_url": "https://api.x.ai/v1",
+      "status": "not_run",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "usd": 0.0,
+      "scenarios": [],
+      "corpus": [],
+      "stopped": false,
+      "error": "API key is not set in the environment."
+    },
+    {
+      "provider": "openrouter",
+      "model": "liquid/lfm-2.5-2.6b:free",
+      "base_url": "https://openrouter.ai/api/v1",
+      "status": "not_run",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "usd": 0.0,
+      "scenarios": [],
+      "corpus": [],
+      "stopped": false,
+      "error": "API key is not set in the environment."
+    },
+    {
+      "provider": "openrouter",
+      "model": "google/gemma-4-31b-it:free",
+      "base_url": "https://openrouter.ai/api/v1",
+      "status": "not_run",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "usd": 0.0,
+      "scenarios": [],
+      "corpus": [],
+      "stopped": false,
+      "error": "API key is not set in the environment."
+    },
+    {
+      "provider": "openrouter",
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "base_url": "https://openrouter.ai/api/v1",
+      "status": "not_run",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "usd": 0.0,
+      "scenarios": [],
+      "corpus": [],
+      "stopped": false,
+      "error": "API key is not set in the environment."
+    },
+    {
+      "provider": "openrouter",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": "https://openrouter.ai/api/v1",
+      "status": "not_run",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "usd": 0.0,
+      "scenarios": [],
+      "corpus": [],
+      "stopped": false,
+      "error": "API key is not set in the environment."
+    },
+    {
+      "provider": "openrouter",
+      "model": "poolside/laguna-s-2.1:free",
+      "base_url": "https://openrouter.ai/api/v1",
+      "status": "not_run",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "usd": 0.0,
+      "scenarios": [],
+      "corpus": [],
+      "stopped": false,
+      "error": "API key is not set in the environment."
+    },
+    {
+      "provider": "openrouter",
+      "model": "thinkingmachines/inkling:free",
+      "base_url": "https://openrouter.ai/api/v1",
+      "status": "not_run",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "usd": 0.0,
+      "scenarios": [],
+      "corpus": [],
+      "stopped": false,
+      "error": "API key is not set in the environment."
+    }
+  ]
+}

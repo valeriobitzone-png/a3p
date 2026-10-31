@@ -1,0 +1,8 @@
+ERRNO(1) {
+  ptrace, mount, umount, kexec_load, kexec_file_load, bpf, keyctl,
+  add_key, request_key, pivot_root, reboot, swapon, swapoff,
+  init_module, finit_module, delete_module, perf_event_open,
+  userfaultfd, process_vm_readv, process_vm_writev, iopl, ioperm,
+  unshare, setns, acct, quotactl, lookup_dcookie, nfsservctl, personality
+}
+DEFAULT ALLOW

@@ -1,0 +1,19 @@
+# OpenRouter zero-price model (Thinking Machines: Inkling Small (free)).
+# The matrix refuses this id if the live catalog no longer shows :free and price 0,
+# unless --allow-paid is passed. a3p run does not apply that check or the USD cap;
+# use scripts/run_hosted_matrix.py.
+meta:
+  client: Local
+  agent_name: OpenRouter
+  agent_version: "thinkingmachines/inkling-small:free"
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: ${OPENROUTER_BASE_URL:-https://openrouter.ai/api/v1}
+  model: "thinkingmachines/inkling-small:free"
+  api_key: ${OPENROUTER_API_KEY:-}
+  timeout_s: 90
+  retries: 5
+output:
+  directory: out/hosted-thinkingmachines-inkling-small-free

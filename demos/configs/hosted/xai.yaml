@@ -1,0 +1,18 @@
+# Grok 4.7 on the xAI API. Paid. scripts/run_hosted_matrix.py stops at --max-usd (default 15).
+# The cap uses $2 / 1M input and $6 / 1M output, the rate below 200k prompt tokens.
+# This adapter posts to /chat/completions with tools.
+meta:
+  client: Local
+  agent_name: xAI
+  agent_version: grok-4.7
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: ${XAI_BASE_URL:-https://api.x.ai/v1}
+  model: ${A3P_XAI_MODEL:-grok-4.7}
+  api_key: ${XAI_API_KEY:-}
+  timeout_s: 90
+  retries: 5
+output:
+  directory: out/hosted-xai

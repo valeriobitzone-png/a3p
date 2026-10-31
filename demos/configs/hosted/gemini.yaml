@@ -1,0 +1,16 @@
+# Google's OpenAI-compatible Gemini endpoint. Set GEMINI_API_KEY or GOOGLE_API_KEY.
+meta:
+  client: Local
+  agent_name: Gemini
+  agent_version: ${A3P_MODEL:-gemini-2.0-flash}
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: ${A3P_BASE_URL:-https://generativelanguage.googleapis.com/v1beta/openai}
+  model: ${A3P_MODEL:-gemini-2.0-flash}
+  api_key: ${GEMINI_API_KEY:-}
+  timeout_s: 60
+  retries: 2
+output:
+  directory: out/hosted-gemini

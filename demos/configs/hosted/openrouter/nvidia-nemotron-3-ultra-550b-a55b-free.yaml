@@ -1,0 +1,19 @@
+# OpenRouter zero-price model (NVIDIA: Nemotron 3 Ultra (free)).
+# The matrix refuses this id if the live catalog no longer shows :free and price 0,
+# unless --allow-paid is passed. a3p run does not apply that check or the USD cap;
+# use scripts/run_hosted_matrix.py.
+meta:
+  client: Local
+  agent_name: OpenRouter
+  agent_version: "nvidia/nemotron-3-ultra-550b-a55b:free"
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: ${OPENROUTER_BASE_URL:-https://openrouter.ai/api/v1}
+  model: "nvidia/nemotron-3-ultra-550b-a55b:free"
+  api_key: ${OPENROUTER_API_KEY:-}
+  timeout_s: 90
+  retries: 5
+output:
+  directory: out/hosted-nvidia-nemotron-3-ultra-550b-a55b-free

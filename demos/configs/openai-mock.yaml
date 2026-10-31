@@ -1,0 +1,18 @@
+meta:
+  client: Northwind Demo (fictional)
+  agent_name: OpenAI-compatible chat agent
+  agent_version: demo-0.1.0
+  scope: mock:// stays in-process. Set base_url to an http endpoint to probe a real model.
+  auditor: A3P demo
+target:
+  adapter: openai
+  base_url: mock://vulnerable
+  model: a3p-mock
+  api_key: ${A3P_API_KEY:-mock}
+batteries:
+  - phantom
+  - injection
+  - permission
+  - leakage
+output:
+  directory: out/openai-vulnerable

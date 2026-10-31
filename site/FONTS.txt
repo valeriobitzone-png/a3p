@@ -1,0 +1,15 @@
+Inter is the typeface for body text, buttons, labels, and the A3P wordmark.
+The Inter woff2 files are the Latin subset from Fontsource (Inter 5.2.8),
+which distributes the Google Fonts build.
+Inter is licensed under the SIL Open Font License 1.1.
+
+Ciottolo is the owner's display face, used only for h1, h2, and h3.
+Ciottolo.woff2 is self-hosted. It covers space, basic punctuation, digits,
+A-Z, a-z, Italian accented vowels, and the apostrophe ’ .
+A heading character outside that set falls back to Inter.
+
+Source Serif Pro is used only inside the G3 badge, for the level and the agent name.
+The files are the Latin subset from Fontsource (source-serif-pro 5.2.5), SIL Open Font License 1.1.
+Headings stay in Ciottolo. Body text stays in Inter.
+
+The pages do not request a font host at runtime.

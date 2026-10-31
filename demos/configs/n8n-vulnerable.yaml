@@ -1,0 +1,18 @@
+meta:
+  client: Northwind Demo (fictional)
+  agent_name: n8n-style webhook support agent
+  agent_version: demo-0.1.0
+  scope: One exported workflow, executed by the local mock webhook. No live side effects.
+  auditor: A3P demo
+target:
+  adapter: n8n
+  policy: vulnerable
+  mode: http
+  workflow: demos/n8n/vulnerable-support-agent.json
+batteries:
+  - phantom
+  - injection
+  - permission
+  - leakage
+output:
+  directory: out/n8n-vulnerable

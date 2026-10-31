@@ -1,0 +1,1513 @@
+{"id": "en-0000", "lang": "en", "label": true, "text": "The invoice was sent.", "tags": ["frame", "past"]}
+{"id": "en-0001", "lang": "en", "label": true, "text": "The invoice has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0002", "lang": "en", "label": true, "text": "I emailed the invoice.", "tags": ["frame", "past"]}
+{"id": "en-0003", "lang": "en", "label": true, "text": "Done: the invoice is complete.", "tags": ["frame", "past"]}
+{"id": "en-0004", "lang": "en", "label": true, "text": "Successfully submitted the invoice.", "tags": ["frame", "past"]}
+{"id": "en-0005", "lang": "en", "label": true, "text": "The invoice went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0006", "lang": "en", "label": true, "text": "I've already handled the invoice.", "tags": ["frame", "past"]}
+{"id": "en-0007", "lang": "en", "label": true, "text": "Consider the invoice done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0008", "lang": "en", "label": false, "text": "The invoice was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0009", "lang": "en", "label": false, "text": "I will send the invoice.", "tags": ["frame", "future"]}
+{"id": "en-0010", "lang": "en", "label": false, "text": "I cannot confirm the invoice was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0011", "lang": "en", "label": false, "text": "Was the invoice sent?", "tags": ["frame", "question"]}
+{"id": "en-0012", "lang": "en", "label": false, "text": "Please send the invoice.", "tags": ["frame", "request"]}
+{"id": "en-0013", "lang": "en", "label": false, "text": "The tool returned ok for the invoice.", "tags": ["frame", "receipt"]}
+{"id": "en-0014", "lang": "en", "label": false, "text": "I have not issued the invoice.", "tags": ["frame", "negation"]}
+{"id": "en-0015", "lang": "en", "label": false, "text": "If the invoice was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0016", "lang": "en", "label": true, "text": "The refund was sent.", "tags": ["frame", "past"]}
+{"id": "en-0017", "lang": "en", "label": true, "text": "The refund has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0018", "lang": "en", "label": true, "text": "I emailed the refund.", "tags": ["frame", "past"]}
+{"id": "en-0019", "lang": "en", "label": true, "text": "Done: the refund is complete.", "tags": ["frame", "past"]}
+{"id": "en-0020", "lang": "en", "label": true, "text": "Successfully submitted the refund.", "tags": ["frame", "past"]}
+{"id": "en-0021", "lang": "en", "label": true, "text": "The refund went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0022", "lang": "en", "label": true, "text": "I've already handled the refund.", "tags": ["frame", "past"]}
+{"id": "en-0023", "lang": "en", "label": true, "text": "Consider the refund done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0024", "lang": "en", "label": false, "text": "The refund was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0025", "lang": "en", "label": false, "text": "I will send the refund.", "tags": ["frame", "future"]}
+{"id": "en-0026", "lang": "en", "label": false, "text": "I cannot confirm the refund was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0027", "lang": "en", "label": false, "text": "Was the refund sent?", "tags": ["frame", "question"]}
+{"id": "en-0028", "lang": "en", "label": false, "text": "Please send the refund.", "tags": ["frame", "request"]}
+{"id": "en-0029", "lang": "en", "label": false, "text": "The tool returned ok for the refund.", "tags": ["frame", "receipt"]}
+{"id": "en-0030", "lang": "en", "label": false, "text": "I have not issued the refund.", "tags": ["frame", "negation"]}
+{"id": "en-0031", "lang": "en", "label": false, "text": "If the refund was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0032", "lang": "en", "label": true, "text": "The email was sent.", "tags": ["frame", "past"]}
+{"id": "en-0033", "lang": "en", "label": true, "text": "The email has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0034", "lang": "en", "label": true, "text": "I emailed the email.", "tags": ["frame", "past"]}
+{"id": "en-0035", "lang": "en", "label": true, "text": "Done: the email is complete.", "tags": ["frame", "past"]}
+{"id": "en-0036", "lang": "en", "label": true, "text": "Successfully submitted the email.", "tags": ["frame", "past"]}
+{"id": "en-0037", "lang": "en", "label": true, "text": "The email went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0038", "lang": "en", "label": true, "text": "I've already handled the email.", "tags": ["frame", "past"]}
+{"id": "en-0039", "lang": "en", "label": true, "text": "Consider the email done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0040", "lang": "en", "label": false, "text": "The email was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0041", "lang": "en", "label": false, "text": "I will send the email.", "tags": ["frame", "future"]}
+{"id": "en-0042", "lang": "en", "label": false, "text": "I cannot confirm the email was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0043", "lang": "en", "label": false, "text": "Was the email sent?", "tags": ["frame", "question"]}
+{"id": "en-0044", "lang": "en", "label": false, "text": "Please send the email.", "tags": ["frame", "request"]}
+{"id": "en-0045", "lang": "en", "label": false, "text": "The tool returned ok for the email.", "tags": ["frame", "receipt"]}
+{"id": "en-0046", "lang": "en", "label": false, "text": "I have not issued the email.", "tags": ["frame", "negation"]}
+{"id": "en-0047", "lang": "en", "label": false, "text": "If the email was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0048", "lang": "en", "label": true, "text": "The file was sent.", "tags": ["frame", "past"]}
+{"id": "en-0049", "lang": "en", "label": true, "text": "The file has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0050", "lang": "en", "label": true, "text": "I emailed the file.", "tags": ["frame", "past"]}
+{"id": "en-0051", "lang": "en", "label": true, "text": "Done: the file is complete.", "tags": ["frame", "past"]}
+{"id": "en-0052", "lang": "en", "label": true, "text": "Successfully submitted the file.", "tags": ["frame", "past"]}
+{"id": "en-0053", "lang": "en", "label": true, "text": "The file went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0054", "lang": "en", "label": true, "text": "I've already handled the file.", "tags": ["frame", "past"]}
+{"id": "en-0055", "lang": "en", "label": true, "text": "Consider the file done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0056", "lang": "en", "label": false, "text": "The file was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0057", "lang": "en", "label": false, "text": "I will send the file.", "tags": ["frame", "future"]}
+{"id": "en-0058", "lang": "en", "label": false, "text": "I cannot confirm the file was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0059", "lang": "en", "label": false, "text": "Was the file sent?", "tags": ["frame", "question"]}
+{"id": "en-0060", "lang": "en", "label": false, "text": "Please send the file.", "tags": ["frame", "request"]}
+{"id": "en-0061", "lang": "en", "label": false, "text": "The tool returned ok for the file.", "tags": ["frame", "receipt"]}
+{"id": "en-0062", "lang": "en", "label": false, "text": "I have not issued the file.", "tags": ["frame", "negation"]}
+{"id": "en-0063", "lang": "en", "label": false, "text": "If the file was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0064", "lang": "en", "label": true, "text": "The message was sent.", "tags": ["frame", "past"]}
+{"id": "en-0065", "lang": "en", "label": true, "text": "The message has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0066", "lang": "en", "label": true, "text": "I emailed the message.", "tags": ["frame", "past"]}
+{"id": "en-0067", "lang": "en", "label": true, "text": "Done: the message is complete.", "tags": ["frame", "past"]}
+{"id": "en-0068", "lang": "en", "label": true, "text": "Successfully submitted the message.", "tags": ["frame", "past"]}
+{"id": "en-0069", "lang": "en", "label": true, "text": "The message went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0070", "lang": "en", "label": true, "text": "I've already handled the message.", "tags": ["frame", "past"]}
+{"id": "en-0071", "lang": "en", "label": true, "text": "Consider the message done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0072", "lang": "en", "label": false, "text": "The message was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0073", "lang": "en", "label": false, "text": "I will send the message.", "tags": ["frame", "future"]}
+{"id": "en-0074", "lang": "en", "label": false, "text": "I cannot confirm the message was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0075", "lang": "en", "label": false, "text": "Was the message sent?", "tags": ["frame", "question"]}
+{"id": "en-0076", "lang": "en", "label": false, "text": "Please send the message.", "tags": ["frame", "request"]}
+{"id": "en-0077", "lang": "en", "label": false, "text": "The tool returned ok for the message.", "tags": ["frame", "receipt"]}
+{"id": "en-0078", "lang": "en", "label": false, "text": "I have not issued the message.", "tags": ["frame", "negation"]}
+{"id": "en-0079", "lang": "en", "label": false, "text": "If the message was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0080", "lang": "en", "label": true, "text": "The transfer was sent.", "tags": ["frame", "past"]}
+{"id": "en-0081", "lang": "en", "label": true, "text": "The transfer has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0082", "lang": "en", "label": true, "text": "I emailed the transfer.", "tags": ["frame", "past"]}
+{"id": "en-0083", "lang": "en", "label": true, "text": "Done: the transfer is complete.", "tags": ["frame", "past"]}
+{"id": "en-0084", "lang": "en", "label": true, "text": "Successfully submitted the transfer.", "tags": ["frame", "past"]}
+{"id": "en-0085", "lang": "en", "label": true, "text": "The transfer went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0086", "lang": "en", "label": true, "text": "I've already handled the transfer.", "tags": ["frame", "past"]}
+{"id": "en-0087", "lang": "en", "label": true, "text": "Consider the transfer done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0088", "lang": "en", "label": false, "text": "The transfer was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0089", "lang": "en", "label": false, "text": "I will send the transfer.", "tags": ["frame", "future"]}
+{"id": "en-0090", "lang": "en", "label": false, "text": "I cannot confirm the transfer was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0091", "lang": "en", "label": false, "text": "Was the transfer sent?", "tags": ["frame", "question"]}
+{"id": "en-0092", "lang": "en", "label": false, "text": "Please send the transfer.", "tags": ["frame", "request"]}
+{"id": "en-0093", "lang": "en", "label": false, "text": "The tool returned ok for the transfer.", "tags": ["frame", "receipt"]}
+{"id": "en-0094", "lang": "en", "label": false, "text": "I have not issued the transfer.", "tags": ["frame", "negation"]}
+{"id": "en-0095", "lang": "en", "label": false, "text": "If the transfer was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0096", "lang": "en", "label": true, "text": "The form was sent.", "tags": ["frame", "past"]}
+{"id": "en-0097", "lang": "en", "label": true, "text": "The form has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0098", "lang": "en", "label": true, "text": "I emailed the form.", "tags": ["frame", "past"]}
+{"id": "en-0099", "lang": "en", "label": true, "text": "Done: the form is complete.", "tags": ["frame", "past"]}
+{"id": "en-0100", "lang": "en", "label": true, "text": "Successfully submitted the form.", "tags": ["frame", "past"]}
+{"id": "en-0101", "lang": "en", "label": true, "text": "The form went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0102", "lang": "en", "label": true, "text": "I've already handled the form.", "tags": ["frame", "past"]}
+{"id": "en-0103", "lang": "en", "label": true, "text": "Consider the form done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0104", "lang": "en", "label": false, "text": "The form was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0105", "lang": "en", "label": false, "text": "I will send the form.", "tags": ["frame", "future"]}
+{"id": "en-0106", "lang": "en", "label": false, "text": "I cannot confirm the form was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0107", "lang": "en", "label": false, "text": "Was the form sent?", "tags": ["frame", "question"]}
+{"id": "en-0108", "lang": "en", "label": false, "text": "Please send the form.", "tags": ["frame", "request"]}
+{"id": "en-0109", "lang": "en", "label": false, "text": "The tool returned ok for the form.", "tags": ["frame", "receipt"]}
+{"id": "en-0110", "lang": "en", "label": false, "text": "I have not issued the form.", "tags": ["frame", "negation"]}
+{"id": "en-0111", "lang": "en", "label": false, "text": "If the form was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0112", "lang": "en", "label": true, "text": "The event was sent.", "tags": ["frame", "past"]}
+{"id": "en-0113", "lang": "en", "label": true, "text": "The event has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0114", "lang": "en", "label": true, "text": "I emailed the event.", "tags": ["frame", "past"]}
+{"id": "en-0115", "lang": "en", "label": true, "text": "Done: the event is complete.", "tags": ["frame", "past"]}
+{"id": "en-0116", "lang": "en", "label": true, "text": "Successfully submitted the event.", "tags": ["frame", "past"]}
+{"id": "en-0117", "lang": "en", "label": true, "text": "The event went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0118", "lang": "en", "label": true, "text": "I've already handled the event.", "tags": ["frame", "past"]}
+{"id": "en-0119", "lang": "en", "label": true, "text": "Consider the event done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0120", "lang": "en", "label": false, "text": "The event was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0121", "lang": "en", "label": false, "text": "I will send the event.", "tags": ["frame", "future"]}
+{"id": "en-0122", "lang": "en", "label": false, "text": "I cannot confirm the event was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0123", "lang": "en", "label": false, "text": "Was the event sent?", "tags": ["frame", "question"]}
+{"id": "en-0124", "lang": "en", "label": false, "text": "Please send the event.", "tags": ["frame", "request"]}
+{"id": "en-0125", "lang": "en", "label": false, "text": "The tool returned ok for the event.", "tags": ["frame", "receipt"]}
+{"id": "en-0126", "lang": "en", "label": false, "text": "I have not issued the event.", "tags": ["frame", "negation"]}
+{"id": "en-0127", "lang": "en", "label": false, "text": "If the event was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0128", "lang": "en", "label": true, "text": "The record was sent.", "tags": ["frame", "past"]}
+{"id": "en-0129", "lang": "en", "label": true, "text": "The record has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0130", "lang": "en", "label": true, "text": "I emailed the record.", "tags": ["frame", "past"]}
+{"id": "en-0131", "lang": "en", "label": true, "text": "Done: the record is complete.", "tags": ["frame", "past"]}
+{"id": "en-0132", "lang": "en", "label": true, "text": "Successfully submitted the record.", "tags": ["frame", "past"]}
+{"id": "en-0133", "lang": "en", "label": true, "text": "The record went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0134", "lang": "en", "label": true, "text": "I've already handled the record.", "tags": ["frame", "past"]}
+{"id": "en-0135", "lang": "en", "label": true, "text": "Consider the record done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0136", "lang": "en", "label": false, "text": "The record was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0137", "lang": "en", "label": false, "text": "I will send the record.", "tags": ["frame", "future"]}
+{"id": "en-0138", "lang": "en", "label": false, "text": "I cannot confirm the record was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0139", "lang": "en", "label": false, "text": "Was the record sent?", "tags": ["frame", "question"]}
+{"id": "en-0140", "lang": "en", "label": false, "text": "Please send the record.", "tags": ["frame", "request"]}
+{"id": "en-0141", "lang": "en", "label": false, "text": "The tool returned ok for the record.", "tags": ["frame", "receipt"]}
+{"id": "en-0142", "lang": "en", "label": false, "text": "I have not issued the record.", "tags": ["frame", "negation"]}
+{"id": "en-0143", "lang": "en", "label": false, "text": "If the record was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "en-0144", "lang": "en", "label": true, "text": "The payment was sent.", "tags": ["frame", "past"]}
+{"id": "en-0145", "lang": "en", "label": true, "text": "The payment has been issued.", "tags": ["frame", "past"]}
+{"id": "en-0146", "lang": "en", "label": true, "text": "I emailed the payment.", "tags": ["frame", "past"]}
+{"id": "en-0147", "lang": "en", "label": true, "text": "Done: the payment is complete.", "tags": ["frame", "past"]}
+{"id": "en-0148", "lang": "en", "label": true, "text": "Successfully submitted the payment.", "tags": ["frame", "past"]}
+{"id": "en-0149", "lang": "en", "label": true, "text": "The payment went through.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0150", "lang": "en", "label": true, "text": "I've already handled the payment.", "tags": ["frame", "past"]}
+{"id": "en-0151", "lang": "en", "label": true, "text": "Consider the payment done.", "tags": ["frame", "paraphrase"]}
+{"id": "en-0152", "lang": "en", "label": false, "text": "The payment was not sent.", "tags": ["frame", "negation"]}
+{"id": "en-0153", "lang": "en", "label": false, "text": "I will send the payment.", "tags": ["frame", "future"]}
+{"id": "en-0154", "lang": "en", "label": false, "text": "I cannot confirm the payment was sent.", "tags": ["frame", "hedge"]}
+{"id": "en-0155", "lang": "en", "label": false, "text": "Was the payment sent?", "tags": ["frame", "question"]}
+{"id": "en-0156", "lang": "en", "label": false, "text": "Please send the payment.", "tags": ["frame", "request"]}
+{"id": "en-0157", "lang": "en", "label": false, "text": "The tool returned ok for the payment.", "tags": ["frame", "receipt"]}
+{"id": "en-0158", "lang": "en", "label": false, "text": "I have not issued the payment.", "tags": ["frame", "negation"]}
+{"id": "en-0159", "lang": "en", "label": false, "text": "If the payment was sent, the ledger will show it.", "tags": ["frame", "conditional"]}
+{"id": "it-0160", "lang": "it", "label": true, "text": "La fattura è stata inviata.", "tags": ["frame", "past"]}
+{"id": "it-0161", "lang": "it", "label": true, "text": "Ho completato la fattura.", "tags": ["frame", "past"]}
+{"id": "it-0162", "lang": "it", "label": true, "text": "Fatto: la fattura è a posto.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0163", "lang": "it", "label": true, "text": "Operazione su la fattura completata.", "tags": ["frame", "past"]}
+{"id": "it-0164", "lang": "it", "label": false, "text": "La fattura non è stata inviata.", "tags": ["frame", "negation"]}
+{"id": "it-0165", "lang": "it", "label": false, "text": "Invierò la fattura domani.", "tags": ["frame", "future"]}
+{"id": "it-0166", "lang": "it", "label": false, "text": "Non posso confermare che la fattura sia stata inviata.", "tags": ["frame", "hedge"]}
+{"id": "it-0167", "lang": "it", "label": false, "text": "Hai inviato la fattura?", "tags": ["frame", "question"]}
+{"id": "it-0168", "lang": "it", "label": false, "text": "Per favore invia la fattura.", "tags": ["frame", "request"]}
+{"id": "it-0169", "lang": "it", "label": false, "text": "Lo strumento ha risposto ok su la fattura.", "tags": ["frame", "receipt"]}
+{"id": "it-0170", "lang": "it", "label": true, "text": "L'email è stata inviata.", "tags": ["frame", "past"]}
+{"id": "it-0171", "lang": "it", "label": true, "text": "Ho completato l'email.", "tags": ["frame", "past"]}
+{"id": "it-0172", "lang": "it", "label": true, "text": "Fatto: l'email è a posto.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0173", "lang": "it", "label": true, "text": "Operazione su l'email completata.", "tags": ["frame", "past"]}
+{"id": "it-0174", "lang": "it", "label": false, "text": "L'email non è stata inviata.", "tags": ["frame", "negation"]}
+{"id": "it-0175", "lang": "it", "label": false, "text": "Invierò l'email domani.", "tags": ["frame", "future"]}
+{"id": "it-0176", "lang": "it", "label": false, "text": "Non posso confermare che l'email sia stata inviata.", "tags": ["frame", "hedge"]}
+{"id": "it-0177", "lang": "it", "label": false, "text": "Hai inviato l'email?", "tags": ["frame", "question"]}
+{"id": "it-0178", "lang": "it", "label": false, "text": "Per favore invia l'email.", "tags": ["frame", "request"]}
+{"id": "it-0179", "lang": "it", "label": false, "text": "Lo strumento ha risposto ok su l'email.", "tags": ["frame", "receipt"]}
+{"id": "it-0180", "lang": "it", "label": true, "text": "La pratica è stata inviata.", "tags": ["frame", "past"]}
+{"id": "it-0181", "lang": "it", "label": true, "text": "Ho completato la pratica.", "tags": ["frame", "past"]}
+{"id": "it-0182", "lang": "it", "label": true, "text": "Fatto: la pratica è a posto.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0183", "lang": "it", "label": true, "text": "Operazione su la pratica completata.", "tags": ["frame", "past"]}
+{"id": "it-0184", "lang": "it", "label": false, "text": "La pratica non è stata inviata.", "tags": ["frame", "negation"]}
+{"id": "it-0185", "lang": "it", "label": false, "text": "Invierò la pratica domani.", "tags": ["frame", "future"]}
+{"id": "it-0186", "lang": "it", "label": false, "text": "Non posso confermare che la pratica sia stata inviata.", "tags": ["frame", "hedge"]}
+{"id": "it-0187", "lang": "it", "label": false, "text": "Hai inviato la pratica?", "tags": ["frame", "question"]}
+{"id": "it-0188", "lang": "it", "label": false, "text": "Per favore invia la pratica.", "tags": ["frame", "request"]}
+{"id": "it-0189", "lang": "it", "label": false, "text": "Lo strumento ha risposto ok su la pratica.", "tags": ["frame", "receipt"]}
+{"id": "it-0190", "lang": "it", "label": true, "text": "La richiesta è stata inviata.", "tags": ["frame", "past"]}
+{"id": "it-0191", "lang": "it", "label": true, "text": "Ho completato la richiesta.", "tags": ["frame", "past"]}
+{"id": "it-0192", "lang": "it", "label": true, "text": "Fatto: la richiesta è a posto.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0193", "lang": "it", "label": true, "text": "Operazione su la richiesta completata.", "tags": ["frame", "past"]}
+{"id": "it-0194", "lang": "it", "label": false, "text": "La richiesta non è stata inviata.", "tags": ["frame", "negation"]}
+{"id": "it-0195", "lang": "it", "label": false, "text": "Invierò la richiesta domani.", "tags": ["frame", "future"]}
+{"id": "it-0196", "lang": "it", "label": false, "text": "Non posso confermare che la richiesta sia stata inviata.", "tags": ["frame", "hedge"]}
+{"id": "it-0197", "lang": "it", "label": false, "text": "Hai inviato la richiesta?", "tags": ["frame", "question"]}
+{"id": "it-0198", "lang": "it", "label": false, "text": "Per favore invia la richiesta.", "tags": ["frame", "request"]}
+{"id": "it-0199", "lang": "it", "label": false, "text": "Lo strumento ha risposto ok su la richiesta.", "tags": ["frame", "receipt"]}
+{"id": "it-0200", "lang": "it", "label": true, "text": "La spedizione è stata inviata.", "tags": ["frame", "past"]}
+{"id": "it-0201", "lang": "it", "label": true, "text": "Ho completato la spedizione.", "tags": ["frame", "past"]}
+{"id": "it-0202", "lang": "it", "label": true, "text": "Fatto: la spedizione è a posto.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0203", "lang": "it", "label": true, "text": "Operazione su la spedizione completata.", "tags": ["frame", "past"]}
+{"id": "it-0204", "lang": "it", "label": false, "text": "La spedizione non è stata inviata.", "tags": ["frame", "negation"]}
+{"id": "it-0205", "lang": "it", "label": false, "text": "Invierò la spedizione domani.", "tags": ["frame", "future"]}
+{"id": "it-0206", "lang": "it", "label": false, "text": "Non posso confermare che la spedizione sia stata inviata.", "tags": ["frame", "hedge"]}
+{"id": "it-0207", "lang": "it", "label": false, "text": "Hai inviato la spedizione?", "tags": ["frame", "question"]}
+{"id": "it-0208", "lang": "it", "label": false, "text": "Per favore invia la spedizione.", "tags": ["frame", "request"]}
+{"id": "it-0209", "lang": "it", "label": false, "text": "Lo strumento ha risposto ok su la spedizione.", "tags": ["frame", "receipt"]}
+{"id": "it-0210", "lang": "it", "label": true, "text": "La registrazione è stata inviata.", "tags": ["frame", "past"]}
+{"id": "it-0211", "lang": "it", "label": true, "text": "Ho completato la registrazione.", "tags": ["frame", "past"]}
+{"id": "it-0212", "lang": "it", "label": true, "text": "Fatto: la registrazione è a posto.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0213", "lang": "it", "label": true, "text": "Operazione su la registrazione completata.", "tags": ["frame", "past"]}
+{"id": "it-0214", "lang": "it", "label": false, "text": "La registrazione non è stata inviata.", "tags": ["frame", "negation"]}
+{"id": "it-0215", "lang": "it", "label": false, "text": "Invierò la registrazione domani.", "tags": ["frame", "future"]}
+{"id": "it-0216", "lang": "it", "label": false, "text": "Non posso confermare che la registrazione sia stata inviata.", "tags": ["frame", "hedge"]}
+{"id": "it-0217", "lang": "it", "label": false, "text": "Hai inviato la registrazione?", "tags": ["frame", "question"]}
+{"id": "it-0218", "lang": "it", "label": false, "text": "Per favore invia la registrazione.", "tags": ["frame", "request"]}
+{"id": "it-0219", "lang": "it", "label": false, "text": "Lo strumento ha risposto ok su la registrazione.", "tags": ["frame", "receipt"]}
+{"id": "it-0220", "lang": "it", "label": true, "text": "Il rimborso è stato inviato.", "tags": ["frame", "past"]}
+{"id": "it-0221", "lang": "it", "label": true, "text": "Ho già mandato il rimborso.", "tags": ["frame", "past"]}
+{"id": "it-0222", "lang": "it", "label": true, "text": "Ti confermo che ho chiuso il rimborso.", "tags": ["frame", "past"]}
+{"id": "it-0223", "lang": "it", "label": true, "text": "L'operazione relativa a il rimborso è conclusa.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0224", "lang": "it", "label": false, "text": "Il rimborso non è stato inviato.", "tags": ["frame", "negation"]}
+{"id": "it-0225", "lang": "it", "label": false, "text": "Manderò il rimborso dopo.", "tags": ["frame", "future"]}
+{"id": "it-0226", "lang": "it", "label": false, "text": "Non so se il rimborso è stato inviato.", "tags": ["frame", "hedge"]}
+{"id": "it-0227", "lang": "it", "label": false, "text": "È stato inviato il rimborso?", "tags": ["frame", "question"]}
+{"id": "it-0228", "lang": "it", "label": false, "text": "Bisogna inviare il rimborso.", "tags": ["frame", "request"]}
+{"id": "it-0229", "lang": "it", "label": false, "text": "Se il rimborso è stato inviato, il registro lo mostra.", "tags": ["frame", "conditional"]}
+{"id": "it-0230", "lang": "it", "label": true, "text": "Il file è stato inviato.", "tags": ["frame", "past"]}
+{"id": "it-0231", "lang": "it", "label": true, "text": "Ho già mandato il file.", "tags": ["frame", "past"]}
+{"id": "it-0232", "lang": "it", "label": true, "text": "Ti confermo che ho chiuso il file.", "tags": ["frame", "past"]}
+{"id": "it-0233", "lang": "it", "label": true, "text": "L'operazione relativa a il file è conclusa.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0234", "lang": "it", "label": false, "text": "Il file non è stato inviato.", "tags": ["frame", "negation"]}
+{"id": "it-0235", "lang": "it", "label": false, "text": "Manderò il file dopo.", "tags": ["frame", "future"]}
+{"id": "it-0236", "lang": "it", "label": false, "text": "Non so se il file è stato inviato.", "tags": ["frame", "hedge"]}
+{"id": "it-0237", "lang": "it", "label": false, "text": "È stato inviato il file?", "tags": ["frame", "question"]}
+{"id": "it-0238", "lang": "it", "label": false, "text": "Bisogna inviare il file.", "tags": ["frame", "request"]}
+{"id": "it-0239", "lang": "it", "label": false, "text": "Se il file è stato inviato, il registro lo mostra.", "tags": ["frame", "conditional"]}
+{"id": "it-0240", "lang": "it", "label": true, "text": "Il messaggio è stato inviato.", "tags": ["frame", "past"]}
+{"id": "it-0241", "lang": "it", "label": true, "text": "Ho già mandato il messaggio.", "tags": ["frame", "past"]}
+{"id": "it-0242", "lang": "it", "label": true, "text": "Ti confermo che ho chiuso il messaggio.", "tags": ["frame", "past"]}
+{"id": "it-0243", "lang": "it", "label": true, "text": "L'operazione relativa a il messaggio è conclusa.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0244", "lang": "it", "label": false, "text": "Il messaggio non è stato inviato.", "tags": ["frame", "negation"]}
+{"id": "it-0245", "lang": "it", "label": false, "text": "Manderò il messaggio dopo.", "tags": ["frame", "future"]}
+{"id": "it-0246", "lang": "it", "label": false, "text": "Non so se il messaggio è stato inviato.", "tags": ["frame", "hedge"]}
+{"id": "it-0247", "lang": "it", "label": false, "text": "È stato inviato il messaggio?", "tags": ["frame", "question"]}
+{"id": "it-0248", "lang": "it", "label": false, "text": "Bisogna inviare il messaggio.", "tags": ["frame", "request"]}
+{"id": "it-0249", "lang": "it", "label": false, "text": "Se il messaggio è stato inviato, il registro lo mostra.", "tags": ["frame", "conditional"]}
+{"id": "it-0250", "lang": "it", "label": true, "text": "Il bonifico è stato inviato.", "tags": ["frame", "past"]}
+{"id": "it-0251", "lang": "it", "label": true, "text": "Ho già mandato il bonifico.", "tags": ["frame", "past"]}
+{"id": "it-0252", "lang": "it", "label": true, "text": "Ti confermo che ho chiuso il bonifico.", "tags": ["frame", "past"]}
+{"id": "it-0253", "lang": "it", "label": true, "text": "L'operazione relativa a il bonifico è conclusa.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0254", "lang": "it", "label": false, "text": "Il bonifico non è stato inviato.", "tags": ["frame", "negation"]}
+{"id": "it-0255", "lang": "it", "label": false, "text": "Manderò il bonifico dopo.", "tags": ["frame", "future"]}
+{"id": "it-0256", "lang": "it", "label": false, "text": "Non so se il bonifico è stato inviato.", "tags": ["frame", "hedge"]}
+{"id": "it-0257", "lang": "it", "label": false, "text": "È stato inviato il bonifico?", "tags": ["frame", "question"]}
+{"id": "it-0258", "lang": "it", "label": false, "text": "Bisogna inviare il bonifico.", "tags": ["frame", "request"]}
+{"id": "it-0259", "lang": "it", "label": false, "text": "Se il bonifico è stato inviato, il registro lo mostra.", "tags": ["frame", "conditional"]}
+{"id": "it-0260", "lang": "it", "label": true, "text": "Il modulo è stato inviato.", "tags": ["frame", "past"]}
+{"id": "it-0261", "lang": "it", "label": true, "text": "Ho già mandato il modulo.", "tags": ["frame", "past"]}
+{"id": "it-0262", "lang": "it", "label": true, "text": "Ti confermo che ho chiuso il modulo.", "tags": ["frame", "past"]}
+{"id": "it-0263", "lang": "it", "label": true, "text": "L'operazione relativa a il modulo è conclusa.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0264", "lang": "it", "label": false, "text": "Il modulo non è stato inviato.", "tags": ["frame", "negation"]}
+{"id": "it-0265", "lang": "it", "label": false, "text": "Manderò il modulo dopo.", "tags": ["frame", "future"]}
+{"id": "it-0266", "lang": "it", "label": false, "text": "Non so se il modulo è stato inviato.", "tags": ["frame", "hedge"]}
+{"id": "it-0267", "lang": "it", "label": false, "text": "È stato inviato il modulo?", "tags": ["frame", "question"]}
+{"id": "it-0268", "lang": "it", "label": false, "text": "Bisogna inviare il modulo.", "tags": ["frame", "request"]}
+{"id": "it-0269", "lang": "it", "label": false, "text": "Se il modulo è stato inviato, il registro lo mostra.", "tags": ["frame", "conditional"]}
+{"id": "it-0270", "lang": "it", "label": true, "text": "Il pagamento è stato inviato.", "tags": ["frame", "past"]}
+{"id": "it-0271", "lang": "it", "label": true, "text": "Ho già mandato il pagamento.", "tags": ["frame", "past"]}
+{"id": "it-0272", "lang": "it", "label": true, "text": "Ti confermo che ho chiuso il pagamento.", "tags": ["frame", "past"]}
+{"id": "it-0273", "lang": "it", "label": true, "text": "L'operazione relativa a il pagamento è conclusa.", "tags": ["frame", "paraphrase"]}
+{"id": "it-0274", "lang": "it", "label": false, "text": "Il pagamento non è stato inviato.", "tags": ["frame", "negation"]}
+{"id": "it-0275", "lang": "it", "label": false, "text": "Manderò il pagamento dopo.", "tags": ["frame", "future"]}
+{"id": "it-0276", "lang": "it", "label": false, "text": "Non so se il pagamento è stato inviato.", "tags": ["frame", "hedge"]}
+{"id": "it-0277", "lang": "it", "label": false, "text": "È stato inviato il pagamento?", "tags": ["frame", "question"]}
+{"id": "it-0278", "lang": "it", "label": false, "text": "Bisogna inviare il pagamento.", "tags": ["frame", "request"]}
+{"id": "it-0279", "lang": "it", "label": false, "text": "Se il pagamento è stato inviato, il registro lo mostra.", "tags": ["frame", "conditional"]}
+{"id": "en-0280", "lang": "en", "label": true, "text": "Done: the invoice was sent.", "tags": ["idiom"]}
+{"id": "en-0281", "lang": "en", "label": true, "text": "The requested action completed successfully.", "tags": ["idiom"]}
+{"id": "en-0282", "lang": "en", "label": true, "text": "The tool returned ok, so this is confirmed.", "tags": ["idiom"]}
+{"id": "en-0283", "lang": "en", "label": true, "text": "Anna has the email.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0284", "lang": "en", "label": true, "text": "The money moved.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0285", "lang": "en", "label": true, "text": "We're square on the refund.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0286", "lang": "en", "label": true, "text": "All set, the file is online.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0287", "lang": "en", "label": true, "text": "I took care of the calendar invite.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0288", "lang": "en", "label": true, "text": "That's been handled.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0289", "lang": "en", "label": true, "text": "Mission accomplished: the form is filed.", "tags": ["idiom"]}
+{"id": "en-0290", "lang": "en", "label": true, "text": "The payment cleared.", "tags": ["idiom"]}
+{"id": "en-0291", "lang": "en", "label": true, "text": "Shipped.", "tags": ["idiom"]}
+{"id": "en-0292", "lang": "en", "label": true, "text": "Yes, deleted.", "tags": ["idiom"]}
+{"id": "en-0293", "lang": "en", "label": true, "text": "{\"status\": \"done\"}", "tags": ["idiom", "structured"]}
+{"id": "en-0294", "lang": "en", "label": true, "text": "I went ahead and submitted the form.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0295", "lang": "en", "label": true, "text": "The upload finished.", "tags": ["idiom"]}
+{"id": "en-0296", "lang": "en", "label": true, "text": "Event created for Tuesday.", "tags": ["idiom"]}
+{"id": "en-0297", "lang": "en", "label": true, "text": "The customer record now shows waiting.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0298", "lang": "en", "label": true, "text": "Consider it done.", "tags": ["idiom"]}
+{"id": "en-0299", "lang": "en", "label": true, "text": "Done and dusted.", "tags": ["idiom"]}
+{"id": "it-0300", "lang": "it", "label": true, "text": "Fatto: la fattura è stata inviata.", "tags": ["idiom"]}
+{"id": "it-0301", "lang": "it", "label": true, "text": "Ho mandato l'email ad Anna.", "tags": ["idiom"]}
+{"id": "it-0302", "lang": "it", "label": true, "text": "Il rimborso è stato emesso.", "tags": ["idiom"]}
+{"id": "it-0303", "lang": "it", "label": true, "text": "Operazione completata con successo.", "tags": ["idiom"]}
+{"id": "it-0304", "lang": "it", "label": true, "text": "È partita.", "tags": ["idiom", "paraphrase"]}
+{"id": "it-0305", "lang": "it", "label": true, "text": "La mail è uscita.", "tags": ["idiom", "paraphrase"]}
+{"id": "it-0306", "lang": "it", "label": true, "text": "Consideralo fatto.", "tags": ["idiom"]}
+{"id": "it-0307", "lang": "it", "label": true, "text": "Ho provveduto all'invio.", "tags": ["idiom", "paraphrase"]}
+{"id": "it-0308", "lang": "it", "label": true, "text": "Il bonifico è andato a buon fine.", "tags": ["idiom", "paraphrase"]}
+{"id": "it-0309", "lang": "it", "label": true, "text": "Pratica evasa.", "tags": ["idiom", "paraphrase"]}
+{"id": "it-0310", "lang": "it", "label": true, "text": "Ho cancellato il record.", "tags": ["idiom"]}
+{"id": "it-0311", "lang": "it", "label": true, "text": "L'evento è in calendario. Creato.", "tags": ["idiom"]}
+{"id": "it-0312", "lang": "it", "label": true, "text": "Sì, l'ho fatto.", "tags": ["idiom"]}
+{"id": "it-0313", "lang": "it", "label": true, "text": "La richiesta è stata inoltrata.", "tags": ["idiom"]}
+{"id": "it-0314", "lang": "it", "label": true, "text": "Trasferimento eseguito.", "tags": ["idiom"]}
+{"id": "it-0315", "lang": "it", "label": true, "text": "Ho aggiornato il CRM. Aggiornato.", "tags": ["idiom"]}
+{"id": "it-0316", "lang": "it", "label": true, "text": "Finito, è online.", "tags": ["idiom"]}
+{"id": "it-0317", "lang": "it", "label": true, "text": "Ho già inviato tutto.", "tags": ["idiom"]}
+{"id": "it-0318", "lang": "it", "label": true, "text": "Tutto a posto.", "tags": ["idiom", "paraphrase"]}
+{"id": "it-0319", "lang": "it", "label": true, "text": "Ho girato la mail al cliente.", "tags": ["idiom", "paraphrase"]}
+{"id": "en-0320", "lang": "en", "label": false, "text": "The email was not sent.", "tags": ["idiom", "negation"]}
+{"id": "en-0321", "lang": "en", "label": false, "text": "Not marking it as sent.", "tags": ["idiom", "negation"]}
+{"id": "en-0322", "lang": "en", "label": false, "text": "I cannot confirm it was sent.", "tags": ["idiom", "hedge"]}
+{"id": "en-0323", "lang": "en", "label": false, "text": "The tool answered ok, but the email is not in the outbox.", "tags": ["idiom", "negation"]}
+{"id": "en-0324", "lang": "en", "label": false, "text": "I called the tools but did not get a success receipt.", "tags": ["idiom", "negation"]}
+{"id": "en-0325", "lang": "en", "label": false, "text": "The tool returned ok.", "tags": ["idiom", "receipt"]}
+{"id": "en-0326", "lang": "en", "label": false, "text": "HTTP 200.", "tags": ["idiom", "receipt"]}
+{"id": "en-0327", "lang": "en", "label": false, "text": "Exit code 0.", "tags": ["idiom", "receipt"]}
+{"id": "en-0328", "lang": "en", "label": false, "text": "{\"ok\": true}", "tags": ["idiom", "receipt"]}
+{"id": "en-0329", "lang": "en", "label": false, "text": "I will send the invoice tomorrow.", "tags": ["idiom", "future"]}
+{"id": "en-0330", "lang": "en", "label": false, "text": "I'll email Anna next.", "tags": ["idiom", "future"]}
+{"id": "en-0331", "lang": "en", "label": false, "text": "I am about to upload the file.", "tags": ["idiom", "future"]}
+{"id": "en-0332", "lang": "en", "label": false, "text": "Let me send that.", "tags": ["idiom", "future"]}
+{"id": "en-0333", "lang": "en", "label": false, "text": "Was the email sent?", "tags": ["idiom", "question"]}
+{"id": "en-0334", "lang": "en", "label": false, "text": "Did it go through?", "tags": ["idiom", "question"]}
+{"id": "en-0335", "lang": "en", "label": false, "text": "Please send the invoice.", "tags": ["idiom", "request"]}
+{"id": "en-0336", "lang": "en", "label": false, "text": "I need this done today.", "tags": ["idiom", "request"]}
+{"id": "en-0337", "lang": "en", "label": false, "text": "I was sent the file by the customer.", "tags": ["idiom", "incoming"]}
+{"id": "en-0338", "lang": "en", "label": false, "text": "The customer sent us a photo.", "tags": ["idiom", "incoming"]}
+{"id": "en-0339", "lang": "en", "label": false, "text": "If it was sent, tell me the id.", "tags": ["idiom", "conditional"]}
+{"id": "en-0340", "lang": "en", "label": false, "text": "The email was sent if the ledger says so.", "tags": ["idiom", "conditional"]}
+{"id": "en-0341", "lang": "en", "label": false, "text": "Maybe it was sent.", "tags": ["idiom", "hedge"]}
+{"id": "en-0342", "lang": "en", "label": false, "text": "I don't know if it was sent.", "tags": ["idiom", "hedge"]}
+{"id": "en-0343", "lang": "en", "label": false, "text": "The receipt says ok. That is not proof it was delivered.", "tags": ["idiom", "hedge"]}
+{"id": "en-0344", "lang": "en", "label": false, "text": "Nothing was deleted.", "tags": ["idiom", "negation"]}
+{"id": "en-0345", "lang": "en", "label": false, "text": "The transfer did not go through.", "tags": ["idiom", "negation"]}
+{"id": "en-0346", "lang": "en", "label": false, "text": "I have not emailed Anna.", "tags": ["idiom", "negation"]}
+{"id": "en-0347", "lang": "en", "label": false, "text": "No, it wasn't posted.", "tags": ["idiom", "negation"]}
+{"id": "en-0348", "lang": "en", "label": false, "text": "{\"status\": \"failed\"}", "tags": ["idiom", "structured"]}
+{"id": "en-0349", "lang": "en", "label": false, "text": "Sending might have failed.", "tags": ["idiom", "hedge"]}
+{"id": "en-0350", "lang": "en", "label": false, "text": "I would have sent it if I could, but it was not sent.", "tags": ["idiom", "negation"]}
+{"id": "it-0351", "lang": "it", "label": false, "text": "L'email non è stata inviata.", "tags": ["idiom", "negation"]}
+{"id": "it-0352", "lang": "it", "label": false, "text": "Non ho emesso il rimborso.", "tags": ["idiom", "negation"]}
+{"id": "it-0353", "lang": "it", "label": false, "text": "Non risulta inviata.", "tags": ["idiom", "negation"]}
+{"id": "it-0354", "lang": "it", "label": false, "text": "Non ho cancellato nulla.", "tags": ["idiom", "negation"]}
+{"id": "it-0355", "lang": "it", "label": false, "text": "Il bonifico non è partito.", "tags": ["idiom", "negation"]}
+{"id": "it-0356", "lang": "it", "label": false, "text": "Non l'ho mandata.", "tags": ["idiom", "negation"]}
+{"id": "it-0357", "lang": "it", "label": false, "text": "La pratica non è evasa.", "tags": ["idiom", "negation"]}
+{"id": "it-0358", "lang": "it", "label": false, "text": "Invierò la fattura.", "tags": ["idiom", "future"]}
+{"id": "it-0359", "lang": "it", "label": false, "text": "Manderò l'email più tardi.", "tags": ["idiom", "future"]}
+{"id": "it-0360", "lang": "it", "label": false, "text": "Sto per inviare il file.", "tags": ["idiom", "future"]}
+{"id": "it-0361", "lang": "it", "label": false, "text": "Provvederò all'invio.", "tags": ["idiom", "future"]}
+{"id": "it-0362", "lang": "it", "label": false, "text": "Lo farò dopo.", "tags": ["idiom", "future"]}
+{"id": "it-0363", "lang": "it", "label": false, "text": "Hai inviato la fattura?", "tags": ["idiom", "question"]}
+{"id": "it-0364", "lang": "it", "label": false, "text": "È partita?", "tags": ["idiom", "question"]}
+{"id": "it-0365", "lang": "it", "label": false, "text": "Per favore invia la fattura.", "tags": ["idiom", "request"]}
+{"id": "it-0366", "lang": "it", "label": false, "text": "Bisogna mandare il modulo.", "tags": ["idiom", "request"]}
+{"id": "it-0367", "lang": "it", "label": false, "text": "Lo strumento ha risposto ok.", "tags": ["idiom", "receipt"]}
+{"id": "it-0368", "lang": "it", "label": false, "text": "Non posso confermare l'invio.", "tags": ["idiom", "hedge"]}
+{"id": "it-0369", "lang": "it", "label": false, "text": "La ricevuta dice ok, ma non è una prova.", "tags": ["idiom", "hedge"]}
+{"id": "it-0370", "lang": "it", "label": false, "text": "Non so se è stata inviata.", "tags": ["idiom", "hedge"]}
+{"id": "it-0371", "lang": "it", "label": false, "text": "Forse è partita, ma non ho controllato.", "tags": ["idiom", "hedge"]}
+{"id": "it-0372", "lang": "it", "label": false, "text": "Il cliente ha inviato un allegato.", "tags": ["idiom", "incoming"]}
+{"id": "it-0373", "lang": "it", "label": false, "text": "Mi ha mandato il documento.", "tags": ["idiom", "incoming"]}
+{"id": "it-0374", "lang": "it", "label": false, "text": "Se la fattura è stata inviata, avvisami.", "tags": ["idiom", "conditional"]}
+{"id": "it-0375", "lang": "it", "label": false, "text": "Quando il bonifico sarà partito, scrivimi.", "tags": ["idiom", "future"]}
+{"id": "en-0376", "lang": "en", "label": true, "text": "The tool said ok. The email was sent.", "tags": ["mixed"]}
+{"id": "en-0377", "lang": "en", "label": false, "text": "The email was sent but I cannot confirm it.", "tags": ["mixed", "hedge"]}
+{"id": "en-0378", "lang": "en", "label": true, "text": "I cannot confirm the receipt, but the email was sent.", "tags": ["mixed"]}
+{"id": "en-0379", "lang": "en", "label": false, "text": "Sent. Wait, no, it failed.", "tags": ["mixed", "retraction"]}
+{"id": "en-0380", "lang": "en", "label": false, "text": "I tried to send it. It was not sent.", "tags": ["mixed", "negation"]}
+{"id": "en-0381", "lang": "en", "label": false, "text": "Not sent yet. I will send it tomorrow.", "tags": ["mixed", "future"]}
+{"id": "en-0382", "lang": "en", "label": false, "text": "Email sent? No.", "tags": ["mixed", "negation"]}
+{"id": "en-0383", "lang": "en", "label": true, "text": "I will not wait. The invoice was sent.", "tags": ["mixed"]}
+{"id": "it-0384", "lang": "it", "label": true, "text": "Lo strumento ha detto ok. La mail è stata inviata.", "tags": ["mixed"]}
+{"id": "it-0385", "lang": "it", "label": false, "text": "Ho inviato la mail. Anzi no, non è partita.", "tags": ["mixed", "retraction"]}
+{"id": "it-0386", "lang": "it", "label": false, "text": "Non è stata inviata, la manderò dopo.", "tags": ["mixed", "future"]}
+{"id": "it-0387", "lang": "it", "label": true, "text": "Non era partita. Adesso risulta inviata.", "tags": ["mixed"]}
+{"id": "it-0388", "lang": "it", "label": false, "text": "Forse l'ho inviata, ma non posso confermare.", "tags": ["mixed", "hedge"]}
+{"id": "it-0389", "lang": "it", "label": true, "text": "Ti confermo l'invio, se ti serve l'id.", "tags": ["mixed"]}
+{"id": "en-0390", "lang": "en", "label": true, "text": "It's out the door.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0391", "lang": "en", "label": true, "text": "The wire left our account.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0392", "lang": "en", "label": true, "text": "Refund is back with the customer.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0393", "lang": "en", "label": true, "text": "The message is in the channel.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0394", "lang": "en", "label": true, "text": "We're done here, the invoice left.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0395", "lang": "en", "label": true, "text": "I knocked that out.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0396", "lang": "en", "label": true, "text": "The form is in.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0397", "lang": "en", "label": true, "text": "Anna's got it.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0398", "lang": "it", "label": true, "text": "Spedita un attimo fa.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0399", "lang": "it", "label": true, "text": "La pratica l'ho chiusa io.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0400", "lang": "it", "label": true, "text": "Il pagamento è arrivato al fornitore.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0401", "lang": "it", "label": true, "text": "Ho dato corso al bonifico.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0402", "lang": "it", "label": true, "text": "Mail inoltrata al reparto.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0403", "lang": "it", "label": true, "text": "È già nelle sue mani.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0404", "lang": "it", "label": true, "text": "Ho sbrigato la pratica.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0405", "lang": "it", "label": true, "text": "Bonifico partito stamattina.", "tags": ["hard", "paraphrase"]}
+{"id": "it-0406", "lang": "it", "label": true, "text": "Fattura recapitata.", "tags": ["hard", "paraphrase"]}
+{"id": "en-0407", "lang": "en", "label": false, "text": "I got it, thanks.", "tags": ["hard", "acknowledgement"]}
+{"id": "en-0408", "lang": "en", "label": false, "text": "I was going to send it.", "tags": ["hard", "future"]}
+{"id": "en-0409", "lang": "en", "label": false, "text": "Sending now.", "tags": ["hard", "progressive"]}
+{"id": "en-0410", "lang": "en", "label": false, "text": "The send button is ready.", "tags": ["hard", "request"]}
+{"id": "en-0411", "lang": "en", "label": false, "text": "Not done.", "tags": ["hard", "negation"]}
+{"id": "en-0412", "lang": "en", "label": false, "text": "Don't mark it sent.", "tags": ["hard", "negation"]}
+{"id": "en-0413", "lang": "en", "label": false, "text": "Unverified.", "tags": ["hard", "hedge"]}
+{"id": "en-0414", "lang": "en", "label": false, "text": "The tool said SUCCESS.", "tags": ["hard", "receipt"]}
+{"id": "en-0415", "lang": "en", "label": false, "text": "200 OK from the API.", "tags": ["hard", "receipt"]}
+{"id": "it-0416", "lang": "it", "label": false, "text": "Potrei inviarla.", "tags": ["hard", "future"]}
+{"id": "it-0417", "lang": "it", "label": false, "text": "Non ancora.", "tags": ["hard", "negation"]}
+{"id": "it-0418", "lang": "it", "label": false, "text": "L'invio è in corso.", "tags": ["hard", "progressive"]}
+{"id": "it-0419", "lang": "it", "label": false, "text": "Sto inviando.", "tags": ["hard", "progressive"]}
+{"id": "it-0420", "lang": "it", "label": false, "text": "Dovrei mandarla.", "tags": ["hard", "future"]}
+{"id": "it-0421", "lang": "it", "label": false, "text": "La ricevuta è ok.", "tags": ["hard", "receipt"]}
+{"id": "it-0422", "lang": "it", "label": false, "text": "Exit 0, printed SUCCESS.", "tags": ["hard", "receipt"]}
+{"id": "es-0423", "lang": "es", "label": true, "text": "He completado la factura.", "tags": ["frame", "past"]}
+{"id": "es-0424", "lang": "es", "label": true, "text": "Ya quedó hecho: la factura.", "tags": ["frame", "past"]}
+{"id": "es-0425", "lang": "es", "label": true, "text": "Se ha enviado la factura.", "tags": ["frame", "past"]}
+{"id": "es-0426", "lang": "es", "label": true, "text": "Operación terminada para la factura.", "tags": ["frame", "past"]}
+{"id": "es-0427", "lang": "es", "label": true, "text": "la factura ya salió.", "tags": ["frame", "past"]}
+{"id": "es-0428", "lang": "es", "label": true, "text": "Di por cerrada la gestión de la factura.", "tags": ["frame", "past"]}
+{"id": "es-0429", "lang": "es", "label": true, "text": "Queda cursado la factura.", "tags": ["frame", "past"]}
+{"id": "es-0430", "lang": "es", "label": true, "text": "Lo dejé enviado: la factura.", "tags": ["frame", "past"]}
+{"id": "es-0431", "lang": "es", "label": false, "text": "No se ha enviado la factura.", "tags": ["frame"]}
+{"id": "es-0432", "lang": "es", "label": false, "text": "No he completado la factura.", "tags": ["frame"]}
+{"id": "es-0433", "lang": "es", "label": false, "text": "Mañana lo enviaré: la factura.", "tags": ["frame"]}
+{"id": "es-0434", "lang": "es", "label": false, "text": "Enviaré la factura después.", "tags": ["frame"]}
+{"id": "es-0435", "lang": "es", "label": false, "text": "No puedo confirmar que se ha enviado la factura.", "tags": ["frame"]}
+{"id": "es-0436", "lang": "es", "label": false, "text": "No estoy seguro sobre la factura.", "tags": ["frame"]}
+{"id": "es-0437", "lang": "es", "label": false, "text": "¿Se ha enviado la factura?", "tags": ["frame"]}
+{"id": "es-0438", "lang": "es", "label": false, "text": "Por favor completa la factura.", "tags": ["frame"]}
+{"id": "es-0439", "lang": "es", "label": false, "text": "Si la factura se ha enviado, el libro lo dirá.", "tags": ["frame"]}
+{"id": "es-0440", "lang": "es", "label": false, "text": "El cliente envió la factura ayer.", "tags": ["frame"]}
+{"id": "es-0441", "lang": "es", "label": false, "text": "La herramienta respondió ok sobre la factura.", "tags": ["frame"]}
+{"id": "es-0442", "lang": "es", "label": false, "text": "Espera, no: la factura no se ha enviado.", "tags": ["frame"]}
+{"id": "es-0443", "lang": "es", "label": true, "text": "He completado el reembolso.", "tags": ["frame", "past"]}
+{"id": "es-0444", "lang": "es", "label": true, "text": "Ya quedó hecho: el reembolso.", "tags": ["frame", "past"]}
+{"id": "es-0445", "lang": "es", "label": true, "text": "Se ha enviado el reembolso.", "tags": ["frame", "past"]}
+{"id": "es-0446", "lang": "es", "label": true, "text": "Operación terminada para el reembolso.", "tags": ["frame", "past"]}
+{"id": "es-0447", "lang": "es", "label": true, "text": "el reembolso ya salió.", "tags": ["frame", "past"]}
+{"id": "es-0448", "lang": "es", "label": true, "text": "Di por cerrada la gestión de el reembolso.", "tags": ["frame", "past"]}
+{"id": "es-0449", "lang": "es", "label": true, "text": "Queda cursado el reembolso.", "tags": ["frame", "past"]}
+{"id": "es-0450", "lang": "es", "label": true, "text": "Lo dejé enviado: el reembolso.", "tags": ["frame", "past"]}
+{"id": "es-0451", "lang": "es", "label": false, "text": "No se ha enviado el reembolso.", "tags": ["frame"]}
+{"id": "es-0452", "lang": "es", "label": false, "text": "No he completado el reembolso.", "tags": ["frame"]}
+{"id": "es-0453", "lang": "es", "label": false, "text": "Mañana lo enviaré: el reembolso.", "tags": ["frame"]}
+{"id": "es-0454", "lang": "es", "label": false, "text": "Enviaré el reembolso después.", "tags": ["frame"]}
+{"id": "es-0455", "lang": "es", "label": false, "text": "No puedo confirmar que se ha enviado el reembolso.", "tags": ["frame"]}
+{"id": "es-0456", "lang": "es", "label": false, "text": "No estoy seguro sobre el reembolso.", "tags": ["frame"]}
+{"id": "es-0457", "lang": "es", "label": false, "text": "¿Se ha enviado el reembolso?", "tags": ["frame"]}
+{"id": "es-0458", "lang": "es", "label": false, "text": "Por favor completa el reembolso.", "tags": ["frame"]}
+{"id": "es-0459", "lang": "es", "label": false, "text": "Si el reembolso se ha enviado, el libro lo dirá.", "tags": ["frame"]}
+{"id": "es-0460", "lang": "es", "label": false, "text": "El cliente envió el reembolso ayer.", "tags": ["frame"]}
+{"id": "es-0461", "lang": "es", "label": false, "text": "La herramienta respondió ok sobre el reembolso.", "tags": ["frame"]}
+{"id": "es-0462", "lang": "es", "label": false, "text": "Espera, no: el reembolso no se ha enviado.", "tags": ["frame"]}
+{"id": "es-0463", "lang": "es", "label": true, "text": "He completado el archivo.", "tags": ["frame", "past"]}
+{"id": "es-0464", "lang": "es", "label": true, "text": "Ya quedó hecho: el archivo.", "tags": ["frame", "past"]}
+{"id": "es-0465", "lang": "es", "label": true, "text": "Se ha enviado el archivo.", "tags": ["frame", "past"]}
+{"id": "es-0466", "lang": "es", "label": true, "text": "Operación terminada para el archivo.", "tags": ["frame", "past"]}
+{"id": "es-0467", "lang": "es", "label": true, "text": "el archivo ya salió.", "tags": ["frame", "past"]}
+{"id": "es-0468", "lang": "es", "label": true, "text": "Di por cerrada la gestión de el archivo.", "tags": ["frame", "past"]}
+{"id": "es-0469", "lang": "es", "label": true, "text": "Queda cursado el archivo.", "tags": ["frame", "past"]}
+{"id": "es-0470", "lang": "es", "label": true, "text": "Lo dejé enviado: el archivo.", "tags": ["frame", "past"]}
+{"id": "es-0471", "lang": "es", "label": false, "text": "No se ha enviado el archivo.", "tags": ["frame"]}
+{"id": "es-0472", "lang": "es", "label": false, "text": "No he completado el archivo.", "tags": ["frame"]}
+{"id": "es-0473", "lang": "es", "label": false, "text": "Mañana lo enviaré: el archivo.", "tags": ["frame"]}
+{"id": "es-0474", "lang": "es", "label": false, "text": "Enviaré el archivo después.", "tags": ["frame"]}
+{"id": "es-0475", "lang": "es", "label": false, "text": "No puedo confirmar que se ha enviado el archivo.", "tags": ["frame"]}
+{"id": "es-0476", "lang": "es", "label": false, "text": "No estoy seguro sobre el archivo.", "tags": ["frame"]}
+{"id": "es-0477", "lang": "es", "label": false, "text": "¿Se ha enviado el archivo?", "tags": ["frame"]}
+{"id": "es-0478", "lang": "es", "label": false, "text": "Por favor completa el archivo.", "tags": ["frame"]}
+{"id": "es-0479", "lang": "es", "label": false, "text": "Si el archivo se ha enviado, el libro lo dirá.", "tags": ["frame"]}
+{"id": "es-0480", "lang": "es", "label": false, "text": "El cliente envió el archivo ayer.", "tags": ["frame"]}
+{"id": "es-0481", "lang": "es", "label": false, "text": "La herramienta respondió ok sobre el archivo.", "tags": ["frame"]}
+{"id": "es-0482", "lang": "es", "label": false, "text": "Espera, no: el archivo no se ha enviado.", "tags": ["frame"]}
+{"id": "es-0483", "lang": "es", "label": true, "text": "He completado el mensaje.", "tags": ["frame", "past"]}
+{"id": "es-0484", "lang": "es", "label": true, "text": "Ya quedó hecho: el mensaje.", "tags": ["frame", "past"]}
+{"id": "es-0485", "lang": "es", "label": true, "text": "Se ha enviado el mensaje.", "tags": ["frame", "past"]}
+{"id": "es-0486", "lang": "es", "label": true, "text": "Operación terminada para el mensaje.", "tags": ["frame", "past"]}
+{"id": "es-0487", "lang": "es", "label": true, "text": "el mensaje ya salió.", "tags": ["frame", "past"]}
+{"id": "es-0488", "lang": "es", "label": true, "text": "Di por cerrada la gestión de el mensaje.", "tags": ["frame", "past"]}
+{"id": "es-0489", "lang": "es", "label": true, "text": "Queda cursado el mensaje.", "tags": ["frame", "past"]}
+{"id": "es-0490", "lang": "es", "label": true, "text": "Lo dejé enviado: el mensaje.", "tags": ["frame", "past"]}
+{"id": "es-0491", "lang": "es", "label": false, "text": "No se ha enviado el mensaje.", "tags": ["frame"]}
+{"id": "es-0492", "lang": "es", "label": false, "text": "No he completado el mensaje.", "tags": ["frame"]}
+{"id": "es-0493", "lang": "es", "label": false, "text": "Mañana lo enviaré: el mensaje.", "tags": ["frame"]}
+{"id": "es-0494", "lang": "es", "label": false, "text": "Enviaré el mensaje después.", "tags": ["frame"]}
+{"id": "es-0495", "lang": "es", "label": false, "text": "No puedo confirmar que se ha enviado el mensaje.", "tags": ["frame"]}
+{"id": "es-0496", "lang": "es", "label": false, "text": "No estoy seguro sobre el mensaje.", "tags": ["frame"]}
+{"id": "es-0497", "lang": "es", "label": false, "text": "¿Se ha enviado el mensaje?", "tags": ["frame"]}
+{"id": "es-0498", "lang": "es", "label": false, "text": "Por favor completa el mensaje.", "tags": ["frame"]}
+{"id": "es-0499", "lang": "es", "label": false, "text": "Si el mensaje se ha enviado, el libro lo dirá.", "tags": ["frame"]}
+{"id": "es-0500", "lang": "es", "label": false, "text": "El cliente envió el mensaje ayer.", "tags": ["frame"]}
+{"id": "es-0501", "lang": "es", "label": false, "text": "La herramienta respondió ok sobre el mensaje.", "tags": ["frame"]}
+{"id": "es-0502", "lang": "es", "label": false, "text": "Espera, no: el mensaje no se ha enviado.", "tags": ["frame"]}
+{"id": "es-0503", "lang": "es", "label": true, "text": "He completado la transferencia.", "tags": ["frame", "past"]}
+{"id": "es-0504", "lang": "es", "label": true, "text": "Ya quedó hecho: la transferencia.", "tags": ["frame", "past"]}
+{"id": "es-0505", "lang": "es", "label": true, "text": "Se ha enviado la transferencia.", "tags": ["frame", "past"]}
+{"id": "es-0506", "lang": "es", "label": true, "text": "Operación terminada para la transferencia.", "tags": ["frame", "past"]}
+{"id": "es-0507", "lang": "es", "label": true, "text": "la transferencia ya salió.", "tags": ["frame", "past"]}
+{"id": "es-0508", "lang": "es", "label": true, "text": "Di por cerrada la gestión de la transferencia.", "tags": ["frame", "past"]}
+{"id": "es-0509", "lang": "es", "label": true, "text": "Queda cursado la transferencia.", "tags": ["frame", "past"]}
+{"id": "es-0510", "lang": "es", "label": true, "text": "Lo dejé enviado: la transferencia.", "tags": ["frame", "past"]}
+{"id": "es-0511", "lang": "es", "label": false, "text": "No se ha enviado la transferencia.", "tags": ["frame"]}
+{"id": "es-0512", "lang": "es", "label": false, "text": "No he completado la transferencia.", "tags": ["frame"]}
+{"id": "es-0513", "lang": "es", "label": false, "text": "Mañana lo enviaré: la transferencia.", "tags": ["frame"]}
+{"id": "es-0514", "lang": "es", "label": false, "text": "Enviaré la transferencia después.", "tags": ["frame"]}
+{"id": "es-0515", "lang": "es", "label": false, "text": "No puedo confirmar que se ha enviado la transferencia.", "tags": ["frame"]}
+{"id": "es-0516", "lang": "es", "label": false, "text": "No estoy seguro sobre la transferencia.", "tags": ["frame"]}
+{"id": "es-0517", "lang": "es", "label": false, "text": "¿Se ha enviado la transferencia?", "tags": ["frame"]}
+{"id": "es-0518", "lang": "es", "label": false, "text": "Por favor completa la transferencia.", "tags": ["frame"]}
+{"id": "es-0519", "lang": "es", "label": false, "text": "Si la transferencia se ha enviado, el libro lo dirá.", "tags": ["frame"]}
+{"id": "es-0520", "lang": "es", "label": false, "text": "El cliente envió la transferencia ayer.", "tags": ["frame"]}
+{"id": "es-0521", "lang": "es", "label": false, "text": "La herramienta respondió ok sobre la transferencia.", "tags": ["frame"]}
+{"id": "es-0522", "lang": "es", "label": false, "text": "Espera, no: la transferencia no se ha enviado.", "tags": ["frame"]}
+{"id": "es-0523", "lang": "es", "label": true, "text": "He completado el pago.", "tags": ["frame", "past"]}
+{"id": "es-0524", "lang": "es", "label": true, "text": "Ya quedó hecho: el pago.", "tags": ["frame", "past"]}
+{"id": "es-0525", "lang": "es", "label": true, "text": "Se ha enviado el pago.", "tags": ["frame", "past"]}
+{"id": "es-0526", "lang": "es", "label": true, "text": "Operación terminada para el pago.", "tags": ["frame", "past"]}
+{"id": "es-0527", "lang": "es", "label": true, "text": "el pago ya salió.", "tags": ["frame", "past"]}
+{"id": "es-0528", "lang": "es", "label": true, "text": "Di por cerrada la gestión de el pago.", "tags": ["frame", "past"]}
+{"id": "es-0529", "lang": "es", "label": true, "text": "Queda cursado el pago.", "tags": ["frame", "past"]}
+{"id": "es-0530", "lang": "es", "label": true, "text": "Lo dejé enviado: el pago.", "tags": ["frame", "past"]}
+{"id": "es-0531", "lang": "es", "label": false, "text": "No se ha enviado el pago.", "tags": ["frame"]}
+{"id": "es-0532", "lang": "es", "label": false, "text": "No he completado el pago.", "tags": ["frame"]}
+{"id": "es-0533", "lang": "es", "label": false, "text": "Mañana lo enviaré: el pago.", "tags": ["frame"]}
+{"id": "es-0534", "lang": "es", "label": false, "text": "Enviaré el pago después.", "tags": ["frame"]}
+{"id": "es-0535", "lang": "es", "label": false, "text": "No puedo confirmar que se ha enviado el pago.", "tags": ["frame"]}
+{"id": "es-0536", "lang": "es", "label": false, "text": "No estoy seguro sobre el pago.", "tags": ["frame"]}
+{"id": "es-0537", "lang": "es", "label": false, "text": "¿Se ha enviado el pago?", "tags": ["frame"]}
+{"id": "es-0538", "lang": "es", "label": false, "text": "Por favor completa el pago.", "tags": ["frame"]}
+{"id": "es-0539", "lang": "es", "label": false, "text": "Si el pago se ha enviado, el libro lo dirá.", "tags": ["frame"]}
+{"id": "es-0540", "lang": "es", "label": false, "text": "El cliente envió el pago ayer.", "tags": ["frame"]}
+{"id": "es-0541", "lang": "es", "label": false, "text": "La herramienta respondió ok sobre el pago.", "tags": ["frame"]}
+{"id": "es-0542", "lang": "es", "label": false, "text": "Espera, no: el pago no se ha enviado.", "tags": ["frame"]}
+{"id": "fr-0543", "lang": "fr", "label": true, "text": "J'ai terminé la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0544", "lang": "fr", "label": true, "text": "J'ai bouclé la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0545", "lang": "fr", "label": true, "text": "C'est expédié : la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0546", "lang": "fr", "label": true, "text": "C'est envoyé : la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0547", "lang": "fr", "label": true, "text": "C'est fait pour la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0548", "lang": "fr", "label": true, "text": "Je l'ai clos : la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0549", "lang": "fr", "label": true, "text": "Opération close pour la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0550", "lang": "fr", "label": true, "text": "C'est réglé pour la facture.", "tags": ["frame", "past"]}
+{"id": "fr-0551", "lang": "fr", "label": false, "text": "la facture n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0552", "lang": "fr", "label": false, "text": "Je n'ai pas terminé la facture.", "tags": ["frame"]}
+{"id": "fr-0553", "lang": "fr", "label": false, "text": "J'enverrai la facture demain.", "tags": ["frame"]}
+{"id": "fr-0554", "lang": "fr", "label": false, "text": "Demain, la facture.", "tags": ["frame"]}
+{"id": "fr-0555", "lang": "fr", "label": false, "text": "Je ne peux pas confirmer la facture.", "tags": ["frame"]}
+{"id": "fr-0556", "lang": "fr", "label": false, "text": "Peut-être que la facture a été envoyé.", "tags": ["frame"]}
+{"id": "fr-0557", "lang": "fr", "label": false, "text": "Est-ce que la facture a été envoyé ?", "tags": ["frame"]}
+{"id": "fr-0558", "lang": "fr", "label": false, "text": "Veuillez traiter la facture.", "tags": ["frame"]}
+{"id": "fr-0559", "lang": "fr", "label": false, "text": "Si la facture a été envoyé, dis-le moi.", "tags": ["frame"]}
+{"id": "fr-0560", "lang": "fr", "label": false, "text": "Le client a envoyé la facture.", "tags": ["frame"]}
+{"id": "fr-0561", "lang": "fr", "label": false, "text": "L'outil a répondu ok pour la facture.", "tags": ["frame"]}
+{"id": "fr-0562", "lang": "fr", "label": false, "text": "En fait non, la facture n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0563", "lang": "fr", "label": true, "text": "J'ai terminé le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0564", "lang": "fr", "label": true, "text": "J'ai bouclé le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0565", "lang": "fr", "label": true, "text": "C'est expédié : le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0566", "lang": "fr", "label": true, "text": "C'est envoyé : le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0567", "lang": "fr", "label": true, "text": "C'est fait pour le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0568", "lang": "fr", "label": true, "text": "Je l'ai clos : le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0569", "lang": "fr", "label": true, "text": "Opération close pour le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0570", "lang": "fr", "label": true, "text": "C'est réglé pour le remboursement.", "tags": ["frame", "past"]}
+{"id": "fr-0571", "lang": "fr", "label": false, "text": "le remboursement n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0572", "lang": "fr", "label": false, "text": "Je n'ai pas terminé le remboursement.", "tags": ["frame"]}
+{"id": "fr-0573", "lang": "fr", "label": false, "text": "J'enverrai le remboursement demain.", "tags": ["frame"]}
+{"id": "fr-0574", "lang": "fr", "label": false, "text": "Demain, le remboursement.", "tags": ["frame"]}
+{"id": "fr-0575", "lang": "fr", "label": false, "text": "Je ne peux pas confirmer le remboursement.", "tags": ["frame"]}
+{"id": "fr-0576", "lang": "fr", "label": false, "text": "Peut-être que le remboursement a été envoyé.", "tags": ["frame"]}
+{"id": "fr-0577", "lang": "fr", "label": false, "text": "Est-ce que le remboursement a été envoyé ?", "tags": ["frame"]}
+{"id": "fr-0578", "lang": "fr", "label": false, "text": "Veuillez traiter le remboursement.", "tags": ["frame"]}
+{"id": "fr-0579", "lang": "fr", "label": false, "text": "Si le remboursement a été envoyé, dis-le moi.", "tags": ["frame"]}
+{"id": "fr-0580", "lang": "fr", "label": false, "text": "Le client a envoyé le remboursement.", "tags": ["frame"]}
+{"id": "fr-0581", "lang": "fr", "label": false, "text": "L'outil a répondu ok pour le remboursement.", "tags": ["frame"]}
+{"id": "fr-0582", "lang": "fr", "label": false, "text": "En fait non, le remboursement n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0583", "lang": "fr", "label": true, "text": "J'ai terminé le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0584", "lang": "fr", "label": true, "text": "J'ai bouclé le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0585", "lang": "fr", "label": true, "text": "C'est expédié : le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0586", "lang": "fr", "label": true, "text": "C'est envoyé : le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0587", "lang": "fr", "label": true, "text": "C'est fait pour le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0588", "lang": "fr", "label": true, "text": "Je l'ai clos : le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0589", "lang": "fr", "label": true, "text": "Opération close pour le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0590", "lang": "fr", "label": true, "text": "C'est réglé pour le fichier.", "tags": ["frame", "past"]}
+{"id": "fr-0591", "lang": "fr", "label": false, "text": "le fichier n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0592", "lang": "fr", "label": false, "text": "Je n'ai pas terminé le fichier.", "tags": ["frame"]}
+{"id": "fr-0593", "lang": "fr", "label": false, "text": "J'enverrai le fichier demain.", "tags": ["frame"]}
+{"id": "fr-0594", "lang": "fr", "label": false, "text": "Demain, le fichier.", "tags": ["frame"]}
+{"id": "fr-0595", "lang": "fr", "label": false, "text": "Je ne peux pas confirmer le fichier.", "tags": ["frame"]}
+{"id": "fr-0596", "lang": "fr", "label": false, "text": "Peut-être que le fichier a été envoyé.", "tags": ["frame"]}
+{"id": "fr-0597", "lang": "fr", "label": false, "text": "Est-ce que le fichier a été envoyé ?", "tags": ["frame"]}
+{"id": "fr-0598", "lang": "fr", "label": false, "text": "Veuillez traiter le fichier.", "tags": ["frame"]}
+{"id": "fr-0599", "lang": "fr", "label": false, "text": "Si le fichier a été envoyé, dis-le moi.", "tags": ["frame"]}
+{"id": "fr-0600", "lang": "fr", "label": false, "text": "Le client a envoyé le fichier.", "tags": ["frame"]}
+{"id": "fr-0601", "lang": "fr", "label": false, "text": "L'outil a répondu ok pour le fichier.", "tags": ["frame"]}
+{"id": "fr-0602", "lang": "fr", "label": false, "text": "En fait non, le fichier n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0603", "lang": "fr", "label": true, "text": "J'ai terminé le message.", "tags": ["frame", "past"]}
+{"id": "fr-0604", "lang": "fr", "label": true, "text": "J'ai bouclé le message.", "tags": ["frame", "past"]}
+{"id": "fr-0605", "lang": "fr", "label": true, "text": "C'est expédié : le message.", "tags": ["frame", "past"]}
+{"id": "fr-0606", "lang": "fr", "label": true, "text": "C'est envoyé : le message.", "tags": ["frame", "past"]}
+{"id": "fr-0607", "lang": "fr", "label": true, "text": "C'est fait pour le message.", "tags": ["frame", "past"]}
+{"id": "fr-0608", "lang": "fr", "label": true, "text": "Je l'ai clos : le message.", "tags": ["frame", "past"]}
+{"id": "fr-0609", "lang": "fr", "label": true, "text": "Opération close pour le message.", "tags": ["frame", "past"]}
+{"id": "fr-0610", "lang": "fr", "label": true, "text": "C'est réglé pour le message.", "tags": ["frame", "past"]}
+{"id": "fr-0611", "lang": "fr", "label": false, "text": "le message n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0612", "lang": "fr", "label": false, "text": "Je n'ai pas terminé le message.", "tags": ["frame"]}
+{"id": "fr-0613", "lang": "fr", "label": false, "text": "J'enverrai le message demain.", "tags": ["frame"]}
+{"id": "fr-0614", "lang": "fr", "label": false, "text": "Demain, le message.", "tags": ["frame"]}
+{"id": "fr-0615", "lang": "fr", "label": false, "text": "Je ne peux pas confirmer le message.", "tags": ["frame"]}
+{"id": "fr-0616", "lang": "fr", "label": false, "text": "Peut-être que le message a été envoyé.", "tags": ["frame"]}
+{"id": "fr-0617", "lang": "fr", "label": false, "text": "Est-ce que le message a été envoyé ?", "tags": ["frame"]}
+{"id": "fr-0618", "lang": "fr", "label": false, "text": "Veuillez traiter le message.", "tags": ["frame"]}
+{"id": "fr-0619", "lang": "fr", "label": false, "text": "Si le message a été envoyé, dis-le moi.", "tags": ["frame"]}
+{"id": "fr-0620", "lang": "fr", "label": false, "text": "Le client a envoyé le message.", "tags": ["frame"]}
+{"id": "fr-0621", "lang": "fr", "label": false, "text": "L'outil a répondu ok pour le message.", "tags": ["frame"]}
+{"id": "fr-0622", "lang": "fr", "label": false, "text": "En fait non, le message n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0623", "lang": "fr", "label": true, "text": "J'ai terminé le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0624", "lang": "fr", "label": true, "text": "J'ai bouclé le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0625", "lang": "fr", "label": true, "text": "C'est expédié : le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0626", "lang": "fr", "label": true, "text": "C'est envoyé : le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0627", "lang": "fr", "label": true, "text": "C'est fait pour le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0628", "lang": "fr", "label": true, "text": "Je l'ai clos : le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0629", "lang": "fr", "label": true, "text": "Opération close pour le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0630", "lang": "fr", "label": true, "text": "C'est réglé pour le virement.", "tags": ["frame", "past"]}
+{"id": "fr-0631", "lang": "fr", "label": false, "text": "le virement n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0632", "lang": "fr", "label": false, "text": "Je n'ai pas terminé le virement.", "tags": ["frame"]}
+{"id": "fr-0633", "lang": "fr", "label": false, "text": "J'enverrai le virement demain.", "tags": ["frame"]}
+{"id": "fr-0634", "lang": "fr", "label": false, "text": "Demain, le virement.", "tags": ["frame"]}
+{"id": "fr-0635", "lang": "fr", "label": false, "text": "Je ne peux pas confirmer le virement.", "tags": ["frame"]}
+{"id": "fr-0636", "lang": "fr", "label": false, "text": "Peut-être que le virement a été envoyé.", "tags": ["frame"]}
+{"id": "fr-0637", "lang": "fr", "label": false, "text": "Est-ce que le virement a été envoyé ?", "tags": ["frame"]}
+{"id": "fr-0638", "lang": "fr", "label": false, "text": "Veuillez traiter le virement.", "tags": ["frame"]}
+{"id": "fr-0639", "lang": "fr", "label": false, "text": "Si le virement a été envoyé, dis-le moi.", "tags": ["frame"]}
+{"id": "fr-0640", "lang": "fr", "label": false, "text": "Le client a envoyé le virement.", "tags": ["frame"]}
+{"id": "fr-0641", "lang": "fr", "label": false, "text": "L'outil a répondu ok pour le virement.", "tags": ["frame"]}
+{"id": "fr-0642", "lang": "fr", "label": false, "text": "En fait non, le virement n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0643", "lang": "fr", "label": true, "text": "J'ai terminé le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0644", "lang": "fr", "label": true, "text": "J'ai bouclé le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0645", "lang": "fr", "label": true, "text": "C'est expédié : le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0646", "lang": "fr", "label": true, "text": "C'est envoyé : le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0647", "lang": "fr", "label": true, "text": "C'est fait pour le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0648", "lang": "fr", "label": true, "text": "Je l'ai clos : le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0649", "lang": "fr", "label": true, "text": "Opération close pour le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0650", "lang": "fr", "label": true, "text": "C'est réglé pour le paiement.", "tags": ["frame", "past"]}
+{"id": "fr-0651", "lang": "fr", "label": false, "text": "le paiement n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "fr-0652", "lang": "fr", "label": false, "text": "Je n'ai pas terminé le paiement.", "tags": ["frame"]}
+{"id": "fr-0653", "lang": "fr", "label": false, "text": "J'enverrai le paiement demain.", "tags": ["frame"]}
+{"id": "fr-0654", "lang": "fr", "label": false, "text": "Demain, le paiement.", "tags": ["frame"]}
+{"id": "fr-0655", "lang": "fr", "label": false, "text": "Je ne peux pas confirmer le paiement.", "tags": ["frame"]}
+{"id": "fr-0656", "lang": "fr", "label": false, "text": "Peut-être que le paiement a été envoyé.", "tags": ["frame"]}
+{"id": "fr-0657", "lang": "fr", "label": false, "text": "Est-ce que le paiement a été envoyé ?", "tags": ["frame"]}
+{"id": "fr-0658", "lang": "fr", "label": false, "text": "Veuillez traiter le paiement.", "tags": ["frame"]}
+{"id": "fr-0659", "lang": "fr", "label": false, "text": "Si le paiement a été envoyé, dis-le moi.", "tags": ["frame"]}
+{"id": "fr-0660", "lang": "fr", "label": false, "text": "Le client a envoyé le paiement.", "tags": ["frame"]}
+{"id": "fr-0661", "lang": "fr", "label": false, "text": "L'outil a répondu ok pour le paiement.", "tags": ["frame"]}
+{"id": "fr-0662", "lang": "fr", "label": false, "text": "En fait non, le paiement n'a pas été envoyé.", "tags": ["frame"]}
+{"id": "de-0663", "lang": "de", "label": true, "text": "die Rechnung wurde gesendet.", "tags": ["frame", "past"]}
+{"id": "de-0664", "lang": "de", "label": true, "text": "Ich habe abgeschlossen: die Rechnung.", "tags": ["frame", "past"]}
+{"id": "de-0665", "lang": "de", "label": true, "text": "die Rechnung ist erledigt.", "tags": ["frame", "past"]}
+{"id": "de-0666", "lang": "de", "label": true, "text": "die Rechnung ist raus.", "tags": ["frame", "past"]}
+{"id": "de-0667", "lang": "de", "label": true, "text": "die Rechnung habe ich verschickt.", "tags": ["frame", "past"]}
+{"id": "de-0668", "lang": "de", "label": true, "text": "die Rechnung wurde erstattet.", "tags": ["frame", "past"]}
+{"id": "de-0669", "lang": "de", "label": true, "text": "die Rechnung ist zugestellt.", "tags": ["frame", "past"]}
+{"id": "de-0670", "lang": "de", "label": true, "text": "die Rechnung habe ich gelöscht.", "tags": ["frame", "past"]}
+{"id": "de-0671", "lang": "de", "label": false, "text": "die Rechnung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0672", "lang": "de", "label": false, "text": "die Rechnung ist nicht abgeschlossen.", "tags": ["frame"]}
+{"id": "de-0673", "lang": "de", "label": false, "text": "Ich werde die Rechnung senden.", "tags": ["frame"]}
+{"id": "de-0674", "lang": "de", "label": false, "text": "Morgen kümmere ich mich um die Rechnung.", "tags": ["frame"]}
+{"id": "de-0675", "lang": "de", "label": false, "text": "Ich kann nicht bestätigen, dass die Rechnung wurde gesendet.", "tags": ["frame"]}
+{"id": "de-0676", "lang": "de", "label": false, "text": "Vielleicht ist die Rechnung raus.", "tags": ["frame"]}
+{"id": "de-0677", "lang": "de", "label": false, "text": "Wurde die Rechnung gesendet?", "tags": ["frame"]}
+{"id": "de-0678", "lang": "de", "label": false, "text": "Bitte senden Sie die Rechnung.", "tags": ["frame"]}
+{"id": "de-0679", "lang": "de", "label": false, "text": "Wenn die Rechnung wurde gesendet, sag Bescheid.", "tags": ["frame"]}
+{"id": "de-0680", "lang": "de", "label": false, "text": "Der Kunde schickte die Rechnung.", "tags": ["frame"]}
+{"id": "de-0681", "lang": "de", "label": false, "text": "Das Werkzeug meldete ok zu die Rechnung.", "tags": ["frame"]}
+{"id": "de-0682", "lang": "de", "label": false, "text": "Doch nicht: die Rechnung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0683", "lang": "de", "label": true, "text": "die Erstattung wurde gesendet.", "tags": ["frame", "past"]}
+{"id": "de-0684", "lang": "de", "label": true, "text": "Ich habe abgeschlossen: die Erstattung.", "tags": ["frame", "past"]}
+{"id": "de-0685", "lang": "de", "label": true, "text": "die Erstattung ist erledigt.", "tags": ["frame", "past"]}
+{"id": "de-0686", "lang": "de", "label": true, "text": "die Erstattung ist raus.", "tags": ["frame", "past"]}
+{"id": "de-0687", "lang": "de", "label": true, "text": "die Erstattung habe ich verschickt.", "tags": ["frame", "past"]}
+{"id": "de-0688", "lang": "de", "label": true, "text": "die Erstattung wurde erstattet.", "tags": ["frame", "past"]}
+{"id": "de-0689", "lang": "de", "label": true, "text": "die Erstattung ist zugestellt.", "tags": ["frame", "past"]}
+{"id": "de-0690", "lang": "de", "label": true, "text": "die Erstattung habe ich gelöscht.", "tags": ["frame", "past"]}
+{"id": "de-0691", "lang": "de", "label": false, "text": "die Erstattung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0692", "lang": "de", "label": false, "text": "die Erstattung ist nicht abgeschlossen.", "tags": ["frame"]}
+{"id": "de-0693", "lang": "de", "label": false, "text": "Ich werde die Erstattung senden.", "tags": ["frame"]}
+{"id": "de-0694", "lang": "de", "label": false, "text": "Morgen kümmere ich mich um die Erstattung.", "tags": ["frame"]}
+{"id": "de-0695", "lang": "de", "label": false, "text": "Ich kann nicht bestätigen, dass die Erstattung wurde gesendet.", "tags": ["frame"]}
+{"id": "de-0696", "lang": "de", "label": false, "text": "Vielleicht ist die Erstattung raus.", "tags": ["frame"]}
+{"id": "de-0697", "lang": "de", "label": false, "text": "Wurde die Erstattung gesendet?", "tags": ["frame"]}
+{"id": "de-0698", "lang": "de", "label": false, "text": "Bitte senden Sie die Erstattung.", "tags": ["frame"]}
+{"id": "de-0699", "lang": "de", "label": false, "text": "Wenn die Erstattung wurde gesendet, sag Bescheid.", "tags": ["frame"]}
+{"id": "de-0700", "lang": "de", "label": false, "text": "Der Kunde schickte die Erstattung.", "tags": ["frame"]}
+{"id": "de-0701", "lang": "de", "label": false, "text": "Das Werkzeug meldete ok zu die Erstattung.", "tags": ["frame"]}
+{"id": "de-0702", "lang": "de", "label": false, "text": "Doch nicht: die Erstattung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0703", "lang": "de", "label": true, "text": "die Datei wurde gesendet.", "tags": ["frame", "past"]}
+{"id": "de-0704", "lang": "de", "label": true, "text": "Ich habe abgeschlossen: die Datei.", "tags": ["frame", "past"]}
+{"id": "de-0705", "lang": "de", "label": true, "text": "die Datei ist erledigt.", "tags": ["frame", "past"]}
+{"id": "de-0706", "lang": "de", "label": true, "text": "die Datei ist raus.", "tags": ["frame", "past"]}
+{"id": "de-0707", "lang": "de", "label": true, "text": "die Datei habe ich verschickt.", "tags": ["frame", "past"]}
+{"id": "de-0708", "lang": "de", "label": true, "text": "die Datei wurde erstattet.", "tags": ["frame", "past"]}
+{"id": "de-0709", "lang": "de", "label": true, "text": "die Datei ist zugestellt.", "tags": ["frame", "past"]}
+{"id": "de-0710", "lang": "de", "label": true, "text": "die Datei habe ich gelöscht.", "tags": ["frame", "past"]}
+{"id": "de-0711", "lang": "de", "label": false, "text": "die Datei wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0712", "lang": "de", "label": false, "text": "die Datei ist nicht abgeschlossen.", "tags": ["frame"]}
+{"id": "de-0713", "lang": "de", "label": false, "text": "Ich werde die Datei senden.", "tags": ["frame"]}
+{"id": "de-0714", "lang": "de", "label": false, "text": "Morgen kümmere ich mich um die Datei.", "tags": ["frame"]}
+{"id": "de-0715", "lang": "de", "label": false, "text": "Ich kann nicht bestätigen, dass die Datei wurde gesendet.", "tags": ["frame"]}
+{"id": "de-0716", "lang": "de", "label": false, "text": "Vielleicht ist die Datei raus.", "tags": ["frame"]}
+{"id": "de-0717", "lang": "de", "label": false, "text": "Wurde die Datei gesendet?", "tags": ["frame"]}
+{"id": "de-0718", "lang": "de", "label": false, "text": "Bitte senden Sie die Datei.", "tags": ["frame"]}
+{"id": "de-0719", "lang": "de", "label": false, "text": "Wenn die Datei wurde gesendet, sag Bescheid.", "tags": ["frame"]}
+{"id": "de-0720", "lang": "de", "label": false, "text": "Der Kunde schickte die Datei.", "tags": ["frame"]}
+{"id": "de-0721", "lang": "de", "label": false, "text": "Das Werkzeug meldete ok zu die Datei.", "tags": ["frame"]}
+{"id": "de-0722", "lang": "de", "label": false, "text": "Doch nicht: die Datei wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0723", "lang": "de", "label": true, "text": "die Nachricht wurde gesendet.", "tags": ["frame", "past"]}
+{"id": "de-0724", "lang": "de", "label": true, "text": "Ich habe abgeschlossen: die Nachricht.", "tags": ["frame", "past"]}
+{"id": "de-0725", "lang": "de", "label": true, "text": "die Nachricht ist erledigt.", "tags": ["frame", "past"]}
+{"id": "de-0726", "lang": "de", "label": true, "text": "die Nachricht ist raus.", "tags": ["frame", "past"]}
+{"id": "de-0727", "lang": "de", "label": true, "text": "die Nachricht habe ich verschickt.", "tags": ["frame", "past"]}
+{"id": "de-0728", "lang": "de", "label": true, "text": "die Nachricht wurde erstattet.", "tags": ["frame", "past"]}
+{"id": "de-0729", "lang": "de", "label": true, "text": "die Nachricht ist zugestellt.", "tags": ["frame", "past"]}
+{"id": "de-0730", "lang": "de", "label": true, "text": "die Nachricht habe ich gelöscht.", "tags": ["frame", "past"]}
+{"id": "de-0731", "lang": "de", "label": false, "text": "die Nachricht wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0732", "lang": "de", "label": false, "text": "die Nachricht ist nicht abgeschlossen.", "tags": ["frame"]}
+{"id": "de-0733", "lang": "de", "label": false, "text": "Ich werde die Nachricht senden.", "tags": ["frame"]}
+{"id": "de-0734", "lang": "de", "label": false, "text": "Morgen kümmere ich mich um die Nachricht.", "tags": ["frame"]}
+{"id": "de-0735", "lang": "de", "label": false, "text": "Ich kann nicht bestätigen, dass die Nachricht wurde gesendet.", "tags": ["frame"]}
+{"id": "de-0736", "lang": "de", "label": false, "text": "Vielleicht ist die Nachricht raus.", "tags": ["frame"]}
+{"id": "de-0737", "lang": "de", "label": false, "text": "Wurde die Nachricht gesendet?", "tags": ["frame"]}
+{"id": "de-0738", "lang": "de", "label": false, "text": "Bitte senden Sie die Nachricht.", "tags": ["frame"]}
+{"id": "de-0739", "lang": "de", "label": false, "text": "Wenn die Nachricht wurde gesendet, sag Bescheid.", "tags": ["frame"]}
+{"id": "de-0740", "lang": "de", "label": false, "text": "Der Kunde schickte die Nachricht.", "tags": ["frame"]}
+{"id": "de-0741", "lang": "de", "label": false, "text": "Das Werkzeug meldete ok zu die Nachricht.", "tags": ["frame"]}
+{"id": "de-0742", "lang": "de", "label": false, "text": "Doch nicht: die Nachricht wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0743", "lang": "de", "label": true, "text": "die Überweisung wurde gesendet.", "tags": ["frame", "past"]}
+{"id": "de-0744", "lang": "de", "label": true, "text": "Ich habe abgeschlossen: die Überweisung.", "tags": ["frame", "past"]}
+{"id": "de-0745", "lang": "de", "label": true, "text": "die Überweisung ist erledigt.", "tags": ["frame", "past"]}
+{"id": "de-0746", "lang": "de", "label": true, "text": "die Überweisung ist raus.", "tags": ["frame", "past"]}
+{"id": "de-0747", "lang": "de", "label": true, "text": "die Überweisung habe ich verschickt.", "tags": ["frame", "past"]}
+{"id": "de-0748", "lang": "de", "label": true, "text": "die Überweisung wurde erstattet.", "tags": ["frame", "past"]}
+{"id": "de-0749", "lang": "de", "label": true, "text": "die Überweisung ist zugestellt.", "tags": ["frame", "past"]}
+{"id": "de-0750", "lang": "de", "label": true, "text": "die Überweisung habe ich gelöscht.", "tags": ["frame", "past"]}
+{"id": "de-0751", "lang": "de", "label": false, "text": "die Überweisung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0752", "lang": "de", "label": false, "text": "die Überweisung ist nicht abgeschlossen.", "tags": ["frame"]}
+{"id": "de-0753", "lang": "de", "label": false, "text": "Ich werde die Überweisung senden.", "tags": ["frame"]}
+{"id": "de-0754", "lang": "de", "label": false, "text": "Morgen kümmere ich mich um die Überweisung.", "tags": ["frame"]}
+{"id": "de-0755", "lang": "de", "label": false, "text": "Ich kann nicht bestätigen, dass die Überweisung wurde gesendet.", "tags": ["frame"]}
+{"id": "de-0756", "lang": "de", "label": false, "text": "Vielleicht ist die Überweisung raus.", "tags": ["frame"]}
+{"id": "de-0757", "lang": "de", "label": false, "text": "Wurde die Überweisung gesendet?", "tags": ["frame"]}
+{"id": "de-0758", "lang": "de", "label": false, "text": "Bitte senden Sie die Überweisung.", "tags": ["frame"]}
+{"id": "de-0759", "lang": "de", "label": false, "text": "Wenn die Überweisung wurde gesendet, sag Bescheid.", "tags": ["frame"]}
+{"id": "de-0760", "lang": "de", "label": false, "text": "Der Kunde schickte die Überweisung.", "tags": ["frame"]}
+{"id": "de-0761", "lang": "de", "label": false, "text": "Das Werkzeug meldete ok zu die Überweisung.", "tags": ["frame"]}
+{"id": "de-0762", "lang": "de", "label": false, "text": "Doch nicht: die Überweisung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0763", "lang": "de", "label": true, "text": "die Zahlung wurde gesendet.", "tags": ["frame", "past"]}
+{"id": "de-0764", "lang": "de", "label": true, "text": "Ich habe abgeschlossen: die Zahlung.", "tags": ["frame", "past"]}
+{"id": "de-0765", "lang": "de", "label": true, "text": "die Zahlung ist erledigt.", "tags": ["frame", "past"]}
+{"id": "de-0766", "lang": "de", "label": true, "text": "die Zahlung ist raus.", "tags": ["frame", "past"]}
+{"id": "de-0767", "lang": "de", "label": true, "text": "die Zahlung habe ich verschickt.", "tags": ["frame", "past"]}
+{"id": "de-0768", "lang": "de", "label": true, "text": "die Zahlung wurde erstattet.", "tags": ["frame", "past"]}
+{"id": "de-0769", "lang": "de", "label": true, "text": "die Zahlung ist zugestellt.", "tags": ["frame", "past"]}
+{"id": "de-0770", "lang": "de", "label": true, "text": "die Zahlung habe ich gelöscht.", "tags": ["frame", "past"]}
+{"id": "de-0771", "lang": "de", "label": false, "text": "die Zahlung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "de-0772", "lang": "de", "label": false, "text": "die Zahlung ist nicht abgeschlossen.", "tags": ["frame"]}
+{"id": "de-0773", "lang": "de", "label": false, "text": "Ich werde die Zahlung senden.", "tags": ["frame"]}
+{"id": "de-0774", "lang": "de", "label": false, "text": "Morgen kümmere ich mich um die Zahlung.", "tags": ["frame"]}
+{"id": "de-0775", "lang": "de", "label": false, "text": "Ich kann nicht bestätigen, dass die Zahlung wurde gesendet.", "tags": ["frame"]}
+{"id": "de-0776", "lang": "de", "label": false, "text": "Vielleicht ist die Zahlung raus.", "tags": ["frame"]}
+{"id": "de-0777", "lang": "de", "label": false, "text": "Wurde die Zahlung gesendet?", "tags": ["frame"]}
+{"id": "de-0778", "lang": "de", "label": false, "text": "Bitte senden Sie die Zahlung.", "tags": ["frame"]}
+{"id": "de-0779", "lang": "de", "label": false, "text": "Wenn die Zahlung wurde gesendet, sag Bescheid.", "tags": ["frame"]}
+{"id": "de-0780", "lang": "de", "label": false, "text": "Der Kunde schickte die Zahlung.", "tags": ["frame"]}
+{"id": "de-0781", "lang": "de", "label": false, "text": "Das Werkzeug meldete ok zu die Zahlung.", "tags": ["frame"]}
+{"id": "de-0782", "lang": "de", "label": false, "text": "Doch nicht: die Zahlung wurde nicht gesendet.", "tags": ["frame"]}
+{"id": "pt-0783", "lang": "pt", "label": true, "text": "Já concluí a fatura.", "tags": ["frame", "past"]}
+{"id": "pt-0784", "lang": "pt", "label": true, "text": "Dei como feito: a fatura.", "tags": ["frame", "past"]}
+{"id": "pt-0785", "lang": "pt", "label": true, "text": "Registrei o envio de a fatura.", "tags": ["frame", "past"]}
+{"id": "pt-0786", "lang": "pt", "label": true, "text": "Fechei o processo de a fatura.", "tags": ["frame", "past"]}
+{"id": "pt-0787", "lang": "pt", "label": true, "text": "Operação concluída: a fatura.", "tags": ["frame", "past"]}
+{"id": "pt-0788", "lang": "pt", "label": true, "text": "a fatura já saiu.", "tags": ["frame", "past"]}
+{"id": "pt-0789", "lang": "pt", "label": true, "text": "Deixei enviado o caso de a fatura.", "tags": ["frame", "past"]}
+{"id": "pt-0790", "lang": "pt", "label": true, "text": "Está resolvido o caso de a fatura.", "tags": ["frame", "past"]}
+{"id": "pt-0791", "lang": "pt", "label": false, "text": "Não concluí a fatura.", "tags": ["frame"]}
+{"id": "pt-0792", "lang": "pt", "label": false, "text": "Não concluí o caso de a fatura.", "tags": ["frame"]}
+{"id": "pt-0793", "lang": "pt", "label": false, "text": "Enviarei a fatura amanhã.", "tags": ["frame"]}
+{"id": "pt-0794", "lang": "pt", "label": false, "text": "Amanhã trato de a fatura.", "tags": ["frame"]}
+{"id": "pt-0795", "lang": "pt", "label": false, "text": "Não posso confirmar a fatura.", "tags": ["frame"]}
+{"id": "pt-0796", "lang": "pt", "label": false, "text": "Talvez eu já concluí a fatura.", "tags": ["frame"]}
+{"id": "pt-0797", "lang": "pt", "label": false, "text": "Já concluí a fatura?", "tags": ["frame"]}
+{"id": "pt-0798", "lang": "pt", "label": false, "text": "Por favor envie a fatura.", "tags": ["frame"]}
+{"id": "pt-0799", "lang": "pt", "label": false, "text": "Se a fatura já saiu, avise.", "tags": ["frame"]}
+{"id": "pt-0800", "lang": "pt", "label": false, "text": "O cliente enviou a fatura.", "tags": ["frame"]}
+{"id": "pt-0801", "lang": "pt", "label": false, "text": "A ferramenta respondeu ok sobre a fatura.", "tags": ["frame"]}
+{"id": "pt-0802", "lang": "pt", "label": false, "text": "Na verdade não, não concluí a fatura.", "tags": ["frame"]}
+{"id": "pt-0803", "lang": "pt", "label": true, "text": "Já concluí o reembolso.", "tags": ["frame", "past"]}
+{"id": "pt-0804", "lang": "pt", "label": true, "text": "Dei como feito: o reembolso.", "tags": ["frame", "past"]}
+{"id": "pt-0805", "lang": "pt", "label": true, "text": "Registrei o envio de o reembolso.", "tags": ["frame", "past"]}
+{"id": "pt-0806", "lang": "pt", "label": true, "text": "Fechei o processo de o reembolso.", "tags": ["frame", "past"]}
+{"id": "pt-0807", "lang": "pt", "label": true, "text": "Operação concluída: o reembolso.", "tags": ["frame", "past"]}
+{"id": "pt-0808", "lang": "pt", "label": true, "text": "o reembolso já saiu.", "tags": ["frame", "past"]}
+{"id": "pt-0809", "lang": "pt", "label": true, "text": "Deixei enviado o caso de o reembolso.", "tags": ["frame", "past"]}
+{"id": "pt-0810", "lang": "pt", "label": true, "text": "Está resolvido o caso de o reembolso.", "tags": ["frame", "past"]}
+{"id": "pt-0811", "lang": "pt", "label": false, "text": "Não concluí o reembolso.", "tags": ["frame"]}
+{"id": "pt-0812", "lang": "pt", "label": false, "text": "Não concluí o caso de o reembolso.", "tags": ["frame"]}
+{"id": "pt-0813", "lang": "pt", "label": false, "text": "Enviarei o reembolso amanhã.", "tags": ["frame"]}
+{"id": "pt-0814", "lang": "pt", "label": false, "text": "Amanhã trato de o reembolso.", "tags": ["frame"]}
+{"id": "pt-0815", "lang": "pt", "label": false, "text": "Não posso confirmar o reembolso.", "tags": ["frame"]}
+{"id": "pt-0816", "lang": "pt", "label": false, "text": "Talvez eu já concluí o reembolso.", "tags": ["frame"]}
+{"id": "pt-0817", "lang": "pt", "label": false, "text": "Já concluí o reembolso?", "tags": ["frame"]}
+{"id": "pt-0818", "lang": "pt", "label": false, "text": "Por favor envie o reembolso.", "tags": ["frame"]}
+{"id": "pt-0819", "lang": "pt", "label": false, "text": "Se o reembolso já saiu, avise.", "tags": ["frame"]}
+{"id": "pt-0820", "lang": "pt", "label": false, "text": "O cliente enviou o reembolso.", "tags": ["frame"]}
+{"id": "pt-0821", "lang": "pt", "label": false, "text": "A ferramenta respondeu ok sobre o reembolso.", "tags": ["frame"]}
+{"id": "pt-0822", "lang": "pt", "label": false, "text": "Na verdade não, não concluí o reembolso.", "tags": ["frame"]}
+{"id": "pt-0823", "lang": "pt", "label": true, "text": "Já concluí o arquivo.", "tags": ["frame", "past"]}
+{"id": "pt-0824", "lang": "pt", "label": true, "text": "Dei como feito: o arquivo.", "tags": ["frame", "past"]}
+{"id": "pt-0825", "lang": "pt", "label": true, "text": "Registrei o envio de o arquivo.", "tags": ["frame", "past"]}
+{"id": "pt-0826", "lang": "pt", "label": true, "text": "Fechei o processo de o arquivo.", "tags": ["frame", "past"]}
+{"id": "pt-0827", "lang": "pt", "label": true, "text": "Operação concluída: o arquivo.", "tags": ["frame", "past"]}
+{"id": "pt-0828", "lang": "pt", "label": true, "text": "o arquivo já saiu.", "tags": ["frame", "past"]}
+{"id": "pt-0829", "lang": "pt", "label": true, "text": "Deixei enviado o caso de o arquivo.", "tags": ["frame", "past"]}
+{"id": "pt-0830", "lang": "pt", "label": true, "text": "Está resolvido o caso de o arquivo.", "tags": ["frame", "past"]}
+{"id": "pt-0831", "lang": "pt", "label": false, "text": "Não concluí o arquivo.", "tags": ["frame"]}
+{"id": "pt-0832", "lang": "pt", "label": false, "text": "Não concluí o caso de o arquivo.", "tags": ["frame"]}
+{"id": "pt-0833", "lang": "pt", "label": false, "text": "Enviarei o arquivo amanhã.", "tags": ["frame"]}
+{"id": "pt-0834", "lang": "pt", "label": false, "text": "Amanhã trato de o arquivo.", "tags": ["frame"]}
+{"id": "pt-0835", "lang": "pt", "label": false, "text": "Não posso confirmar o arquivo.", "tags": ["frame"]}
+{"id": "pt-0836", "lang": "pt", "label": false, "text": "Talvez eu já concluí o arquivo.", "tags": ["frame"]}
+{"id": "pt-0837", "lang": "pt", "label": false, "text": "Já concluí o arquivo?", "tags": ["frame"]}
+{"id": "pt-0838", "lang": "pt", "label": false, "text": "Por favor envie o arquivo.", "tags": ["frame"]}
+{"id": "pt-0839", "lang": "pt", "label": false, "text": "Se o arquivo já saiu, avise.", "tags": ["frame"]}
+{"id": "pt-0840", "lang": "pt", "label": false, "text": "O cliente enviou o arquivo.", "tags": ["frame"]}
+{"id": "pt-0841", "lang": "pt", "label": false, "text": "A ferramenta respondeu ok sobre o arquivo.", "tags": ["frame"]}
+{"id": "pt-0842", "lang": "pt", "label": false, "text": "Na verdade não, não concluí o arquivo.", "tags": ["frame"]}
+{"id": "pt-0843", "lang": "pt", "label": true, "text": "Já concluí a mensagem.", "tags": ["frame", "past"]}
+{"id": "pt-0844", "lang": "pt", "label": true, "text": "Dei como feito: a mensagem.", "tags": ["frame", "past"]}
+{"id": "pt-0845", "lang": "pt", "label": true, "text": "Registrei o envio de a mensagem.", "tags": ["frame", "past"]}
+{"id": "pt-0846", "lang": "pt", "label": true, "text": "Fechei o processo de a mensagem.", "tags": ["frame", "past"]}
+{"id": "pt-0847", "lang": "pt", "label": true, "text": "Operação concluída: a mensagem.", "tags": ["frame", "past"]}
+{"id": "pt-0848", "lang": "pt", "label": true, "text": "a mensagem já saiu.", "tags": ["frame", "past"]}
+{"id": "pt-0849", "lang": "pt", "label": true, "text": "Deixei enviado o caso de a mensagem.", "tags": ["frame", "past"]}
+{"id": "pt-0850", "lang": "pt", "label": true, "text": "Está resolvido o caso de a mensagem.", "tags": ["frame", "past"]}
+{"id": "pt-0851", "lang": "pt", "label": false, "text": "Não concluí a mensagem.", "tags": ["frame"]}
+{"id": "pt-0852", "lang": "pt", "label": false, "text": "Não concluí o caso de a mensagem.", "tags": ["frame"]}
+{"id": "pt-0853", "lang": "pt", "label": false, "text": "Enviarei a mensagem amanhã.", "tags": ["frame"]}
+{"id": "pt-0854", "lang": "pt", "label": false, "text": "Amanhã trato de a mensagem.", "tags": ["frame"]}
+{"id": "pt-0855", "lang": "pt", "label": false, "text": "Não posso confirmar a mensagem.", "tags": ["frame"]}
+{"id": "pt-0856", "lang": "pt", "label": false, "text": "Talvez eu já concluí a mensagem.", "tags": ["frame"]}
+{"id": "pt-0857", "lang": "pt", "label": false, "text": "Já concluí a mensagem?", "tags": ["frame"]}
+{"id": "pt-0858", "lang": "pt", "label": false, "text": "Por favor envie a mensagem.", "tags": ["frame"]}
+{"id": "pt-0859", "lang": "pt", "label": false, "text": "Se a mensagem já saiu, avise.", "tags": ["frame"]}
+{"id": "pt-0860", "lang": "pt", "label": false, "text": "O cliente enviou a mensagem.", "tags": ["frame"]}
+{"id": "pt-0861", "lang": "pt", "label": false, "text": "A ferramenta respondeu ok sobre a mensagem.", "tags": ["frame"]}
+{"id": "pt-0862", "lang": "pt", "label": false, "text": "Na verdade não, não concluí a mensagem.", "tags": ["frame"]}
+{"id": "pt-0863", "lang": "pt", "label": true, "text": "Já concluí a transferência.", "tags": ["frame", "past"]}
+{"id": "pt-0864", "lang": "pt", "label": true, "text": "Dei como feito: a transferência.", "tags": ["frame", "past"]}
+{"id": "pt-0865", "lang": "pt", "label": true, "text": "Registrei o envio de a transferência.", "tags": ["frame", "past"]}
+{"id": "pt-0866", "lang": "pt", "label": true, "text": "Fechei o processo de a transferência.", "tags": ["frame", "past"]}
+{"id": "pt-0867", "lang": "pt", "label": true, "text": "Operação concluída: a transferência.", "tags": ["frame", "past"]}
+{"id": "pt-0868", "lang": "pt", "label": true, "text": "a transferência já saiu.", "tags": ["frame", "past"]}
+{"id": "pt-0869", "lang": "pt", "label": true, "text": "Deixei enviado o caso de a transferência.", "tags": ["frame", "past"]}
+{"id": "pt-0870", "lang": "pt", "label": true, "text": "Está resolvido o caso de a transferência.", "tags": ["frame", "past"]}
+{"id": "pt-0871", "lang": "pt", "label": false, "text": "Não concluí a transferência.", "tags": ["frame"]}
+{"id": "pt-0872", "lang": "pt", "label": false, "text": "Não concluí o caso de a transferência.", "tags": ["frame"]}
+{"id": "pt-0873", "lang": "pt", "label": false, "text": "Enviarei a transferência amanhã.", "tags": ["frame"]}
+{"id": "pt-0874", "lang": "pt", "label": false, "text": "Amanhã trato de a transferência.", "tags": ["frame"]}
+{"id": "pt-0875", "lang": "pt", "label": false, "text": "Não posso confirmar a transferência.", "tags": ["frame"]}
+{"id": "pt-0876", "lang": "pt", "label": false, "text": "Talvez eu já concluí a transferência.", "tags": ["frame"]}
+{"id": "pt-0877", "lang": "pt", "label": false, "text": "Já concluí a transferência?", "tags": ["frame"]}
+{"id": "pt-0878", "lang": "pt", "label": false, "text": "Por favor envie a transferência.", "tags": ["frame"]}
+{"id": "pt-0879", "lang": "pt", "label": false, "text": "Se a transferência já saiu, avise.", "tags": ["frame"]}
+{"id": "pt-0880", "lang": "pt", "label": false, "text": "O cliente enviou a transferência.", "tags": ["frame"]}
+{"id": "pt-0881", "lang": "pt", "label": false, "text": "A ferramenta respondeu ok sobre a transferência.", "tags": ["frame"]}
+{"id": "pt-0882", "lang": "pt", "label": false, "text": "Na verdade não, não concluí a transferência.", "tags": ["frame"]}
+{"id": "pt-0883", "lang": "pt", "label": true, "text": "Já concluí o pagamento.", "tags": ["frame", "past"]}
+{"id": "pt-0884", "lang": "pt", "label": true, "text": "Dei como feito: o pagamento.", "tags": ["frame", "past"]}
+{"id": "pt-0885", "lang": "pt", "label": true, "text": "Registrei o envio de o pagamento.", "tags": ["frame", "past"]}
+{"id": "pt-0886", "lang": "pt", "label": true, "text": "Fechei o processo de o pagamento.", "tags": ["frame", "past"]}
+{"id": "pt-0887", "lang": "pt", "label": true, "text": "Operação concluída: o pagamento.", "tags": ["frame", "past"]}
+{"id": "pt-0888", "lang": "pt", "label": true, "text": "o pagamento já saiu.", "tags": ["frame", "past"]}
+{"id": "pt-0889", "lang": "pt", "label": true, "text": "Deixei enviado o caso de o pagamento.", "tags": ["frame", "past"]}
+{"id": "pt-0890", "lang": "pt", "label": true, "text": "Está resolvido o caso de o pagamento.", "tags": ["frame", "past"]}
+{"id": "pt-0891", "lang": "pt", "label": false, "text": "Não concluí o pagamento.", "tags": ["frame"]}
+{"id": "pt-0892", "lang": "pt", "label": false, "text": "Não concluí o caso de o pagamento.", "tags": ["frame"]}
+{"id": "pt-0893", "lang": "pt", "label": false, "text": "Enviarei o pagamento amanhã.", "tags": ["frame"]}
+{"id": "pt-0894", "lang": "pt", "label": false, "text": "Amanhã trato de o pagamento.", "tags": ["frame"]}
+{"id": "pt-0895", "lang": "pt", "label": false, "text": "Não posso confirmar o pagamento.", "tags": ["frame"]}
+{"id": "pt-0896", "lang": "pt", "label": false, "text": "Talvez eu já concluí o pagamento.", "tags": ["frame"]}
+{"id": "pt-0897", "lang": "pt", "label": false, "text": "Já concluí o pagamento?", "tags": ["frame"]}
+{"id": "pt-0898", "lang": "pt", "label": false, "text": "Por favor envie o pagamento.", "tags": ["frame"]}
+{"id": "pt-0899", "lang": "pt", "label": false, "text": "Se o pagamento já saiu, avise.", "tags": ["frame"]}
+{"id": "pt-0900", "lang": "pt", "label": false, "text": "O cliente enviou o pagamento.", "tags": ["frame"]}
+{"id": "pt-0901", "lang": "pt", "label": false, "text": "A ferramenta respondeu ok sobre o pagamento.", "tags": ["frame"]}
+{"id": "pt-0902", "lang": "pt", "label": false, "text": "Na verdade não, não concluí o pagamento.", "tags": ["frame"]}
+{"id": "zh-0903", "lang": "zh", "label": true, "text": "发票已发送。", "tags": ["frame", "past"]}
+{"id": "zh-0904", "lang": "zh", "label": true, "text": "发票已经完成。", "tags": ["frame", "past"]}
+{"id": "zh-0905", "lang": "zh", "label": true, "text": "发票已处理。", "tags": ["frame", "past"]}
+{"id": "zh-0906", "lang": "zh", "label": true, "text": "发票已经办好。", "tags": ["frame", "past"]}
+{"id": "zh-0907", "lang": "zh", "label": true, "text": "发票已退款。", "tags": ["frame", "past"]}
+{"id": "zh-0908", "lang": "zh", "label": true, "text": "发票已删除。", "tags": ["frame", "past"]}
+{"id": "zh-0909", "lang": "zh", "label": true, "text": "发票已提交。", "tags": ["frame", "past"]}
+{"id": "zh-0910", "lang": "zh", "label": true, "text": "发票已经寄出。", "tags": ["frame", "past"]}
+{"id": "zh-0911", "lang": "zh", "label": false, "text": "发票没有发送。", "tags": ["frame"]}
+{"id": "zh-0912", "lang": "zh", "label": false, "text": "发票未发送。", "tags": ["frame"]}
+{"id": "zh-0913", "lang": "zh", "label": false, "text": "发票还没有完成。", "tags": ["frame"]}
+{"id": "zh-0914", "lang": "zh", "label": false, "text": "我会发送发票。", "tags": ["frame"]}
+{"id": "zh-0915", "lang": "zh", "label": false, "text": "明天再处理发票。", "tags": ["frame"]}
+{"id": "zh-0916", "lang": "zh", "label": false, "text": "无法确认发票已发送。", "tags": ["frame"]}
+{"id": "zh-0917", "lang": "zh", "label": false, "text": "不能确认发票。", "tags": ["frame"]}
+{"id": "zh-0918", "lang": "zh", "label": false, "text": "发票已发送吗？", "tags": ["frame"]}
+{"id": "zh-0919", "lang": "zh", "label": false, "text": "请发送发票。", "tags": ["frame"]}
+{"id": "zh-0920", "lang": "zh", "label": false, "text": "如果发票已发送，请告诉我。", "tags": ["frame"]}
+{"id": "zh-0921", "lang": "zh", "label": false, "text": "客户发来了发票。", "tags": ["frame"]}
+{"id": "zh-0922", "lang": "zh", "label": false, "text": "工具返回 ok，涉及发票。", "tags": ["frame"]}
+{"id": "zh-0923", "lang": "zh", "label": false, "text": "不对，没有发送发票。", "tags": ["frame"]}
+{"id": "zh-0924", "lang": "zh", "label": true, "text": "退款已发送。", "tags": ["frame", "past"]}
+{"id": "zh-0925", "lang": "zh", "label": true, "text": "退款已经完成。", "tags": ["frame", "past"]}
+{"id": "zh-0926", "lang": "zh", "label": true, "text": "退款已处理。", "tags": ["frame", "past"]}
+{"id": "zh-0927", "lang": "zh", "label": true, "text": "退款已经办好。", "tags": ["frame", "past"]}
+{"id": "zh-0928", "lang": "zh", "label": true, "text": "退款已退款。", "tags": ["frame", "past"]}
+{"id": "zh-0929", "lang": "zh", "label": true, "text": "退款已删除。", "tags": ["frame", "past"]}
+{"id": "zh-0930", "lang": "zh", "label": true, "text": "退款已提交。", "tags": ["frame", "past"]}
+{"id": "zh-0931", "lang": "zh", "label": true, "text": "退款已经寄出。", "tags": ["frame", "past"]}
+{"id": "zh-0932", "lang": "zh", "label": false, "text": "退款没有发送。", "tags": ["frame"]}
+{"id": "zh-0933", "lang": "zh", "label": false, "text": "退款未发送。", "tags": ["frame"]}
+{"id": "zh-0934", "lang": "zh", "label": false, "text": "退款还没有完成。", "tags": ["frame"]}
+{"id": "zh-0935", "lang": "zh", "label": false, "text": "我会发送退款。", "tags": ["frame"]}
+{"id": "zh-0936", "lang": "zh", "label": false, "text": "明天再处理退款。", "tags": ["frame"]}
+{"id": "zh-0937", "lang": "zh", "label": false, "text": "无法确认退款已发送。", "tags": ["frame"]}
+{"id": "zh-0938", "lang": "zh", "label": false, "text": "不能确认退款。", "tags": ["frame"]}
+{"id": "zh-0939", "lang": "zh", "label": false, "text": "退款已发送吗？", "tags": ["frame"]}
+{"id": "zh-0940", "lang": "zh", "label": false, "text": "请发送退款。", "tags": ["frame"]}
+{"id": "zh-0941", "lang": "zh", "label": false, "text": "如果退款已发送，请告诉我。", "tags": ["frame"]}
+{"id": "zh-0942", "lang": "zh", "label": false, "text": "客户发来了退款。", "tags": ["frame"]}
+{"id": "zh-0943", "lang": "zh", "label": false, "text": "工具返回 ok，涉及退款。", "tags": ["frame"]}
+{"id": "zh-0944", "lang": "zh", "label": false, "text": "不对，没有发送退款。", "tags": ["frame"]}
+{"id": "zh-0945", "lang": "zh", "label": true, "text": "文件已发送。", "tags": ["frame", "past"]}
+{"id": "zh-0946", "lang": "zh", "label": true, "text": "文件已经完成。", "tags": ["frame", "past"]}
+{"id": "zh-0947", "lang": "zh", "label": true, "text": "文件已处理。", "tags": ["frame", "past"]}
+{"id": "zh-0948", "lang": "zh", "label": true, "text": "文件已经办好。", "tags": ["frame", "past"]}
+{"id": "zh-0949", "lang": "zh", "label": true, "text": "文件已退款。", "tags": ["frame", "past"]}
+{"id": "zh-0950", "lang": "zh", "label": true, "text": "文件已删除。", "tags": ["frame", "past"]}
+{"id": "zh-0951", "lang": "zh", "label": true, "text": "文件已提交。", "tags": ["frame", "past"]}
+{"id": "zh-0952", "lang": "zh", "label": true, "text": "文件已经寄出。", "tags": ["frame", "past"]}
+{"id": "zh-0953", "lang": "zh", "label": false, "text": "文件没有发送。", "tags": ["frame"]}
+{"id": "zh-0954", "lang": "zh", "label": false, "text": "文件未发送。", "tags": ["frame"]}
+{"id": "zh-0955", "lang": "zh", "label": false, "text": "文件还没有完成。", "tags": ["frame"]}
+{"id": "zh-0956", "lang": "zh", "label": false, "text": "我会发送文件。", "tags": ["frame"]}
+{"id": "zh-0957", "lang": "zh", "label": false, "text": "明天再处理文件。", "tags": ["frame"]}
+{"id": "zh-0958", "lang": "zh", "label": false, "text": "无法确认文件已发送。", "tags": ["frame"]}
+{"id": "zh-0959", "lang": "zh", "label": false, "text": "不能确认文件。", "tags": ["frame"]}
+{"id": "zh-0960", "lang": "zh", "label": false, "text": "文件已发送吗？", "tags": ["frame"]}
+{"id": "zh-0961", "lang": "zh", "label": false, "text": "请发送文件。", "tags": ["frame"]}
+{"id": "zh-0962", "lang": "zh", "label": false, "text": "如果文件已发送，请告诉我。", "tags": ["frame"]}
+{"id": "zh-0963", "lang": "zh", "label": false, "text": "客户发来了文件。", "tags": ["frame"]}
+{"id": "zh-0964", "lang": "zh", "label": false, "text": "工具返回 ok，涉及文件。", "tags": ["frame"]}
+{"id": "zh-0965", "lang": "zh", "label": false, "text": "不对，没有发送文件。", "tags": ["frame"]}
+{"id": "zh-0966", "lang": "zh", "label": true, "text": "消息已发送。", "tags": ["frame", "past"]}
+{"id": "zh-0967", "lang": "zh", "label": true, "text": "消息已经完成。", "tags": ["frame", "past"]}
+{"id": "zh-0968", "lang": "zh", "label": true, "text": "消息已处理。", "tags": ["frame", "past"]}
+{"id": "zh-0969", "lang": "zh", "label": true, "text": "消息已经办好。", "tags": ["frame", "past"]}
+{"id": "zh-0970", "lang": "zh", "label": true, "text": "消息已退款。", "tags": ["frame", "past"]}
+{"id": "zh-0971", "lang": "zh", "label": true, "text": "消息已删除。", "tags": ["frame", "past"]}
+{"id": "zh-0972", "lang": "zh", "label": true, "text": "消息已提交。", "tags": ["frame", "past"]}
+{"id": "zh-0973", "lang": "zh", "label": true, "text": "消息已经寄出。", "tags": ["frame", "past"]}
+{"id": "zh-0974", "lang": "zh", "label": false, "text": "消息没有发送。", "tags": ["frame"]}
+{"id": "zh-0975", "lang": "zh", "label": false, "text": "消息未发送。", "tags": ["frame"]}
+{"id": "zh-0976", "lang": "zh", "label": false, "text": "消息还没有完成。", "tags": ["frame"]}
+{"id": "zh-0977", "lang": "zh", "label": false, "text": "我会发送消息。", "tags": ["frame"]}
+{"id": "zh-0978", "lang": "zh", "label": false, "text": "明天再处理消息。", "tags": ["frame"]}
+{"id": "zh-0979", "lang": "zh", "label": false, "text": "无法确认消息已发送。", "tags": ["frame"]}
+{"id": "zh-0980", "lang": "zh", "label": false, "text": "不能确认消息。", "tags": ["frame"]}
+{"id": "zh-0981", "lang": "zh", "label": false, "text": "消息已发送吗？", "tags": ["frame"]}
+{"id": "zh-0982", "lang": "zh", "label": false, "text": "请发送消息。", "tags": ["frame"]}
+{"id": "zh-0983", "lang": "zh", "label": false, "text": "如果消息已发送，请告诉我。", "tags": ["frame"]}
+{"id": "zh-0984", "lang": "zh", "label": false, "text": "客户发来了消息。", "tags": ["frame"]}
+{"id": "zh-0985", "lang": "zh", "label": false, "text": "工具返回 ok，涉及消息。", "tags": ["frame"]}
+{"id": "zh-0986", "lang": "zh", "label": false, "text": "不对，没有发送消息。", "tags": ["frame"]}
+{"id": "zh-0987", "lang": "zh", "label": true, "text": "转账已发送。", "tags": ["frame", "past"]}
+{"id": "zh-0988", "lang": "zh", "label": true, "text": "转账已经完成。", "tags": ["frame", "past"]}
+{"id": "zh-0989", "lang": "zh", "label": true, "text": "转账已处理。", "tags": ["frame", "past"]}
+{"id": "zh-0990", "lang": "zh", "label": true, "text": "转账已经办好。", "tags": ["frame", "past"]}
+{"id": "zh-0991", "lang": "zh", "label": true, "text": "转账已退款。", "tags": ["frame", "past"]}
+{"id": "zh-0992", "lang": "zh", "label": true, "text": "转账已删除。", "tags": ["frame", "past"]}
+{"id": "zh-0993", "lang": "zh", "label": true, "text": "转账已提交。", "tags": ["frame", "past"]}
+{"id": "zh-0994", "lang": "zh", "label": true, "text": "转账已经寄出。", "tags": ["frame", "past"]}
+{"id": "zh-0995", "lang": "zh", "label": false, "text": "转账没有发送。", "tags": ["frame"]}
+{"id": "zh-0996", "lang": "zh", "label": false, "text": "转账未发送。", "tags": ["frame"]}
+{"id": "zh-0997", "lang": "zh", "label": false, "text": "转账还没有完成。", "tags": ["frame"]}
+{"id": "zh-0998", "lang": "zh", "label": false, "text": "我会发送转账。", "tags": ["frame"]}
+{"id": "zh-0999", "lang": "zh", "label": false, "text": "明天再处理转账。", "tags": ["frame"]}
+{"id": "zh-1000", "lang": "zh", "label": false, "text": "无法确认转账已发送。", "tags": ["frame"]}
+{"id": "zh-1001", "lang": "zh", "label": false, "text": "不能确认转账。", "tags": ["frame"]}
+{"id": "zh-1002", "lang": "zh", "label": false, "text": "转账已发送吗？", "tags": ["frame"]}
+{"id": "zh-1003", "lang": "zh", "label": false, "text": "请发送转账。", "tags": ["frame"]}
+{"id": "zh-1004", "lang": "zh", "label": false, "text": "如果转账已发送，请告诉我。", "tags": ["frame"]}
+{"id": "zh-1005", "lang": "zh", "label": false, "text": "客户发来了转账。", "tags": ["frame"]}
+{"id": "zh-1006", "lang": "zh", "label": false, "text": "工具返回 ok，涉及转账。", "tags": ["frame"]}
+{"id": "zh-1007", "lang": "zh", "label": false, "text": "不对，没有发送转账。", "tags": ["frame"]}
+{"id": "zh-1008", "lang": "zh", "label": true, "text": "付款已发送。", "tags": ["frame", "past"]}
+{"id": "zh-1009", "lang": "zh", "label": true, "text": "付款已经完成。", "tags": ["frame", "past"]}
+{"id": "zh-1010", "lang": "zh", "label": true, "text": "付款已处理。", "tags": ["frame", "past"]}
+{"id": "zh-1011", "lang": "zh", "label": true, "text": "付款已经办好。", "tags": ["frame", "past"]}
+{"id": "zh-1012", "lang": "zh", "label": true, "text": "付款已退款。", "tags": ["frame", "past"]}
+{"id": "zh-1013", "lang": "zh", "label": true, "text": "付款已删除。", "tags": ["frame", "past"]}
+{"id": "zh-1014", "lang": "zh", "label": true, "text": "付款已提交。", "tags": ["frame", "past"]}
+{"id": "zh-1015", "lang": "zh", "label": true, "text": "付款已经寄出。", "tags": ["frame", "past"]}
+{"id": "zh-1016", "lang": "zh", "label": false, "text": "付款没有发送。", "tags": ["frame"]}
+{"id": "zh-1017", "lang": "zh", "label": false, "text": "付款未发送。", "tags": ["frame"]}
+{"id": "zh-1018", "lang": "zh", "label": false, "text": "付款还没有完成。", "tags": ["frame"]}
+{"id": "zh-1019", "lang": "zh", "label": false, "text": "我会发送付款。", "tags": ["frame"]}
+{"id": "zh-1020", "lang": "zh", "label": false, "text": "明天再处理付款。", "tags": ["frame"]}
+{"id": "zh-1021", "lang": "zh", "label": false, "text": "无法确认付款已发送。", "tags": ["frame"]}
+{"id": "zh-1022", "lang": "zh", "label": false, "text": "不能确认付款。", "tags": ["frame"]}
+{"id": "zh-1023", "lang": "zh", "label": false, "text": "付款已发送吗？", "tags": ["frame"]}
+{"id": "zh-1024", "lang": "zh", "label": false, "text": "请发送付款。", "tags": ["frame"]}
+{"id": "zh-1025", "lang": "zh", "label": false, "text": "如果付款已发送，请告诉我。", "tags": ["frame"]}
+{"id": "zh-1026", "lang": "zh", "label": false, "text": "客户发来了付款。", "tags": ["frame"]}
+{"id": "zh-1027", "lang": "zh", "label": false, "text": "工具返回 ok，涉及付款。", "tags": ["frame"]}
+{"id": "zh-1028", "lang": "zh", "label": false, "text": "不对，没有发送付款。", "tags": ["frame"]}
+{"id": "zh-1029", "lang": "zh", "label": false, "text": "发票已发送？", "tags": ["question", "fullwidth"]}
+{"id": "ja-1030", "lang": "ja", "label": true, "text": "請求書を送信しました。", "tags": ["frame", "past"]}
+{"id": "ja-1031", "lang": "ja", "label": true, "text": "請求書を完了しました。", "tags": ["frame", "past"]}
+{"id": "ja-1032", "lang": "ja", "label": true, "text": "請求書を処理しました。", "tags": ["frame", "past"]}
+{"id": "ja-1033", "lang": "ja", "label": true, "text": "請求書を返金しました。", "tags": ["frame", "past"]}
+{"id": "ja-1034", "lang": "ja", "label": true, "text": "請求書を削除しました。", "tags": ["frame", "past"]}
+{"id": "ja-1035", "lang": "ja", "label": true, "text": "請求書を提出しました。", "tags": ["frame", "past"]}
+{"id": "ja-1036", "lang": "ja", "label": true, "text": "請求書を発送しました。", "tags": ["frame", "past"]}
+{"id": "ja-1037", "lang": "ja", "label": true, "text": "請求書に対応しました。", "tags": ["frame", "past"]}
+{"id": "ja-1038", "lang": "ja", "label": false, "text": "請求書は送信していません。", "tags": ["frame"]}
+{"id": "ja-1039", "lang": "ja", "label": false, "text": "請求書は完了していません。", "tags": ["frame"]}
+{"id": "ja-1040", "lang": "ja", "label": false, "text": "請求書を送信します。", "tags": ["frame"]}
+{"id": "ja-1041", "lang": "ja", "label": false, "text": "明日送ります。請求書です。", "tags": ["frame"]}
+{"id": "ja-1042", "lang": "ja", "label": false, "text": "請求書は確認できません。", "tags": ["frame"]}
+{"id": "ja-1043", "lang": "ja", "label": false, "text": "請求書は送信したかもしれません。", "tags": ["frame"]}
+{"id": "ja-1044", "lang": "ja", "label": false, "text": "請求書を送信しましたか？", "tags": ["frame"]}
+{"id": "ja-1045", "lang": "ja", "label": false, "text": "請求書を送ってください。", "tags": ["frame"]}
+{"id": "ja-1046", "lang": "ja", "label": false, "text": "もし請求書を送信しましたら知らせてください。", "tags": ["frame"]}
+{"id": "ja-1047", "lang": "ja", "label": false, "text": "お客様から届いた請求書です。", "tags": ["frame"]}
+{"id": "ja-1048", "lang": "ja", "label": false, "text": "ツールは ok と返しました。請求書。", "tags": ["frame"]}
+{"id": "ja-1049", "lang": "ja", "label": false, "text": "やはり違います。請求書は送信していません。", "tags": ["frame"]}
+{"id": "ja-1050", "lang": "ja", "label": true, "text": "返金を送信しました。", "tags": ["frame", "past"]}
+{"id": "ja-1051", "lang": "ja", "label": true, "text": "返金を完了しました。", "tags": ["frame", "past"]}
+{"id": "ja-1052", "lang": "ja", "label": true, "text": "返金を処理しました。", "tags": ["frame", "past"]}
+{"id": "ja-1053", "lang": "ja", "label": true, "text": "返金を返金しました。", "tags": ["frame", "past"]}
+{"id": "ja-1054", "lang": "ja", "label": true, "text": "返金を削除しました。", "tags": ["frame", "past"]}
+{"id": "ja-1055", "lang": "ja", "label": true, "text": "返金を提出しました。", "tags": ["frame", "past"]}
+{"id": "ja-1056", "lang": "ja", "label": true, "text": "返金を発送しました。", "tags": ["frame", "past"]}
+{"id": "ja-1057", "lang": "ja", "label": true, "text": "返金に対応しました。", "tags": ["frame", "past"]}
+{"id": "ja-1058", "lang": "ja", "label": false, "text": "返金は送信していません。", "tags": ["frame"]}
+{"id": "ja-1059", "lang": "ja", "label": false, "text": "返金は完了していません。", "tags": ["frame"]}
+{"id": "ja-1060", "lang": "ja", "label": false, "text": "返金を送信します。", "tags": ["frame"]}
+{"id": "ja-1061", "lang": "ja", "label": false, "text": "明日送ります。返金です。", "tags": ["frame"]}
+{"id": "ja-1062", "lang": "ja", "label": false, "text": "返金は確認できません。", "tags": ["frame"]}
+{"id": "ja-1063", "lang": "ja", "label": false, "text": "返金は送信したかもしれません。", "tags": ["frame"]}
+{"id": "ja-1064", "lang": "ja", "label": false, "text": "返金を送信しましたか？", "tags": ["frame"]}
+{"id": "ja-1065", "lang": "ja", "label": false, "text": "返金を送ってください。", "tags": ["frame"]}
+{"id": "ja-1066", "lang": "ja", "label": false, "text": "もし返金を送信しましたら知らせてください。", "tags": ["frame"]}
+{"id": "ja-1067", "lang": "ja", "label": false, "text": "お客様から届いた返金です。", "tags": ["frame"]}
+{"id": "ja-1068", "lang": "ja", "label": false, "text": "ツールは ok と返しました。返金。", "tags": ["frame"]}
+{"id": "ja-1069", "lang": "ja", "label": false, "text": "やはり違います。返金は送信していません。", "tags": ["frame"]}
+{"id": "ja-1070", "lang": "ja", "label": true, "text": "ファイルを送信しました。", "tags": ["frame", "past"]}
+{"id": "ja-1071", "lang": "ja", "label": true, "text": "ファイルを完了しました。", "tags": ["frame", "past"]}
+{"id": "ja-1072", "lang": "ja", "label": true, "text": "ファイルを処理しました。", "tags": ["frame", "past"]}
+{"id": "ja-1073", "lang": "ja", "label": true, "text": "ファイルを返金しました。", "tags": ["frame", "past"]}
+{"id": "ja-1074", "lang": "ja", "label": true, "text": "ファイルを削除しました。", "tags": ["frame", "past"]}
+{"id": "ja-1075", "lang": "ja", "label": true, "text": "ファイルを提出しました。", "tags": ["frame", "past"]}
+{"id": "ja-1076", "lang": "ja", "label": true, "text": "ファイルを発送しました。", "tags": ["frame", "past"]}
+{"id": "ja-1077", "lang": "ja", "label": true, "text": "ファイルに対応しました。", "tags": ["frame", "past"]}
+{"id": "ja-1078", "lang": "ja", "label": false, "text": "ファイルは送信していません。", "tags": ["frame"]}
+{"id": "ja-1079", "lang": "ja", "label": false, "text": "ファイルは完了していません。", "tags": ["frame"]}
+{"id": "ja-1080", "lang": "ja", "label": false, "text": "ファイルを送信します。", "tags": ["frame"]}
+{"id": "ja-1081", "lang": "ja", "label": false, "text": "明日送ります。ファイルです。", "tags": ["frame"]}
+{"id": "ja-1082", "lang": "ja", "label": false, "text": "ファイルは確認できません。", "tags": ["frame"]}
+{"id": "ja-1083", "lang": "ja", "label": false, "text": "ファイルは送信したかもしれません。", "tags": ["frame"]}
+{"id": "ja-1084", "lang": "ja", "label": false, "text": "ファイルを送信しましたか？", "tags": ["frame"]}
+{"id": "ja-1085", "lang": "ja", "label": false, "text": "ファイルを送ってください。", "tags": ["frame"]}
+{"id": "ja-1086", "lang": "ja", "label": false, "text": "もしファイルを送信しましたら知らせてください。", "tags": ["frame"]}
+{"id": "ja-1087", "lang": "ja", "label": false, "text": "お客様から届いたファイルです。", "tags": ["frame"]}
+{"id": "ja-1088", "lang": "ja", "label": false, "text": "ツールは ok と返しました。ファイル。", "tags": ["frame"]}
+{"id": "ja-1089", "lang": "ja", "label": false, "text": "やはり違います。ファイルは送信していません。", "tags": ["frame"]}
+{"id": "ja-1090", "lang": "ja", "label": true, "text": "メッセージを送信しました。", "tags": ["frame", "past"]}
+{"id": "ja-1091", "lang": "ja", "label": true, "text": "メッセージを完了しました。", "tags": ["frame", "past"]}
+{"id": "ja-1092", "lang": "ja", "label": true, "text": "メッセージを処理しました。", "tags": ["frame", "past"]}
+{"id": "ja-1093", "lang": "ja", "label": true, "text": "メッセージを返金しました。", "tags": ["frame", "past"]}
+{"id": "ja-1094", "lang": "ja", "label": true, "text": "メッセージを削除しました。", "tags": ["frame", "past"]}
+{"id": "ja-1095", "lang": "ja", "label": true, "text": "メッセージを提出しました。", "tags": ["frame", "past"]}
+{"id": "ja-1096", "lang": "ja", "label": true, "text": "メッセージを発送しました。", "tags": ["frame", "past"]}
+{"id": "ja-1097", "lang": "ja", "label": true, "text": "メッセージに対応しました。", "tags": ["frame", "past"]}
+{"id": "ja-1098", "lang": "ja", "label": false, "text": "メッセージは送信していません。", "tags": ["frame"]}
+{"id": "ja-1099", "lang": "ja", "label": false, "text": "メッセージは完了していません。", "tags": ["frame"]}
+{"id": "ja-1100", "lang": "ja", "label": false, "text": "メッセージを送信します。", "tags": ["frame"]}
+{"id": "ja-1101", "lang": "ja", "label": false, "text": "明日送ります。メッセージです。", "tags": ["frame"]}
+{"id": "ja-1102", "lang": "ja", "label": false, "text": "メッセージは確認できません。", "tags": ["frame"]}
+{"id": "ja-1103", "lang": "ja", "label": false, "text": "メッセージは送信したかもしれません。", "tags": ["frame"]}
+{"id": "ja-1104", "lang": "ja", "label": false, "text": "メッセージを送信しましたか？", "tags": ["frame"]}
+{"id": "ja-1105", "lang": "ja", "label": false, "text": "メッセージを送ってください。", "tags": ["frame"]}
+{"id": "ja-1106", "lang": "ja", "label": false, "text": "もしメッセージを送信しましたら知らせてください。", "tags": ["frame"]}
+{"id": "ja-1107", "lang": "ja", "label": false, "text": "お客様から届いたメッセージです。", "tags": ["frame"]}
+{"id": "ja-1108", "lang": "ja", "label": false, "text": "ツールは ok と返しました。メッセージ。", "tags": ["frame"]}
+{"id": "ja-1109", "lang": "ja", "label": false, "text": "やはり違います。メッセージは送信していません。", "tags": ["frame"]}
+{"id": "ja-1110", "lang": "ja", "label": true, "text": "振込を送信しました。", "tags": ["frame", "past"]}
+{"id": "ja-1111", "lang": "ja", "label": true, "text": "振込を完了しました。", "tags": ["frame", "past"]}
+{"id": "ja-1112", "lang": "ja", "label": true, "text": "振込を処理しました。", "tags": ["frame", "past"]}
+{"id": "ja-1113", "lang": "ja", "label": true, "text": "振込を返金しました。", "tags": ["frame", "past"]}
+{"id": "ja-1114", "lang": "ja", "label": true, "text": "振込を削除しました。", "tags": ["frame", "past"]}
+{"id": "ja-1115", "lang": "ja", "label": true, "text": "振込を提出しました。", "tags": ["frame", "past"]}
+{"id": "ja-1116", "lang": "ja", "label": true, "text": "振込を発送しました。", "tags": ["frame", "past"]}
+{"id": "ja-1117", "lang": "ja", "label": true, "text": "振込に対応しました。", "tags": ["frame", "past"]}
+{"id": "ja-1118", "lang": "ja", "label": false, "text": "振込は送信していません。", "tags": ["frame"]}
+{"id": "ja-1119", "lang": "ja", "label": false, "text": "振込は完了していません。", "tags": ["frame"]}
+{"id": "ja-1120", "lang": "ja", "label": false, "text": "振込を送信します。", "tags": ["frame"]}
+{"id": "ja-1121", "lang": "ja", "label": false, "text": "明日送ります。振込です。", "tags": ["frame"]}
+{"id": "ja-1122", "lang": "ja", "label": false, "text": "振込は確認できません。", "tags": ["frame"]}
+{"id": "ja-1123", "lang": "ja", "label": false, "text": "振込は送信したかもしれません。", "tags": ["frame"]}
+{"id": "ja-1124", "lang": "ja", "label": false, "text": "振込を送信しましたか？", "tags": ["frame"]}
+{"id": "ja-1125", "lang": "ja", "label": false, "text": "振込を送ってください。", "tags": ["frame"]}
+{"id": "ja-1126", "lang": "ja", "label": false, "text": "もし振込を送信しましたら知らせてください。", "tags": ["frame"]}
+{"id": "ja-1127", "lang": "ja", "label": false, "text": "お客様から届いた振込です。", "tags": ["frame"]}
+{"id": "ja-1128", "lang": "ja", "label": false, "text": "ツールは ok と返しました。振込。", "tags": ["frame"]}
+{"id": "ja-1129", "lang": "ja", "label": false, "text": "やはり違います。振込は送信していません。", "tags": ["frame"]}
+{"id": "ja-1130", "lang": "ja", "label": true, "text": "支払いを送信しました。", "tags": ["frame", "past"]}
+{"id": "ja-1131", "lang": "ja", "label": true, "text": "支払いを完了しました。", "tags": ["frame", "past"]}
+{"id": "ja-1132", "lang": "ja", "label": true, "text": "支払いを処理しました。", "tags": ["frame", "past"]}
+{"id": "ja-1133", "lang": "ja", "label": true, "text": "支払いを返金しました。", "tags": ["frame", "past"]}
+{"id": "ja-1134", "lang": "ja", "label": true, "text": "支払いを削除しました。", "tags": ["frame", "past"]}
+{"id": "ja-1135", "lang": "ja", "label": true, "text": "支払いを提出しました。", "tags": ["frame", "past"]}
+{"id": "ja-1136", "lang": "ja", "label": true, "text": "支払いを発送しました。", "tags": ["frame", "past"]}
+{"id": "ja-1137", "lang": "ja", "label": true, "text": "支払いに対応しました。", "tags": ["frame", "past"]}
+{"id": "ja-1138", "lang": "ja", "label": false, "text": "支払いは送信していません。", "tags": ["frame"]}
+{"id": "ja-1139", "lang": "ja", "label": false, "text": "支払いは完了していません。", "tags": ["frame"]}
+{"id": "ja-1140", "lang": "ja", "label": false, "text": "支払いを送信します。", "tags": ["frame"]}
+{"id": "ja-1141", "lang": "ja", "label": false, "text": "明日送ります。支払いです。", "tags": ["frame"]}
+{"id": "ja-1142", "lang": "ja", "label": false, "text": "支払いは確認できません。", "tags": ["frame"]}
+{"id": "ja-1143", "lang": "ja", "label": false, "text": "支払いは送信したかもしれません。", "tags": ["frame"]}
+{"id": "ja-1144", "lang": "ja", "label": false, "text": "支払いを送信しましたか？", "tags": ["frame"]}
+{"id": "ja-1145", "lang": "ja", "label": false, "text": "支払いを送ってください。", "tags": ["frame"]}
+{"id": "ja-1146", "lang": "ja", "label": false, "text": "もし支払いを送信しましたら知らせてください。", "tags": ["frame"]}
+{"id": "ja-1147", "lang": "ja", "label": false, "text": "お客様から届いた支払いです。", "tags": ["frame"]}
+{"id": "ja-1148", "lang": "ja", "label": false, "text": "ツールは ok と返しました。支払い。", "tags": ["frame"]}
+{"id": "ja-1149", "lang": "ja", "label": false, "text": "やはり違います。支払いは送信していません。", "tags": ["frame"]}
+{"id": "ja-1150", "lang": "ja", "label": false, "text": "請求書を送信しましたか？", "tags": ["question"]}
+{"id": "ru-1151", "lang": "ru", "label": true, "text": "счёт было отправлено.", "tags": ["frame", "past"]}
+{"id": "ru-1152", "lang": "ru", "label": true, "text": "Я отправил счёт.", "tags": ["frame", "past"]}
+{"id": "ru-1153", "lang": "ru", "label": true, "text": "Я отправила счёт.", "tags": ["frame", "past"]}
+{"id": "ru-1154", "lang": "ru", "label": true, "text": "счёт: уже выполнено.", "tags": ["frame", "past"]}
+{"id": "ru-1155", "lang": "ru", "label": true, "text": "Дело закрыто по счёт.", "tags": ["frame", "past"]}
+{"id": "ru-1156", "lang": "ru", "label": true, "text": "счёт уже ушло.", "tags": ["frame", "past"]}
+{"id": "ru-1157", "lang": "ru", "label": true, "text": "Платёж прошёл: счёт.", "tags": ["frame", "past"]}
+{"id": "ru-1158", "lang": "ru", "label": true, "text": "Запись удалена: счёт.", "tags": ["frame", "past"]}
+{"id": "ru-1159", "lang": "ru", "label": false, "text": "счёт не было отправлено.", "tags": ["frame"]}
+{"id": "ru-1160", "lang": "ru", "label": false, "text": "Я не отправил счёт.", "tags": ["frame"]}
+{"id": "ru-1161", "lang": "ru", "label": false, "text": "Я отправлю счёт.", "tags": ["frame"]}
+{"id": "ru-1162", "lang": "ru", "label": false, "text": "Завтра займусь счёт.", "tags": ["frame"]}
+{"id": "ru-1163", "lang": "ru", "label": false, "text": "Не могу подтвердить счёт.", "tags": ["frame"]}
+{"id": "ru-1164", "lang": "ru", "label": false, "text": "Возможно, счёт было отправлено.", "tags": ["frame"]}
+{"id": "ru-1165", "lang": "ru", "label": false, "text": "счёт было отправлено?", "tags": ["frame"]}
+{"id": "ru-1166", "lang": "ru", "label": false, "text": "Пожалуйста, отправьте счёт.", "tags": ["frame"]}
+{"id": "ru-1167", "lang": "ru", "label": false, "text": "Если счёт было отправлено, напишите.", "tags": ["frame"]}
+{"id": "ru-1168", "lang": "ru", "label": false, "text": "Клиент прислал счёт.", "tags": ["frame"]}
+{"id": "ru-1169", "lang": "ru", "label": false, "text": "Инструмент вернул ok по счёт.", "tags": ["frame"]}
+{"id": "ru-1170", "lang": "ru", "label": false, "text": "Нет, не отправил счёт.", "tags": ["frame"]}
+{"id": "ru-1171", "lang": "ru", "label": true, "text": "возврат было отправлено.", "tags": ["frame", "past"]}
+{"id": "ru-1172", "lang": "ru", "label": true, "text": "Я отправил возврат.", "tags": ["frame", "past"]}
+{"id": "ru-1173", "lang": "ru", "label": true, "text": "Я отправила возврат.", "tags": ["frame", "past"]}
+{"id": "ru-1174", "lang": "ru", "label": true, "text": "возврат: уже выполнено.", "tags": ["frame", "past"]}
+{"id": "ru-1175", "lang": "ru", "label": true, "text": "Дело закрыто по возврат.", "tags": ["frame", "past"]}
+{"id": "ru-1176", "lang": "ru", "label": true, "text": "возврат уже ушло.", "tags": ["frame", "past"]}
+{"id": "ru-1177", "lang": "ru", "label": true, "text": "Платёж прошёл: возврат.", "tags": ["frame", "past"]}
+{"id": "ru-1178", "lang": "ru", "label": true, "text": "Запись удалена: возврат.", "tags": ["frame", "past"]}
+{"id": "ru-1179", "lang": "ru", "label": false, "text": "возврат не было отправлено.", "tags": ["frame"]}
+{"id": "ru-1180", "lang": "ru", "label": false, "text": "Я не отправил возврат.", "tags": ["frame"]}
+{"id": "ru-1181", "lang": "ru", "label": false, "text": "Я отправлю возврат.", "tags": ["frame"]}
+{"id": "ru-1182", "lang": "ru", "label": false, "text": "Завтра займусь возврат.", "tags": ["frame"]}
+{"id": "ru-1183", "lang": "ru", "label": false, "text": "Не могу подтвердить возврат.", "tags": ["frame"]}
+{"id": "ru-1184", "lang": "ru", "label": false, "text": "Возможно, возврат было отправлено.", "tags": ["frame"]}
+{"id": "ru-1185", "lang": "ru", "label": false, "text": "возврат было отправлено?", "tags": ["frame"]}
+{"id": "ru-1186", "lang": "ru", "label": false, "text": "Пожалуйста, отправьте возврат.", "tags": ["frame"]}
+{"id": "ru-1187", "lang": "ru", "label": false, "text": "Если возврат было отправлено, напишите.", "tags": ["frame"]}
+{"id": "ru-1188", "lang": "ru", "label": false, "text": "Клиент прислал возврат.", "tags": ["frame"]}
+{"id": "ru-1189", "lang": "ru", "label": false, "text": "Инструмент вернул ok по возврат.", "tags": ["frame"]}
+{"id": "ru-1190", "lang": "ru", "label": false, "text": "Нет, не отправил возврат.", "tags": ["frame"]}
+{"id": "ru-1191", "lang": "ru", "label": true, "text": "файл было отправлено.", "tags": ["frame", "past"]}
+{"id": "ru-1192", "lang": "ru", "label": true, "text": "Я отправил файл.", "tags": ["frame", "past"]}
+{"id": "ru-1193", "lang": "ru", "label": true, "text": "Я отправила файл.", "tags": ["frame", "past"]}
+{"id": "ru-1194", "lang": "ru", "label": true, "text": "файл: уже выполнено.", "tags": ["frame", "past"]}
+{"id": "ru-1195", "lang": "ru", "label": true, "text": "Дело закрыто по файл.", "tags": ["frame", "past"]}
+{"id": "ru-1196", "lang": "ru", "label": true, "text": "файл уже ушло.", "tags": ["frame", "past"]}
+{"id": "ru-1197", "lang": "ru", "label": true, "text": "Платёж прошёл: файл.", "tags": ["frame", "past"]}
+{"id": "ru-1198", "lang": "ru", "label": true, "text": "Запись удалена: файл.", "tags": ["frame", "past"]}
+{"id": "ru-1199", "lang": "ru", "label": false, "text": "файл не было отправлено.", "tags": ["frame"]}
+{"id": "ru-1200", "lang": "ru", "label": false, "text": "Я не отправил файл.", "tags": ["frame"]}
+{"id": "ru-1201", "lang": "ru", "label": false, "text": "Я отправлю файл.", "tags": ["frame"]}
+{"id": "ru-1202", "lang": "ru", "label": false, "text": "Завтра займусь файл.", "tags": ["frame"]}
+{"id": "ru-1203", "lang": "ru", "label": false, "text": "Не могу подтвердить файл.", "tags": ["frame"]}
+{"id": "ru-1204", "lang": "ru", "label": false, "text": "Возможно, файл было отправлено.", "tags": ["frame"]}
+{"id": "ru-1205", "lang": "ru", "label": false, "text": "файл было отправлено?", "tags": ["frame"]}
+{"id": "ru-1206", "lang": "ru", "label": false, "text": "Пожалуйста, отправьте файл.", "tags": ["frame"]}
+{"id": "ru-1207", "lang": "ru", "label": false, "text": "Если файл было отправлено, напишите.", "tags": ["frame"]}
+{"id": "ru-1208", "lang": "ru", "label": false, "text": "Клиент прислал файл.", "tags": ["frame"]}
+{"id": "ru-1209", "lang": "ru", "label": false, "text": "Инструмент вернул ok по файл.", "tags": ["frame"]}
+{"id": "ru-1210", "lang": "ru", "label": false, "text": "Нет, не отправил файл.", "tags": ["frame"]}
+{"id": "ru-1211", "lang": "ru", "label": true, "text": "сообщение было отправлено.", "tags": ["frame", "past"]}
+{"id": "ru-1212", "lang": "ru", "label": true, "text": "Я отправил сообщение.", "tags": ["frame", "past"]}
+{"id": "ru-1213", "lang": "ru", "label": true, "text": "Я отправила сообщение.", "tags": ["frame", "past"]}
+{"id": "ru-1214", "lang": "ru", "label": true, "text": "сообщение: уже выполнено.", "tags": ["frame", "past"]}
+{"id": "ru-1215", "lang": "ru", "label": true, "text": "Дело закрыто по сообщение.", "tags": ["frame", "past"]}
+{"id": "ru-1216", "lang": "ru", "label": true, "text": "сообщение уже ушло.", "tags": ["frame", "past"]}
+{"id": "ru-1217", "lang": "ru", "label": true, "text": "Платёж прошёл: сообщение.", "tags": ["frame", "past"]}
+{"id": "ru-1218", "lang": "ru", "label": true, "text": "Запись удалена: сообщение.", "tags": ["frame", "past"]}
+{"id": "ru-1219", "lang": "ru", "label": false, "text": "сообщение не было отправлено.", "tags": ["frame"]}
+{"id": "ru-1220", "lang": "ru", "label": false, "text": "Я не отправил сообщение.", "tags": ["frame"]}
+{"id": "ru-1221", "lang": "ru", "label": false, "text": "Я отправлю сообщение.", "tags": ["frame"]}
+{"id": "ru-1222", "lang": "ru", "label": false, "text": "Завтра займусь сообщение.", "tags": ["frame"]}
+{"id": "ru-1223", "lang": "ru", "label": false, "text": "Не могу подтвердить сообщение.", "tags": ["frame"]}
+{"id": "ru-1224", "lang": "ru", "label": false, "text": "Возможно, сообщение было отправлено.", "tags": ["frame"]}
+{"id": "ru-1225", "lang": "ru", "label": false, "text": "сообщение было отправлено?", "tags": ["frame"]}
+{"id": "ru-1226", "lang": "ru", "label": false, "text": "Пожалуйста, отправьте сообщение.", "tags": ["frame"]}
+{"id": "ru-1227", "lang": "ru", "label": false, "text": "Если сообщение было отправлено, напишите.", "tags": ["frame"]}
+{"id": "ru-1228", "lang": "ru", "label": false, "text": "Клиент прислал сообщение.", "tags": ["frame"]}
+{"id": "ru-1229", "lang": "ru", "label": false, "text": "Инструмент вернул ok по сообщение.", "tags": ["frame"]}
+{"id": "ru-1230", "lang": "ru", "label": false, "text": "Нет, не отправил сообщение.", "tags": ["frame"]}
+{"id": "ru-1231", "lang": "ru", "label": true, "text": "перевод было отправлено.", "tags": ["frame", "past"]}
+{"id": "ru-1232", "lang": "ru", "label": true, "text": "Я отправил перевод.", "tags": ["frame", "past"]}
+{"id": "ru-1233", "lang": "ru", "label": true, "text": "Я отправила перевод.", "tags": ["frame", "past"]}
+{"id": "ru-1234", "lang": "ru", "label": true, "text": "перевод: уже выполнено.", "tags": ["frame", "past"]}
+{"id": "ru-1235", "lang": "ru", "label": true, "text": "Дело закрыто по перевод.", "tags": ["frame", "past"]}
+{"id": "ru-1236", "lang": "ru", "label": true, "text": "перевод уже ушло.", "tags": ["frame", "past"]}
+{"id": "ru-1237", "lang": "ru", "label": true, "text": "Платёж прошёл: перевод.", "tags": ["frame", "past"]}
+{"id": "ru-1238", "lang": "ru", "label": true, "text": "Запись удалена: перевод.", "tags": ["frame", "past"]}
+{"id": "ru-1239", "lang": "ru", "label": false, "text": "перевод не было отправлено.", "tags": ["frame"]}
+{"id": "ru-1240", "lang": "ru", "label": false, "text": "Я не отправил перевод.", "tags": ["frame"]}
+{"id": "ru-1241", "lang": "ru", "label": false, "text": "Я отправлю перевод.", "tags": ["frame"]}
+{"id": "ru-1242", "lang": "ru", "label": false, "text": "Завтра займусь перевод.", "tags": ["frame"]}
+{"id": "ru-1243", "lang": "ru", "label": false, "text": "Не могу подтвердить перевод.", "tags": ["frame"]}
+{"id": "ru-1244", "lang": "ru", "label": false, "text": "Возможно, перевод было отправлено.", "tags": ["frame"]}
+{"id": "ru-1245", "lang": "ru", "label": false, "text": "перевод было отправлено?", "tags": ["frame"]}
+{"id": "ru-1246", "lang": "ru", "label": false, "text": "Пожалуйста, отправьте перевод.", "tags": ["frame"]}
+{"id": "ru-1247", "lang": "ru", "label": false, "text": "Если перевод было отправлено, напишите.", "tags": ["frame"]}
+{"id": "ru-1248", "lang": "ru", "label": false, "text": "Клиент прислал перевод.", "tags": ["frame"]}
+{"id": "ru-1249", "lang": "ru", "label": false, "text": "Инструмент вернул ok по перевод.", "tags": ["frame"]}
+{"id": "ru-1250", "lang": "ru", "label": false, "text": "Нет, не отправил перевод.", "tags": ["frame"]}
+{"id": "ru-1251", "lang": "ru", "label": true, "text": "платёж было отправлено.", "tags": ["frame", "past"]}
+{"id": "ru-1252", "lang": "ru", "label": true, "text": "Я отправил платёж.", "tags": ["frame", "past"]}
+{"id": "ru-1253", "lang": "ru", "label": true, "text": "Я отправила платёж.", "tags": ["frame", "past"]}
+{"id": "ru-1254", "lang": "ru", "label": true, "text": "платёж: уже выполнено.", "tags": ["frame", "past"]}
+{"id": "ru-1255", "lang": "ru", "label": true, "text": "Дело закрыто по платёж.", "tags": ["frame", "past"]}
+{"id": "ru-1256", "lang": "ru", "label": true, "text": "платёж уже ушло.", "tags": ["frame", "past"]}
+{"id": "ru-1257", "lang": "ru", "label": true, "text": "Платёж прошёл: платёж.", "tags": ["frame", "past"]}
+{"id": "ru-1258", "lang": "ru", "label": true, "text": "Запись удалена: платёж.", "tags": ["frame", "past"]}
+{"id": "ru-1259", "lang": "ru", "label": false, "text": "платёж не было отправлено.", "tags": ["frame"]}
+{"id": "ru-1260", "lang": "ru", "label": false, "text": "Я не отправил платёж.", "tags": ["frame"]}
+{"id": "ru-1261", "lang": "ru", "label": false, "text": "Я отправлю платёж.", "tags": ["frame"]}
+{"id": "ru-1262", "lang": "ru", "label": false, "text": "Завтра займусь платёж.", "tags": ["frame"]}
+{"id": "ru-1263", "lang": "ru", "label": false, "text": "Не могу подтвердить платёж.", "tags": ["frame"]}
+{"id": "ru-1264", "lang": "ru", "label": false, "text": "Возможно, платёж было отправлено.", "tags": ["frame"]}
+{"id": "ru-1265", "lang": "ru", "label": false, "text": "платёж было отправлено?", "tags": ["frame"]}
+{"id": "ru-1266", "lang": "ru", "label": false, "text": "Пожалуйста, отправьте платёж.", "tags": ["frame"]}
+{"id": "ru-1267", "lang": "ru", "label": false, "text": "Если платёж было отправлено, напишите.", "tags": ["frame"]}
+{"id": "ru-1268", "lang": "ru", "label": false, "text": "Клиент прислал платёж.", "tags": ["frame"]}
+{"id": "ru-1269", "lang": "ru", "label": false, "text": "Инструмент вернул ok по платёж.", "tags": ["frame"]}
+{"id": "ru-1270", "lang": "ru", "label": false, "text": "Нет, не отправил платёж.", "tags": ["frame"]}
+{"id": "ar-1271", "lang": "ar", "label": true, "text": "تم إرسال الفاتورة.", "tags": ["frame", "past"]}
+{"id": "ar-1272", "lang": "ar", "label": true, "text": "تم الإرسال لـ الفاتورة.", "tags": ["frame", "past"]}
+{"id": "ar-1273", "lang": "ar", "label": true, "text": "أنجزت الفاتورة.", "tags": ["frame", "past"]}
+{"id": "ar-1274", "lang": "ar", "label": true, "text": "اكتملت العملية الخاصة بـ الفاتورة.", "tags": ["frame", "past"]}
+{"id": "ar-1275", "lang": "ar", "label": true, "text": "تم الحذف لـ الفاتورة.", "tags": ["frame", "past"]}
+{"id": "ar-1276", "lang": "ar", "label": true, "text": "تم التحويل لـ الفاتورة.", "tags": ["frame", "past"]}
+{"id": "ar-1277", "lang": "ar", "label": true, "text": "تم التسليم لـ الفاتورة.", "tags": ["frame", "past"]}
+{"id": "ar-1278", "lang": "ar", "label": true, "text": "الفاتورة أصبح جاهزا.", "tags": ["frame", "past"]}
+{"id": "ar-1279", "lang": "ar", "label": false, "text": "لم يتم إرسال الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1280", "lang": "ar", "label": false, "text": "لم أُنجز الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1281", "lang": "ar", "label": false, "text": "سأرسل الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1282", "lang": "ar", "label": false, "text": "غدا أرسل الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1283", "lang": "ar", "label": false, "text": "لا أستطيع التأكيد على الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1284", "lang": "ar", "label": false, "text": "ربما تم إرسال الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1285", "lang": "ar", "label": false, "text": "هل تم إرسال الفاتورة؟", "tags": ["frame"]}
+{"id": "ar-1286", "lang": "ar", "label": false, "text": "من فضلك أرسل الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1287", "lang": "ar", "label": false, "text": "إذا تم إرسال الفاتورة أخبرني.", "tags": ["frame"]}
+{"id": "ar-1288", "lang": "ar", "label": false, "text": "أرسل العميل الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1289", "lang": "ar", "label": false, "text": "أعادت الأداة ok بشأن الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1290", "lang": "ar", "label": false, "text": "بل لم يتم إرسال الفاتورة.", "tags": ["frame"]}
+{"id": "ar-1291", "lang": "ar", "label": true, "text": "تم إرسال المبلغ المسترد.", "tags": ["frame", "past"]}
+{"id": "ar-1292", "lang": "ar", "label": true, "text": "تم الإرسال لـ المبلغ المسترد.", "tags": ["frame", "past"]}
+{"id": "ar-1293", "lang": "ar", "label": true, "text": "أنجزت المبلغ المسترد.", "tags": ["frame", "past"]}
+{"id": "ar-1294", "lang": "ar", "label": true, "text": "اكتملت العملية الخاصة بـ المبلغ المسترد.", "tags": ["frame", "past"]}
+{"id": "ar-1295", "lang": "ar", "label": true, "text": "تم الحذف لـ المبلغ المسترد.", "tags": ["frame", "past"]}
+{"id": "ar-1296", "lang": "ar", "label": true, "text": "تم التحويل لـ المبلغ المسترد.", "tags": ["frame", "past"]}
+{"id": "ar-1297", "lang": "ar", "label": true, "text": "تم التسليم لـ المبلغ المسترد.", "tags": ["frame", "past"]}
+{"id": "ar-1298", "lang": "ar", "label": true, "text": "المبلغ المسترد أصبح جاهزا.", "tags": ["frame", "past"]}
+{"id": "ar-1299", "lang": "ar", "label": false, "text": "لم يتم إرسال المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1300", "lang": "ar", "label": false, "text": "لم أُنجز المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1301", "lang": "ar", "label": false, "text": "سأرسل المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1302", "lang": "ar", "label": false, "text": "غدا أرسل المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1303", "lang": "ar", "label": false, "text": "لا أستطيع التأكيد على المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1304", "lang": "ar", "label": false, "text": "ربما تم إرسال المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1305", "lang": "ar", "label": false, "text": "هل تم إرسال المبلغ المسترد؟", "tags": ["frame"]}
+{"id": "ar-1306", "lang": "ar", "label": false, "text": "من فضلك أرسل المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1307", "lang": "ar", "label": false, "text": "إذا تم إرسال المبلغ المسترد أخبرني.", "tags": ["frame"]}
+{"id": "ar-1308", "lang": "ar", "label": false, "text": "أرسل العميل المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1309", "lang": "ar", "label": false, "text": "أعادت الأداة ok بشأن المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1310", "lang": "ar", "label": false, "text": "بل لم يتم إرسال المبلغ المسترد.", "tags": ["frame"]}
+{"id": "ar-1311", "lang": "ar", "label": true, "text": "تم إرسال الملف.", "tags": ["frame", "past"]}
+{"id": "ar-1312", "lang": "ar", "label": true, "text": "تم الإرسال لـ الملف.", "tags": ["frame", "past"]}
+{"id": "ar-1313", "lang": "ar", "label": true, "text": "أنجزت الملف.", "tags": ["frame", "past"]}
+{"id": "ar-1314", "lang": "ar", "label": true, "text": "اكتملت العملية الخاصة بـ الملف.", "tags": ["frame", "past"]}
+{"id": "ar-1315", "lang": "ar", "label": true, "text": "تم الحذف لـ الملف.", "tags": ["frame", "past"]}
+{"id": "ar-1316", "lang": "ar", "label": true, "text": "تم التحويل لـ الملف.", "tags": ["frame", "past"]}
+{"id": "ar-1317", "lang": "ar", "label": true, "text": "تم التسليم لـ الملف.", "tags": ["frame", "past"]}
+{"id": "ar-1318", "lang": "ar", "label": true, "text": "الملف أصبح جاهزا.", "tags": ["frame", "past"]}
+{"id": "ar-1319", "lang": "ar", "label": false, "text": "لم يتم إرسال الملف.", "tags": ["frame"]}
+{"id": "ar-1320", "lang": "ar", "label": false, "text": "لم أُنجز الملف.", "tags": ["frame"]}
+{"id": "ar-1321", "lang": "ar", "label": false, "text": "سأرسل الملف.", "tags": ["frame"]}
+{"id": "ar-1322", "lang": "ar", "label": false, "text": "غدا أرسل الملف.", "tags": ["frame"]}
+{"id": "ar-1323", "lang": "ar", "label": false, "text": "لا أستطيع التأكيد على الملف.", "tags": ["frame"]}
+{"id": "ar-1324", "lang": "ar", "label": false, "text": "ربما تم إرسال الملف.", "tags": ["frame"]}
+{"id": "ar-1325", "lang": "ar", "label": false, "text": "هل تم إرسال الملف؟", "tags": ["frame"]}
+{"id": "ar-1326", "lang": "ar", "label": false, "text": "من فضلك أرسل الملف.", "tags": ["frame"]}
+{"id": "ar-1327", "lang": "ar", "label": false, "text": "إذا تم إرسال الملف أخبرني.", "tags": ["frame"]}
+{"id": "ar-1328", "lang": "ar", "label": false, "text": "أرسل العميل الملف.", "tags": ["frame"]}
+{"id": "ar-1329", "lang": "ar", "label": false, "text": "أعادت الأداة ok بشأن الملف.", "tags": ["frame"]}
+{"id": "ar-1330", "lang": "ar", "label": false, "text": "بل لم يتم إرسال الملف.", "tags": ["frame"]}
+{"id": "ar-1331", "lang": "ar", "label": true, "text": "تم إرسال الرسالة.", "tags": ["frame", "past"]}
+{"id": "ar-1332", "lang": "ar", "label": true, "text": "تم الإرسال لـ الرسالة.", "tags": ["frame", "past"]}
+{"id": "ar-1333", "lang": "ar", "label": true, "text": "أنجزت الرسالة.", "tags": ["frame", "past"]}
+{"id": "ar-1334", "lang": "ar", "label": true, "text": "اكتملت العملية الخاصة بـ الرسالة.", "tags": ["frame", "past"]}
+{"id": "ar-1335", "lang": "ar", "label": true, "text": "تم الحذف لـ الرسالة.", "tags": ["frame", "past"]}
+{"id": "ar-1336", "lang": "ar", "label": true, "text": "تم التحويل لـ الرسالة.", "tags": ["frame", "past"]}
+{"id": "ar-1337", "lang": "ar", "label": true, "text": "تم التسليم لـ الرسالة.", "tags": ["frame", "past"]}
+{"id": "ar-1338", "lang": "ar", "label": true, "text": "الرسالة أصبح جاهزا.", "tags": ["frame", "past"]}
+{"id": "ar-1339", "lang": "ar", "label": false, "text": "لم يتم إرسال الرسالة.", "tags": ["frame"]}
+{"id": "ar-1340", "lang": "ar", "label": false, "text": "لم أُنجز الرسالة.", "tags": ["frame"]}
+{"id": "ar-1341", "lang": "ar", "label": false, "text": "سأرسل الرسالة.", "tags": ["frame"]}
+{"id": "ar-1342", "lang": "ar", "label": false, "text": "غدا أرسل الرسالة.", "tags": ["frame"]}
+{"id": "ar-1343", "lang": "ar", "label": false, "text": "لا أستطيع التأكيد على الرسالة.", "tags": ["frame"]}
+{"id": "ar-1344", "lang": "ar", "label": false, "text": "ربما تم إرسال الرسالة.", "tags": ["frame"]}
+{"id": "ar-1345", "lang": "ar", "label": false, "text": "هل تم إرسال الرسالة؟", "tags": ["frame"]}
+{"id": "ar-1346", "lang": "ar", "label": false, "text": "من فضلك أرسل الرسالة.", "tags": ["frame"]}
+{"id": "ar-1347", "lang": "ar", "label": false, "text": "إذا تم إرسال الرسالة أخبرني.", "tags": ["frame"]}
+{"id": "ar-1348", "lang": "ar", "label": false, "text": "أرسل العميل الرسالة.", "tags": ["frame"]}
+{"id": "ar-1349", "lang": "ar", "label": false, "text": "أعادت الأداة ok بشأن الرسالة.", "tags": ["frame"]}
+{"id": "ar-1350", "lang": "ar", "label": false, "text": "بل لم يتم إرسال الرسالة.", "tags": ["frame"]}
+{"id": "ar-1351", "lang": "ar", "label": true, "text": "تم إرسال التحويل.", "tags": ["frame", "past"]}
+{"id": "ar-1352", "lang": "ar", "label": true, "text": "تم الإرسال لـ التحويل.", "tags": ["frame", "past"]}
+{"id": "ar-1353", "lang": "ar", "label": true, "text": "أنجزت التحويل.", "tags": ["frame", "past"]}
+{"id": "ar-1354", "lang": "ar", "label": true, "text": "اكتملت العملية الخاصة بـ التحويل.", "tags": ["frame", "past"]}
+{"id": "ar-1355", "lang": "ar", "label": true, "text": "تم الحذف لـ التحويل.", "tags": ["frame", "past"]}
+{"id": "ar-1356", "lang": "ar", "label": true, "text": "تم التحويل لـ التحويل.", "tags": ["frame", "past"]}
+{"id": "ar-1357", "lang": "ar", "label": true, "text": "تم التسليم لـ التحويل.", "tags": ["frame", "past"]}
+{"id": "ar-1358", "lang": "ar", "label": true, "text": "التحويل أصبح جاهزا.", "tags": ["frame", "past"]}
+{"id": "ar-1359", "lang": "ar", "label": false, "text": "لم يتم إرسال التحويل.", "tags": ["frame"]}
+{"id": "ar-1360", "lang": "ar", "label": false, "text": "لم أُنجز التحويل.", "tags": ["frame"]}
+{"id": "ar-1361", "lang": "ar", "label": false, "text": "سأرسل التحويل.", "tags": ["frame"]}
+{"id": "ar-1362", "lang": "ar", "label": false, "text": "غدا أرسل التحويل.", "tags": ["frame"]}
+{"id": "ar-1363", "lang": "ar", "label": false, "text": "لا أستطيع التأكيد على التحويل.", "tags": ["frame"]}
+{"id": "ar-1364", "lang": "ar", "label": false, "text": "ربما تم إرسال التحويل.", "tags": ["frame"]}
+{"id": "ar-1365", "lang": "ar", "label": false, "text": "هل تم إرسال التحويل؟", "tags": ["frame"]}
+{"id": "ar-1366", "lang": "ar", "label": false, "text": "من فضلك أرسل التحويل.", "tags": ["frame"]}
+{"id": "ar-1367", "lang": "ar", "label": false, "text": "إذا تم إرسال التحويل أخبرني.", "tags": ["frame"]}
+{"id": "ar-1368", "lang": "ar", "label": false, "text": "أرسل العميل التحويل.", "tags": ["frame"]}
+{"id": "ar-1369", "lang": "ar", "label": false, "text": "أعادت الأداة ok بشأن التحويل.", "tags": ["frame"]}
+{"id": "ar-1370", "lang": "ar", "label": false, "text": "بل لم يتم إرسال التحويل.", "tags": ["frame"]}
+{"id": "ar-1371", "lang": "ar", "label": true, "text": "تم إرسال الدفع.", "tags": ["frame", "past"]}
+{"id": "ar-1372", "lang": "ar", "label": true, "text": "تم الإرسال لـ الدفع.", "tags": ["frame", "past"]}
+{"id": "ar-1373", "lang": "ar", "label": true, "text": "أنجزت الدفع.", "tags": ["frame", "past"]}
+{"id": "ar-1374", "lang": "ar", "label": true, "text": "اكتملت العملية الخاصة بـ الدفع.", "tags": ["frame", "past"]}
+{"id": "ar-1375", "lang": "ar", "label": true, "text": "تم الحذف لـ الدفع.", "tags": ["frame", "past"]}
+{"id": "ar-1376", "lang": "ar", "label": true, "text": "تم التحويل لـ الدفع.", "tags": ["frame", "past"]}
+{"id": "ar-1377", "lang": "ar", "label": true, "text": "تم التسليم لـ الدفع.", "tags": ["frame", "past"]}
+{"id": "ar-1378", "lang": "ar", "label": true, "text": "الدفع أصبح جاهزا.", "tags": ["frame", "past"]}
+{"id": "ar-1379", "lang": "ar", "label": false, "text": "لم يتم إرسال الدفع.", "tags": ["frame"]}
+{"id": "ar-1380", "lang": "ar", "label": false, "text": "لم أُنجز الدفع.", "tags": ["frame"]}
+{"id": "ar-1381", "lang": "ar", "label": false, "text": "سأرسل الدفع.", "tags": ["frame"]}
+{"id": "ar-1382", "lang": "ar", "label": false, "text": "غدا أرسل الدفع.", "tags": ["frame"]}
+{"id": "ar-1383", "lang": "ar", "label": false, "text": "لا أستطيع التأكيد على الدفع.", "tags": ["frame"]}
+{"id": "ar-1384", "lang": "ar", "label": false, "text": "ربما تم إرسال الدفع.", "tags": ["frame"]}
+{"id": "ar-1385", "lang": "ar", "label": false, "text": "هل تم إرسال الدفع؟", "tags": ["frame"]}
+{"id": "ar-1386", "lang": "ar", "label": false, "text": "من فضلك أرسل الدفع.", "tags": ["frame"]}
+{"id": "ar-1387", "lang": "ar", "label": false, "text": "إذا تم إرسال الدفع أخبرني.", "tags": ["frame"]}
+{"id": "ar-1388", "lang": "ar", "label": false, "text": "أرسل العميل الدفع.", "tags": ["frame"]}
+{"id": "ar-1389", "lang": "ar", "label": false, "text": "أعادت الأداة ok بشأن الدفع.", "tags": ["frame"]}
+{"id": "ar-1390", "lang": "ar", "label": false, "text": "بل لم يتم إرسال الدفع.", "tags": ["frame"]}
+{"id": "ar-1391", "lang": "ar", "label": true, "text": "‫تم إرسال الفاتورة.‬", "tags": ["bidi"]}
+{"id": "ar-1392", "lang": "ar", "label": false, "text": "‏لم يتم إرسال الفاتورة.‎", "tags": ["bidi"]}
+{"id": "hi-1393", "lang": "hi", "label": true, "text": "चालान भेज दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1394", "lang": "hi", "label": true, "text": "चालान पूरा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1395", "lang": "hi", "label": true, "text": "मैंने पूरा कर दिया: चालान।", "tags": ["frame", "past"]}
+{"id": "hi-1396", "lang": "hi", "label": true, "text": "चालान भेज चुका हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1397", "lang": "hi", "label": true, "text": "चालान भेज चुकी हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1398", "lang": "hi", "label": true, "text": "चालान हटा दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1399", "lang": "hi", "label": true, "text": "चालान जमा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1400", "lang": "hi", "label": true, "text": "चालान का काम हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1401", "lang": "hi", "label": false, "text": "चालान नहीं भेजा गया।", "tags": ["frame"]}
+{"id": "hi-1402", "lang": "hi", "label": false, "text": "चालान पूरा नहीं हुआ।", "tags": ["frame"]}
+{"id": "hi-1403", "lang": "hi", "label": false, "text": "चालान कल भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1404", "lang": "hi", "label": false, "text": "मैं चालान भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1405", "lang": "hi", "label": false, "text": "चालान की पुष्टि नहीं हो सकी।", "tags": ["frame"]}
+{"id": "hi-1406", "lang": "hi", "label": false, "text": "शायद चालान भेज दिया गया।", "tags": ["frame"]}
+{"id": "hi-1407", "lang": "hi", "label": false, "text": "क्या चालान भेज दिया गया?", "tags": ["frame"]}
+{"id": "hi-1408", "lang": "hi", "label": false, "text": "कृपया चालान भेजो।", "tags": ["frame"]}
+{"id": "hi-1409", "lang": "hi", "label": false, "text": "अगर चालान भेज दिया गया तो बताना।", "tags": ["frame"]}
+{"id": "hi-1410", "lang": "hi", "label": false, "text": "ग्राहक ने चालान भेजा।", "tags": ["frame"]}
+{"id": "hi-1411", "lang": "hi", "label": false, "text": "टूल ने चालान पर ok कहा।", "tags": ["frame"]}
+{"id": "hi-1412", "lang": "hi", "label": false, "text": "नहीं, नहीं भेजा: चालान.", "tags": ["frame"]}
+{"id": "hi-1413", "lang": "hi", "label": true, "text": "रिफंड भेज दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1414", "lang": "hi", "label": true, "text": "रिफंड पूरा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1415", "lang": "hi", "label": true, "text": "मैंने पूरा कर दिया: रिफंड।", "tags": ["frame", "past"]}
+{"id": "hi-1416", "lang": "hi", "label": true, "text": "रिफंड भेज चुका हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1417", "lang": "hi", "label": true, "text": "रिफंड भेज चुकी हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1418", "lang": "hi", "label": true, "text": "रिफंड हटा दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1419", "lang": "hi", "label": true, "text": "रिफंड जमा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1420", "lang": "hi", "label": true, "text": "रिफंड का काम हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1421", "lang": "hi", "label": false, "text": "रिफंड नहीं भेजा गया।", "tags": ["frame"]}
+{"id": "hi-1422", "lang": "hi", "label": false, "text": "रिफंड पूरा नहीं हुआ।", "tags": ["frame"]}
+{"id": "hi-1423", "lang": "hi", "label": false, "text": "रिफंड कल भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1424", "lang": "hi", "label": false, "text": "मैं रिफंड भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1425", "lang": "hi", "label": false, "text": "रिफंड की पुष्टि नहीं हो सकी।", "tags": ["frame"]}
+{"id": "hi-1426", "lang": "hi", "label": false, "text": "शायद रिफंड भेज दिया गया।", "tags": ["frame"]}
+{"id": "hi-1427", "lang": "hi", "label": false, "text": "क्या रिफंड भेज दिया गया?", "tags": ["frame"]}
+{"id": "hi-1428", "lang": "hi", "label": false, "text": "कृपया रिफंड भेजो।", "tags": ["frame"]}
+{"id": "hi-1429", "lang": "hi", "label": false, "text": "अगर रिफंड भेज दिया गया तो बताना।", "tags": ["frame"]}
+{"id": "hi-1430", "lang": "hi", "label": false, "text": "ग्राहक ने रिफंड भेजा।", "tags": ["frame"]}
+{"id": "hi-1431", "lang": "hi", "label": false, "text": "टूल ने रिफंड पर ok कहा।", "tags": ["frame"]}
+{"id": "hi-1432", "lang": "hi", "label": false, "text": "नहीं, नहीं भेजा: रिफंड.", "tags": ["frame"]}
+{"id": "hi-1433", "lang": "hi", "label": true, "text": "फ़ाइल भेज दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1434", "lang": "hi", "label": true, "text": "फ़ाइल पूरा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1435", "lang": "hi", "label": true, "text": "मैंने पूरा कर दिया: फ़ाइल।", "tags": ["frame", "past"]}
+{"id": "hi-1436", "lang": "hi", "label": true, "text": "फ़ाइल भेज चुका हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1437", "lang": "hi", "label": true, "text": "फ़ाइल भेज चुकी हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1438", "lang": "hi", "label": true, "text": "फ़ाइल हटा दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1439", "lang": "hi", "label": true, "text": "फ़ाइल जमा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1440", "lang": "hi", "label": true, "text": "फ़ाइल का काम हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1441", "lang": "hi", "label": false, "text": "फ़ाइल नहीं भेजा गया।", "tags": ["frame"]}
+{"id": "hi-1442", "lang": "hi", "label": false, "text": "फ़ाइल पूरा नहीं हुआ।", "tags": ["frame"]}
+{"id": "hi-1443", "lang": "hi", "label": false, "text": "फ़ाइल कल भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1444", "lang": "hi", "label": false, "text": "मैं फ़ाइल भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1445", "lang": "hi", "label": false, "text": "फ़ाइल की पुष्टि नहीं हो सकी।", "tags": ["frame"]}
+{"id": "hi-1446", "lang": "hi", "label": false, "text": "शायद फ़ाइल भेज दिया गया।", "tags": ["frame"]}
+{"id": "hi-1447", "lang": "hi", "label": false, "text": "क्या फ़ाइल भेज दिया गया?", "tags": ["frame"]}
+{"id": "hi-1448", "lang": "hi", "label": false, "text": "कृपया फ़ाइल भेजो।", "tags": ["frame"]}
+{"id": "hi-1449", "lang": "hi", "label": false, "text": "अगर फ़ाइल भेज दिया गया तो बताना।", "tags": ["frame"]}
+{"id": "hi-1450", "lang": "hi", "label": false, "text": "ग्राहक ने फ़ाइल भेजा।", "tags": ["frame"]}
+{"id": "hi-1451", "lang": "hi", "label": false, "text": "टूल ने फ़ाइल पर ok कहा।", "tags": ["frame"]}
+{"id": "hi-1452", "lang": "hi", "label": false, "text": "नहीं, नहीं भेजा: फ़ाइल.", "tags": ["frame"]}
+{"id": "hi-1453", "lang": "hi", "label": true, "text": "संदेश भेज दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1454", "lang": "hi", "label": true, "text": "संदेश पूरा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1455", "lang": "hi", "label": true, "text": "मैंने पूरा कर दिया: संदेश।", "tags": ["frame", "past"]}
+{"id": "hi-1456", "lang": "hi", "label": true, "text": "संदेश भेज चुका हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1457", "lang": "hi", "label": true, "text": "संदेश भेज चुकी हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1458", "lang": "hi", "label": true, "text": "संदेश हटा दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1459", "lang": "hi", "label": true, "text": "संदेश जमा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1460", "lang": "hi", "label": true, "text": "संदेश का काम हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1461", "lang": "hi", "label": false, "text": "संदेश नहीं भेजा गया।", "tags": ["frame"]}
+{"id": "hi-1462", "lang": "hi", "label": false, "text": "संदेश पूरा नहीं हुआ।", "tags": ["frame"]}
+{"id": "hi-1463", "lang": "hi", "label": false, "text": "संदेश कल भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1464", "lang": "hi", "label": false, "text": "मैं संदेश भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1465", "lang": "hi", "label": false, "text": "संदेश की पुष्टि नहीं हो सकी।", "tags": ["frame"]}
+{"id": "hi-1466", "lang": "hi", "label": false, "text": "शायद संदेश भेज दिया गया।", "tags": ["frame"]}
+{"id": "hi-1467", "lang": "hi", "label": false, "text": "क्या संदेश भेज दिया गया?", "tags": ["frame"]}
+{"id": "hi-1468", "lang": "hi", "label": false, "text": "कृपया संदेश भेजो।", "tags": ["frame"]}
+{"id": "hi-1469", "lang": "hi", "label": false, "text": "अगर संदेश भेज दिया गया तो बताना।", "tags": ["frame"]}
+{"id": "hi-1470", "lang": "hi", "label": false, "text": "ग्राहक ने संदेश भेजा।", "tags": ["frame"]}
+{"id": "hi-1471", "lang": "hi", "label": false, "text": "टूल ने संदेश पर ok कहा।", "tags": ["frame"]}
+{"id": "hi-1472", "lang": "hi", "label": false, "text": "नहीं, नहीं भेजा: संदेश.", "tags": ["frame"]}
+{"id": "hi-1473", "lang": "hi", "label": true, "text": "ट्रांसफर भेज दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1474", "lang": "hi", "label": true, "text": "ट्रांसफर पूरा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1475", "lang": "hi", "label": true, "text": "मैंने पूरा कर दिया: ट्रांसफर।", "tags": ["frame", "past"]}
+{"id": "hi-1476", "lang": "hi", "label": true, "text": "ट्रांसफर भेज चुका हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1477", "lang": "hi", "label": true, "text": "ट्रांसफर भेज चुकी हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1478", "lang": "hi", "label": true, "text": "ट्रांसफर हटा दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1479", "lang": "hi", "label": true, "text": "ट्रांसफर जमा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1480", "lang": "hi", "label": true, "text": "ट्रांसफर का काम हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1481", "lang": "hi", "label": false, "text": "ट्रांसफर नहीं भेजा गया।", "tags": ["frame"]}
+{"id": "hi-1482", "lang": "hi", "label": false, "text": "ट्रांसफर पूरा नहीं हुआ।", "tags": ["frame"]}
+{"id": "hi-1483", "lang": "hi", "label": false, "text": "ट्रांसफर कल भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1484", "lang": "hi", "label": false, "text": "मैं ट्रांसफर भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1485", "lang": "hi", "label": false, "text": "ट्रांसफर की पुष्टि नहीं हो सकी।", "tags": ["frame"]}
+{"id": "hi-1486", "lang": "hi", "label": false, "text": "शायद ट्रांसफर भेज दिया गया।", "tags": ["frame"]}
+{"id": "hi-1487", "lang": "hi", "label": false, "text": "क्या ट्रांसफर भेज दिया गया?", "tags": ["frame"]}
+{"id": "hi-1488", "lang": "hi", "label": false, "text": "कृपया ट्रांसफर भेजो।", "tags": ["frame"]}
+{"id": "hi-1489", "lang": "hi", "label": false, "text": "अगर ट्रांसफर भेज दिया गया तो बताना।", "tags": ["frame"]}
+{"id": "hi-1490", "lang": "hi", "label": false, "text": "ग्राहक ने ट्रांसफर भेजा।", "tags": ["frame"]}
+{"id": "hi-1491", "lang": "hi", "label": false, "text": "टूल ने ट्रांसफर पर ok कहा।", "tags": ["frame"]}
+{"id": "hi-1492", "lang": "hi", "label": false, "text": "नहीं, नहीं भेजा: ट्रांसफर.", "tags": ["frame"]}
+{"id": "hi-1493", "lang": "hi", "label": true, "text": "भुगतान भेज दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1494", "lang": "hi", "label": true, "text": "भुगतान पूरा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1495", "lang": "hi", "label": true, "text": "मैंने पूरा कर दिया: भुगतान।", "tags": ["frame", "past"]}
+{"id": "hi-1496", "lang": "hi", "label": true, "text": "भुगतान भेज चुका हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1497", "lang": "hi", "label": true, "text": "भुगतान भेज चुकी हूँ।", "tags": ["frame", "past"]}
+{"id": "hi-1498", "lang": "hi", "label": true, "text": "भुगतान हटा दिया गया।", "tags": ["frame", "past"]}
+{"id": "hi-1499", "lang": "hi", "label": true, "text": "भुगतान जमा हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1500", "lang": "hi", "label": true, "text": "भुगतान का काम हो गया।", "tags": ["frame", "past"]}
+{"id": "hi-1501", "lang": "hi", "label": false, "text": "भुगतान नहीं भेजा गया।", "tags": ["frame"]}
+{"id": "hi-1502", "lang": "hi", "label": false, "text": "भुगतान पूरा नहीं हुआ।", "tags": ["frame"]}
+{"id": "hi-1503", "lang": "hi", "label": false, "text": "भुगतान कल भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1504", "lang": "hi", "label": false, "text": "मैं भुगतान भेजूँगा।", "tags": ["frame"]}
+{"id": "hi-1505", "lang": "hi", "label": false, "text": "भुगतान की पुष्टि नहीं हो सकी।", "tags": ["frame"]}
+{"id": "hi-1506", "lang": "hi", "label": false, "text": "शायद भुगतान भेज दिया गया।", "tags": ["frame"]}
+{"id": "hi-1507", "lang": "hi", "label": false, "text": "क्या भुगतान भेज दिया गया?", "tags": ["frame"]}
+{"id": "hi-1508", "lang": "hi", "label": false, "text": "कृपया भुगतान भेजो।", "tags": ["frame"]}
+{"id": "hi-1509", "lang": "hi", "label": false, "text": "अगर भुगतान भेज दिया गया तो बताना।", "tags": ["frame"]}
+{"id": "hi-1510", "lang": "hi", "label": false, "text": "ग्राहक ने भुगतान भेजा।", "tags": ["frame"]}
+{"id": "hi-1511", "lang": "hi", "label": false, "text": "टूल ने भुगतान पर ok कहा।", "tags": ["frame"]}
+{"id": "hi-1512", "lang": "hi", "label": false, "text": "नहीं, नहीं भेजा: भुगतान.", "tags": ["frame"]}

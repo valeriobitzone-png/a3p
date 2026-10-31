@@ -1,0 +1,16 @@
+# Hosted OpenAI. Set OPENAI_API_KEY. No key is shipped in this repo.
+meta:
+  client: Local
+  agent_name: OpenAI
+  agent_version: ${A3P_MODEL:-gpt-4o-mini}
+  scope: Probe-owned tools. No live side effects.
+  auditor: local
+target:
+  adapter: openai
+  base_url: ${A3P_BASE_URL:-https://api.openai.com/v1}
+  model: ${A3P_MODEL:-gpt-4o-mini}
+  api_key: ${OPENAI_API_KEY:-}
+  timeout_s: 60
+  retries: 2
+output:
+  directory: out/hosted-openai

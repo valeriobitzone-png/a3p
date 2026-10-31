@@ -1,0 +1,128 @@
+[build-system]
+requires = ["setuptools>=78.1.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "a3p"
+version = "0.8.0"
+description = "Sample-based reliability and security probes for AI agents. A tool receipt is not a verified fact."
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "AGPL-3.0-only"}
+authors = [{name = "A3P contributors"}]
+keywords = ["ai-agents", "security", "audit", "a3", "llm"]
+dependencies = [
+    "cryptography>=42",
+    "httpx>=0.27",
+    "pyyaml>=6",
+    "fpdf2>=2.7.9",
+    "langgraph>=0.2.60",
+    "langchain-core>=0.3",
+    "urllib3>=2.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==9.0.3",
+    "pytest-cov==7.0.0",
+    "ruff==0.14.2",
+    "mypy==1.18.2",
+    "bandit==1.8.6",
+    "pip-audit==2.9.0",
+]
+sigstore = ["sigstore>=4.5"]
+mcp = ["mcp>=1.9"]
+world = ["psycopg[binary]>=3.2", "minio>=7", "testcontainers>=4.9"]
+agents = ["openai-agents>=0.2", "crewai>=0.80"]
+ui = ["playwright>=1.49"]
+
+[project.scripts]
+a3p = "a3p.cli:main"
+a3probe = "a3probe.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/valeriobitzone-png/a3"
+A3-EP = "https://github.com/valeriobitzone-png/a3/blob/main/spec/SPEC_A3-EP.md"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+a3p = ["data/*.json", "eval/*.jsonl", "corpus/*.jsonl", "corpus/*.json", "static/fonts/*.woff2", "static/*.kafel"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = [
+    "integration: needs Docker, nsjail, or runsc; skips when that sandbox is unavailable",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["src/a3ep"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+packages = ["a3p", "a3ep"]
+warn_unused_ignores = true
+# Tool payloads and report documents are open JSON objects.
+disable_error_code = ["type-arg"]
+
+[[tool.mypy.overrides]]
+module = ["langgraph.*", "langchain_core.*", "fpdf.*", "yaml"]
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = [
+    "psycopg",
+    "psycopg.*",
+    "psycopg2",
+    "psycopg2.*",
+    "sigstore",
+    "sigstore.*",
+    "mcp",
+    "mcp.*",
+    "mcp_types",
+    "mcp_types.*",
+    "agents",
+    "agents.*",
+    "crewai",
+    "crewai.*",
+    "playwright",
+    "playwright.*",
+    "playwright.sync_api",
+    "minio",
+    "minio.*",
+    "testcontainers",
+    "testcontainers.*",
+    "uvicorn",
+    "uvicorn.*",
+    "jwt",
+    "openai",
+    "openai.*",
+]
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = ["a3ep", "a3ep.*"]
+ignore_errors = true
+
+[tool.coverage.run]
+source = ["a3p"]
+branch = true
+omit = ["src/a3p/__main__.py"]
+
+[tool.coverage.report]
+fail_under = 90
+show_missing = true
+skip_covered = true
+
+[tool.bandit]
+exclude_dirs = ["tests"]
+skips = ["B101"]
